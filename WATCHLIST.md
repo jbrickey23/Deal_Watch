@@ -1,8 +1,47 @@
 # Deal_Watch — Fishing Watchlist
 
-This file is the authoritative durable target list for the current fishing watch domain. Exact model numbers take precedence over family-level descriptions when available.
+This file is the authoritative durable target list for the current fishing watch domain.
 
-## Shimano rods
+The watchlist uses two complementary discovery modes:
+1. **specification/quality discovery** — search broadly for rods that fit the preferred characteristics, even when the exact model is not already named;
+2. **specific target discovery** — give extra attention to known brands, model families, and exact SKUs that are already established as desirable targets.
+
+Exact model numbers take precedence over family-level descriptions when identifying and evaluating a listing, but the named-model list is **not** the boundary of the rod search.
+
+## Rod discovery framework
+
+### Preferred brands
+
+Primary rod brands:
+- Shimano
+- Fenwick
+- G. Loomis
+
+Other brands/models may still qualify as opportunistic finds when they closely match the preferred specifications and quality/value criteria.
+
+### Preferred rod specifications
+
+Current broad rod-search criteria:
+- Construction: **2-piece**
+- Length: **6'0"–7'0"**
+- Power: **Medium-Light or Medium**
+- Action: **Fast or Extra Fast**
+
+These specifications are discovery criteria rather than a requirement that every named priority model match every dimension exactly. A compelling premium or discontinued target may still be worth evaluating outside the preferred envelope when the value case is unusually strong.
+
+### Desirable rod qualities
+
+Favor rods with:
+- premium or upper-mid-tier blank construction and components;
+- good sensitivity and relatively light weight for their class;
+- quality guides, reel seat, handle, and ferrule construction;
+- strong reputation or original positioning above commodity-level tackle;
+- discontinued, older, poorly identified, or overlooked models with durable fishing value;
+- unusually strong acquisition value relative to realistic used/new market pricing.
+
+A rod does **not** need to appear on the named-model list to qualify. Surface unfamiliar models when their specifications, construction quality, reputation, and asking price make them credible matches for the current fishing domain.
+
+## Shimano rods — priority targets
 
 ### Expride
 Priority sleeper/value target. Search current and older generations, especially listings with poor identification or unusually low pricing.
@@ -19,7 +58,7 @@ Older/discontinued Shimano target. Pay special attention to unusual lengths/powe
 ### Poison Adrena
 Higher-end/JDM target. Shipping from Japan can erase apparent bargain pricing, so evaluate delivered cost carefully.
 
-## G. Loomis rods
+## G. Loomis rods — priority targets
 
 Search comparable premium Loomis rods when value is compelling, including:
 - GLX
@@ -28,11 +67,13 @@ Search comparable premium Loomis rods when value is compelling, including:
 - NRX
 - related older/discontinued premium Loomis rods
 
+Also search beyond those named families when a G. Loomis rod matches the preferred rod specifications and appears materially undervalued.
+
 Do not assume Shimano-branded rods are rebadged G. Loomis blanks. Treat cross-brand comparison as value/technology context, not identity.
 
-## Fenwick Eagle
+## Fenwick rods — priority targets
 
-### EGLW70ML-FS-2
+### Eagle EGLW70ML-FS-2
 Reference configuration:
 - 7'0"
 - Medium Light
@@ -47,18 +88,13 @@ Deal guidance:
 - Genuinely new examples around ~$75 can be attractive.
 - A used rod near $95 delivered is normally weak when a new Eagle is around $100.
 
-## Fenwick HMG
+### HMG family
 
-Prioritize HMG spinning rods broadly similar to the Eagle reference configuration:
-- roughly 7'0"–7'2"
-- Medium Light
-- Fast
-- preferably 2-piece
-- around 1/8–5/8 oz lure rating
+Prioritize HMG spinning rods broadly similar to the Eagle reference configuration and the general rod-discovery framework.
 
 Important models:
 
-### HMGW72ML-FS-2
+#### HMGW72ML-FS-2
 Current HMG Walleye analogue:
 - 7'2"
 - Medium Light
@@ -72,7 +108,7 @@ Working deal guidance:
 - under $80: strong buy
 - ~$60–70: grab-it territory if blank, guides, ferrule, and model verify clean
 
-### HMG69ML-FS-2
+#### HMG69ML-FS-2
 Older/discontinued target:
 - 6'9"
 - Medium Light
@@ -80,7 +116,7 @@ Older/discontinued target:
 - 2-piece
 - 1/8–5/8 oz
 
-### HMG70ML-FS
+#### HMG70ML-FS
 Older/discontinued target:
 - 7'0"
 - Medium Light
@@ -89,6 +125,16 @@ Older/discontinued target:
 - 1/8–5/8 oz
 
 Also search older HMG Carbon Veil and similar discontinued HMG models when configuration and price fit the current fishing domain.
+
+## Opportunistic rod finds
+
+Surface rods outside the named-model list when they:
+- closely fit the preferred specifications;
+- are from a preferred brand or are credibly comparable in quality;
+- appear to occupy a higher quality tier than the seller's description or price suggests; and
+- offer unusually strong value after condition, verification confidence, shipping, and transaction risk are considered.
+
+This category is intentional: named models are priority targets and examples, not an exhaustive whitelist.
 
 ## Shimano Stradic FM reels
 
@@ -120,9 +166,10 @@ Working benchmark:
 ### Rods
 Inspect or flag:
 - exact model markings
+- piece count and ferrule fit
+- length, power, and action markings
 - blank damage or repairs
 - guide inserts and frames
-- ferrules on multi-piece rods
 - reel seat
 - altered handles
 - mismatched model/description
