@@ -4,6 +4,46 @@ This is the durable ledger for notable listings and market observations in the c
 
 Newest observations first.
 
+
+## 2026-09-13 — Second specification-driven search run
+
+**Run result:** No new actionable listing met the notification threshold. Named targets and specification-driven candidates were searched across the public/indexed portions of the source set.
+
+### Shimano Stradic FM ST2500HGFM — TackleAnglers indexed offer
+**Status:** REJECTED / HIGH TRANSACTION RISK  
+**Indexed price:** $63.75, purportedly reduced from $254.99  
+**Exact model confidence:** High from the indexed product title; live inventory and fulfillment unverified  
+**Deal Score:** Not scored as an actionable acquisition
+
+Assessment: the indexed price is roughly 75% below the normal $254.99 retail benchmark and would be exceptional if legitimate, but the storefront returned HTTP 403 during validation and no independent evidence established current stock, seller reliability, authorized-dealer status, shipping, or buyer protection. Do not treat this as a deal alert without direct verification of the merchant and checkout protections.
+
+### Current-market reel benchmarks
+- ST2500HGFM: multiple established U.S. retailers and an eBay dealer were observed at $254.99, reinforcing that the $63.75 indexed result is an extreme outlier rather than an ordinary promotion.
+- ST1000HGFM: established retail observations remained around $234.99. An overseas listing at €159.79 was observed, but international delivery cost, warranty, and import risk were not established; it did not clear the actionable threshold.
+
+### Other observations
+- Facebook Marketplace public indexing exposed a G. Loomis IMX-Pro bladed-jig rod at $300, but the page was login/temporary-block limited and the rod did not match the current Medium-Light/Medium specification profile closely enough to pursue.
+- EstateSales.net exposed a future fishing-tackle sale containing Loomis and Shimano items, but exact models, condition, individual prices, and actionable purchase details were unavailable.
+- American Legacy Fishing / The Rod Locker exposed active used inventory categories, including G. Loomis and Poison Adrena, but the public result did not establish a qualifying configuration at bargain pricing.
+- Retail checks reconfirmed Fenwick Eagle EGLW70ML-FS-2 near $99.95–$99.99 and Fenwick HMG HMGW72ML-FS-2 near $179.95. These remain benchmarks rather than alerts.
+
+### Source coverage — this run
+
+Coverage reflects public web/domain-indexed access, not exhaustive authenticated marketplace inventory.
+
+- eBay — SEARCHED; indexed listings and current price results inspected.
+- Craigslist — SEARCHED; public indexed search attempted, no worthwhile current result surfaced.
+- OfferUp — SEARCHED; public indexed search attempted, no worthwhile current result surfaced.
+- Mercari — SEARCHED; public indexed search attempted, no worthwhile current result surfaced.
+- EstateSales.net — SEARCHED; one broad sale result surfaced, but insufficient item-level detail.
+- Facebook Marketplace — INACCESSIBLE; limited indexed result surfaced, but meaningful inventory inspection was blocked.
+- GoodwillFinds — SEARCHED; public indexed search attempted, no worthwhile result surfaced.
+- ShopGoodwill — SEARCHED; public indexed search attempted, no worthwhile result surfaced.
+- American Legacy Fishing / The Rod Locker — SEARCHED; used inventory page inspected, no verified bargain surfaced.
+- Manufacturer/retailer sources — SEARCHED for verification and current benchmarks, not marketplace discovery.
+- Independent tackle/pawn/liquidation broader web — SEARCHED on a limited indexed basis; one extreme-price storefront result was rejected for verification and transaction-risk reasons.
+
+
 ## 2026-09-13 — First specification-driven search run
 
 **Run result:** No new actionable listing met the notification threshold. The reorganized rod search did successfully surface models/configurations from their specifications rather than relying only on the pre-existing named-model list.
