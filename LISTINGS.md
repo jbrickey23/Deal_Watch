@@ -4,6 +4,62 @@ This is the durable ledger for notable listings and market observations in the c
 
 Newest observations first.
 
+## 2026-09-13 — First specification-driven search run
+
+**Run result:** No new actionable listing met the notification threshold. The reorganized rod search did successfully surface models/configurations from their specifications rather than relying only on the pre-existing named-model list.
+
+### Fenwick Eagle Walleye specification family — FishUSA retail verification
+**Status:** BENCHMARK / specification-discovery validation  
+**Price:** $99.99 new at observation  
+
+Matching 2-piece configurations discovered/verified within the broad preferred envelope included:
+- `EGLW63ML-XFS-2` — 6'3", Medium Light, Extra Fast, 2-piece
+- `EGLW66M-FS-2` — 6'6", Medium, Fast, 2-piece
+- `EGLW69ML-XFS-2` — 6'9", Medium Light, Extra Fast, 2-piece
+- `EGLW70ML-FS-2` — 7'0", Medium Light, Fast, 2-piece
+- `EGLW70M-XFS-2` — 7'0", Medium, Extra Fast, 2-piece
+
+Assessment: these are not bargain alerts at roughly $100 new, but they validate the new specification-driven discovery approach and provide useful new-price anchors for used listings.
+
+### Fenwick Eagle EGLB66M-XFS-2 — Tackle Warehouse retail verification
+**Status:** BENCHMARK / newly surfaced configuration  
+**Price:** $99.95 new at observation  
+**Configuration:** 6'6", Medium, Extra Fast, 2-piece  
+
+Assessment: exact match to the broad preferred construction/length/power/action envelope. Useful baseline; ordinary used examples need a meaningful discount from ~$100 new to become interesting.
+
+### Shimano 2026 Zodias 268ML-2 — eBay retail/import listing
+**Status:** OBSERVED / specific-target benchmark  
+**Price:** $224.34 new at observation  
+**Configuration verified from listing:** 6'8", Medium Light, 2-piece; action not independently established during this run  
+
+Assessment: fits most broad physical criteria and the Zodias priority family, but observed new price is not a bargain signal. Preserve as a current-market reference only.
+
+### Shimano Zodias 164L-BFS/2 — eBay
+**Status:** REJECTED / out-of-envelope  
+**Price:** $173.84 used, free shipping at observation  
+
+Assessment: active used two-piece Zodias listing, but Light power is outside the current Medium-Light/Medium preferred search envelope and the price does not create an exceptional-value reason to override that preference.
+
+### Source coverage — this run
+
+Coverage reflects what was actually queryable through public web indexing/search in this ChatGPT run; it does not imply authenticated/native marketplace access.
+
+- eBay — `SEARCHED`; multiple current/indexed listings and category results inspected.
+- Craigslist — `SEARCHED`; public indexed search attempted, no worthwhile result surfaced.
+- OfferUp — `SEARCHED`; public indexed search attempted, no worthwhile result surfaced.
+- Mercari — `SEARCHED`; public indexed search attempted, no worthwhile result surfaced.
+- EstateSales.net — `SEARCHED`; public indexed search attempted, no worthwhile result surfaced.
+- Facebook Marketplace — `INACCESSIBLE`; public search did not provide meaningful marketplace inventory access.
+- GoodwillFinds — `SEARCHED`; public indexed search attempted, no worthwhile result surfaced.
+- ShopGoodwill — `SEARCHED`; public indexed search attempted, no worthwhile result surfaced.
+- American Legacy Fishing — `SEARCHED`; public indexed search attempted, no worthwhile result surfaced.
+- Tackle Warehouse — `SEARCHED` for retail/specification verification, not counted as marketplace discovery.
+- FishUSA — `SEARCHED` for retail/specification verification, not counted as marketplace discovery.
+- Independent tackle/pawn/liquidation broader web — `NOT SEARCHED` systematically in this run.
+
+Operational note: this run demonstrates that broad web/domain-indexed searching can validate several sources, but `SEARCHED` via public indexing is not equivalent to exhaustive native-site inventory coverage. Future runs should continue testing source reliability under `FDW-TODO-001`.
+
 ## 2026-09-13 — Initialization reconciliation
 
 ### Fenwick HMG70ML-FS — eBay
