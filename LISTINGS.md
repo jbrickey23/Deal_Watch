@@ -5,6 +5,202 @@ This is the durable ledger for notable listings and market observations in the c
 Newest observations first.
 
 
+## 2026-09-13 — Authenticated Facebook Marketplace full-link run
+
+**Run result:** Facebook Marketplace was unlocked through authenticated browser access and searched natively from the top of the current Deal_Watch fishing target set. No listing was verified deeply enough to create a confirmed buy alert, but several candidate listings now have stable, full clickable item URLs for follow-up.
+
+**Marketplace scope verified:** Ames Lake / Redmond 98053 area, within 500 miles. Facebook represented the chosen ZIP as Ames Lake after applying the Redmond, WA 98053 location result. Search URLs used `radius=804` kilometers, equivalent to roughly 500 miles.
+
+### Most relevant follow-up candidates
+
+#### Shimano Expride Fishing Rod — Facebook Marketplace
+**Status:** NEEDS DEEP INSPECTION  
+**Observed price:** $200  
+**Observed location:** Wenatchee, WA  
+**Listing ID:** `3758815807603968`  
+**Link:** [Shimano Expride Fishing Rod — $200 — Wenatchee, WA](https://www.facebook.com/marketplace/item/3758815807603968/)
+
+Assessment: potentially relevant because Expride is a priority Shimano rod family and $200 can be interesting depending on exact model, power/action, piece count, condition, and whether the rod is spinning or casting. Must inspect photos/model markings before scoring.
+
+#### Shimano Expride Spinning Freshwater/Bass — Facebook Marketplace partner listing
+**Status:** OBSERVED / likely benchmark or commercial listing  
+**Observed price:** $181.78  
+**Observed location:** Citrus Heights, CA  
+**Listing ID:** `28607742822162769`  
+**Link:** [Shimano Expride Spinning Freshwater/Bass — $181.78 — Citrus Heights, CA](https://www.facebook.com/marketplace/item/28607742822162769/)
+
+Assessment: title says spinning and price is attractive relative to normal new Expride pricing, but partner/commercial listings need careful verification for exact SKU, shipping, returns, and legitimacy before treating as a deal.
+
+#### Shimano Poison Adrena — Facebook Marketplace
+**Status:** NEEDS DEEP INSPECTION  
+**Observed price:** $225  
+**Listing ID:** `3971958109712248`  
+**Link:** [Shimano Adrena Poison — $225](https://www.facebook.com/marketplace/item/3971958109712248/)
+
+Assessment: a $225 Poison Adrena can be compelling if the model, power/action, and condition fit. The listing title is sparse and needs photo/model verification.
+
+#### Dobyns Champion XP / Fury / Poison Adrena / Carbon Lite lot — Facebook Marketplace
+**Status:** NEEDS DEEP INSPECTION / possible lot-value opportunity  
+**Observed price:** $123  
+**Observed location:** North Bend, WA  
+**Listing ID:** `2034853987096200`  
+**Link:** [Dobyns Champion XP/Fury, Poison Adrena, Carbon Lite — $123 — North Bend, WA](https://www.facebook.com/marketplace/item/2034853987096200/)
+
+Assessment: low headline price and mention of Poison Adrena make this worth checking. Needs confirmation of whether the Adrena is included, exact model, condition, and whether `$123` is a placeholder or actual per-item/lot price.
+
+#### Poison Adrena — Facebook Marketplace
+**Status:** OBSERVED / needs model verification  
+**Observed price:** $300  
+**Observed location:** Maple Valley, WA  
+**Listing ID:** `1709248783347512`  
+**Link:** [Poison Adrena — $300 — Maple Valley, WA](https://www.facebook.com/marketplace/item/1709248783347512/)
+
+Assessment: relevant priority family, but price is less obviously compelling than the $225/sparse-title listing without exact model and condition details.
+
+#### G-Loomis IMX-Pro — Facebook Marketplace
+**Status:** NEEDS DEEP INSPECTION  
+**Observed price:** $300  
+**Observed location:** Milton, WA  
+**Listing ID:** `28353506527577686`  
+**Link:** [G-Loomis IMX-Pro — $300 — Milton, WA](https://www.facebook.com/marketplace/item/28353506527577686/)
+
+Assessment: priority Loomis family. Needs exact model and power/action verification; previous public-index observation suggested an IMX-Pro bladed-jig rod may not align closely with the current Medium-Light/Medium spinning-style specification preference.
+
+#### G. Loomis IMX fishing rod with Shimano 3000 reel combo — Facebook Marketplace
+**Status:** OBSERVED / high-price combo  
+**Observed price:** $475, reduced from $625  
+**Observed location:** Duvall, WA  
+**Listing ID:** `1005698978992242`  
+**Link:** [G. Loomis IMX rod with Shimano 3000 reel combo — $475 — Duvall, WA](https://www.facebook.com/marketplace/item/1005698978992242/)
+
+Assessment: useful because it is local-ish and combines a priority Loomis family with a Shimano reel, but the asking price is high enough that exact model, reel identity, condition, and market comps matter before any deal score.
+
+#### G Loomis rod — Facebook Marketplace
+**Status:** NEEDS DEEP INSPECTION / under-described candidate  
+**Observed price:** $220  
+**Observed location:** Puyallup, WA  
+**Listing ID:** `760904763726398`  
+**Link:** [G Loomis Rod — $220 — Puyallup, WA](https://www.facebook.com/marketplace/item/760904763726398/)
+
+Assessment: under-described Loomis listings can be worthwhile if the photos reveal a higher-tier model. Needs exact model markings and specs.
+
+#### GL LOOMIS Rod — Facebook Marketplace
+**Status:** NEEDS DEEP INSPECTION / under-described candidate  
+**Observed price:** $200  
+**Observed location:** Thorp, WA  
+**Listing ID:** `1112681091277695`  
+**Link:** [GL LOOMIS Rod — $200 — Thorp, WA](https://www.facebook.com/marketplace/item/1112681091277695/)
+
+Assessment: another under-described Loomis listing. Potential depends entirely on exact model/condition.
+
+#### Gloomis GLX STR-1141S — Facebook Marketplace
+**Status:** OBSERVED / likely out-of-envelope by length/application  
+**Observed price:** $425  
+**Observed location:** Tacoma, WA  
+**Listing ID:** `1606549181096926`  
+**Link:** [Gloomis GLX STR-1141S — $425 — Tacoma, WA](https://www.facebook.com/marketplace/item/1606549181096926/)
+
+Assessment: GLX is a priority family, but STR-1141S is likely a long steelhead/salmon-style rod rather than the preferred 6'5"–7'2" Medium-Light/Medium fast bass/walleye-style envelope. Preserve as a benchmark/follow-up only.
+
+#### Lamiglas MBS with Shimano Stradic 2500 reel — Facebook Marketplace
+**Status:** NEEDS DEEP INSPECTION / combo-value candidate  
+**Observed price:** $150  
+**Observed location:** Sultan, WA  
+**Listing ID:** `1586610099786677`  
+**Link:** [Lamiglas MBS with Shimano Stradic 2500 reel — $150 — Sultan, WA](https://www.facebook.com/marketplace/item/1586610099786677/)
+
+Assessment: potentially interesting if the reel condition is good and the Lamiglas model is useful, but this is not the current exact Stradic FM target and the rod is outside named priority brands. Check reel generation, spool/bail/handle condition, saltwater exposure, and rod specs.
+
+#### Shimano Stradic 2500 — Facebook Marketplace
+**Status:** OBSERVED / likely not a deal at current price  
+**Observed price:** $255  
+**Listing ID:** `1583150476543817`  
+**Link:** [Shimano Stradic 2500 — $255](https://www.facebook.com/marketplace/item/1583150476543817/)
+
+Assessment: at roughly current new ST2500HGFM retail, this is weak unless it is a higher-value variant or includes meaningful extras. Keep as a Marketplace benchmark.
+
+#### Shimano ST2500HGFM Stradic FM spinning reel — Facebook Marketplace partner listing
+**Status:** BENCHMARK / not a deal  
+**Observed price:** $254.99  
+**Observed location:** Citrus Heights, CA  
+**Listing ID:** `28062553706663974`  
+**Link:** [Shimano ST2500HGFM Stradic FM spinning reel — $254.99 — Citrus Heights, CA](https://www.facebook.com/marketplace/item/28062553706663974/)
+
+Assessment: exact target SKU but ordinary retail-level price. Useful benchmark only.
+
+#### Shimano Stradic 2500 — Facebook Marketplace
+**Status:** OBSERVED / possibly negotiable benchmark  
+**Observed price:** $220  
+**Listing ID:** `2101112120755171`  
+**Link:** [Shimano Stradic 2500 — $220](https://www.facebook.com/marketplace/item/2101112120755171/)
+
+Assessment: could be mildly interesting if it is a clean recent-generation FM and local pickup avoids shipping/tax, but it is not obviously a strong deal relative to prior ~$200 new benchmark. Needs exact SKU and condition.
+
+#### Vintage Shimano Aero Stradic 1000 — Facebook Marketplace
+**Status:** OBSERVED / vintage-not-current-target  
+**Observed price:** $75  
+**Observed location:** Citrus Heights, CA  
+**Listing ID:** `28468304926190084`  
+**Link:** [Vintage Shimano Aero Stradic 1000 — $75 — Citrus Heights, CA](https://www.facebook.com/marketplace/item/28468304926190084/)
+
+Assessment: not the current ST1000HGFM target, but preserved as a low-priced vintage Stradic observation.
+
+#### Shimano Stradic 1000FH manual / tackle box lot — Facebook Marketplace
+**Status:** OBSERVED / ambiguous listing  
+**Observed price:** $25, reduced from $45  
+**Listing ID:** `2547797862390517`  
+**Link:** [Shimano Stradic 1000FH reel manual and tackle box lot — $25](https://www.facebook.com/marketplace/item/2547797862390517/)
+
+Assessment: title may indicate a manual and tackle box rather than an actual reel. Needs inspection before interpreting as a reel listing.
+
+#### Fenwick HMG 6'6" casting rod — Facebook Marketplace
+**Status:** OBSERVED / possible spec mismatch  
+**Observed price:** $80  
+**Observed location:** Quincy, WA  
+**Listing ID:** `1431301945541448`  
+**Link:** [Fenwick HMG 6'6" casting fishing rod — $80 — Quincy, WA](https://www.facebook.com/marketplace/item/1431301945541448/)
+
+Assessment: HMG and $80 are potentially relevant, but it is listed as casting and needs exact power/action/piece-count verification. The current framework permits casting rods only if specs/value fit, but spinning-style Medium-Light/Medium fast candidates remain more aligned.
+
+#### Fenwick HMX76L-MFS-2 — Facebook Marketplace
+**Status:** REJECTED / out-of-envelope power and length  
+**Observed price:** $90, reduced from $120  
+**Observed location:** Seattle, WA  
+**Listing ID:** `1940179096639145`  
+**Link:** [Fenwick HMX76L-MFS-2 — $90 — Seattle, WA](https://www.facebook.com/marketplace/item/1940179096639145/)
+
+Assessment: the title exposes useful specs, but it is Light power and 7'6", outside the current required Medium-Light/Medium power and preferred 6'5"–7'2" length envelope.
+
+#### Pflueger reels with Fenwick Eagle rod — Facebook Marketplace
+**Status:** OBSERVED / combo needs rod verification  
+**Observed price:** $100  
+**Observed location:** Poulsbo, WA  
+**Listing ID:** `4606743962896883`  
+**Link:** [Pflueger reels with Fenwick Eagle rod — $100 — Poulsbo, WA](https://www.facebook.com/marketplace/item/4606743962896883/)
+
+Assessment: possible value if the Eagle rod is a relevant Medium-Light/Medium fast configuration, but the included reels are not target reels and the exact Eagle model is not visible from search result text.
+
+### Other Marketplace observations from this run
+
+- [Shimano Vanford 2500 HG — $250 — Federal Way, WA](https://www.facebook.com/marketplace/item/1065520092763708/) — adjacent reel family, not a Stradic FM target.
+- [(Damaged) Shimano Stradic 3000 — $50/$150 — Snohomish, WA](https://www.facebook.com/marketplace/item/758541703852697/) — damaged and off-size; not actionable without repair details.
+- [Shimano Stradic 2500FI — $160](https://www.facebook.com/marketplace/item/926324240023105/) — older-generation Stradic; may be fair, not current FM target.
+- [Shimano Stradic 2500FI — $179.99 — Citrus Heights, CA](https://www.facebook.com/marketplace/item/27340160362328781/) — older-generation/partner-style benchmark.
+- [Shimano Zodias 5-piece travel casting rod — $299.99 — Citrus Heights, CA](https://www.facebook.com/marketplace/item/27286349524329639/) — Zodias family but casting/travel and not obviously a bargain.
+- [Shimano Crucial CU-70MLA broken-tip casting rod — $51.99/$64.99 — Citrus Heights, CA](https://www.facebook.com/marketplace/item/37511974121750728/) — broken tip; reject unless repair project is explicitly desired.
+- [G. Loomis NRX+ Inshore 842S spinning rod — $655 — Citrus Heights, CA](https://www.facebook.com/marketplace/item/26646782648328409/) — exact premium family but price appears retail/benchmark, not a bargain.
+
+### Source coverage — this run
+
+- Facebook Marketplace — SEARCHED AUTHENTICATED; native results inspected for current target terms; stable full item URLs recorded above.
+- eBay — SEARCHED via public web/indexed results; current Expride and Stradic benchmark results observed, no stronger public bargain surfaced than Marketplace candidates.
+- Craigslist — SEARCHED via public web/indexed results; one Shimano Solstace result surfaced but did not match current targets.
+- OfferUp — SEARCHED via public web/indexed results; no stronger public target surfaced during this compact pass.
+- Other previously configured public sources — not exhaustively revalidated in this quick full-link correction pass; prior source-status notes remain in earlier runs.
+
+Operational note: future entries should store full stable item URLs, not only marketplace-relative hrefs. For Facebook Marketplace, prefer `https://www.facebook.com/marketplace/item/<listing_id>/` plus the listing ID and search scope used.
+
+
 ## 2026-09-13 — Second specification-driven search run
 
 **Run result:** No new actionable listing met the notification threshold. Named targets and specification-driven candidates were searched across the public/indexed portions of the source set.
