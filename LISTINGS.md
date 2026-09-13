@@ -1,6 +1,6 @@
-# Fishing Deal Watch — Listing History
+# Deal_Watch — Fishing Listing History
 
-This is the durable ledger for notable listings and market observations. It is not intended to contain every search result; preserve items that matter for future comparison, status tracking, or deal-rule calibration.
+This is the durable ledger for notable listings and market observations in the current fishing watch domain. It is not intended to contain every search result; preserve items that matter for future comparison, status tracking, or deal-rule calibration.
 
 Newest observations first.
 
