@@ -141,9 +141,9 @@ Older/discontinued target/reference:
 - 1-piece
 - 1/8–5/8 oz
 
-Because it is 1-piece, `HMG70ML-FS` does not satisfy the current REQUIRED construction property for specification-driven discovery. Preserve it as a named historical/reference target rather than treating it as evidence that 1-piece construction broadly qualifies.
+Because 2-piece construction is currently PREFERRED rather than REQUIRED, `HMG70ML-FS` remains eligible for discovery/evaluation despite being 1-piece; its construction simply ranks below an otherwise comparable 2-piece candidate.
 
-Also search older HMG Carbon Veil and similar discontinued HMG models when configuration and price fit the current fishing domain and applicable hard rules.
+Also search older HMG Carbon Veil and similar discontinued HMG models when configuration and price fit the current fishing domain and applicable watch-property levels.
 
 ## Opportunistic rod finds
 
