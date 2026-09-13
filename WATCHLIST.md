@@ -1,6 +1,6 @@
-# Fishing Deal Watch — Watchlist
+# Deal_Watch — Fishing Watchlist
 
-This file is the authoritative durable target list. Exact model numbers take precedence over family-level descriptions when available.
+This file is the authoritative durable target list for the current fishing watch domain. Exact model numbers take precedence over family-level descriptions when available.
 
 ## Shimano rods
 
@@ -88,7 +88,7 @@ Older/discontinued target:
 - 1-piece
 - 1/8–5/8 oz
 
-Also search older HMG Carbon Veil and similar discontinued HMG models when configuration and price fit the project.
+Also search older HMG Carbon Veil and similar discontinued HMG models when configuration and price fit the current fishing domain.
 
 ## Shimano Stradic FM reels
 
