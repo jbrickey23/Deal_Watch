@@ -4,6 +4,19 @@ Newest decisions first. Record durable decisions, not every discussion.
 
 Legacy `FDW-*` IDs remain stable historical identifiers. New decision IDs use the `DW-*` prefix.
 
+## DW-DEC-009 — Watch properties use REQUIRED, PREFERRED, and EXCLUDE levels
+**Date:** 2026-09-13  
+**Status:** Current
+
+Watchlist properties may be assigned one of three behavioral levels:
+- `REQUIRED` — must be satisfied for specification-driven discovery unless a named priority target explicitly documents an exception;
+- `PREFERRED` — improves relevance/ranking but is not mandatory;
+- `EXCLUDE` — hard rejection when the property is verified.
+
+If a material REQUIRED or EXCLUDE property cannot be established from the listing, record it as `UNVERIFIED` rather than assuming eligibility. A potentially strong listing may be surfaced specifically because verification is needed.
+
+This structure lets the watch evolve from broad discovery into precise filtering without forcing every useful preference to become a hard rule.
+
 ## DW-DEC-008 — Rod discovery uses specifications plus named priority targets
 **Date:** 2026-09-13  
 **Status:** Current
@@ -14,15 +27,9 @@ Rod discovery must not be limited to an exhaustive list of known model names. Or
 - named high-priority model families/exact models;
 - opportunistic comparable finds.
 
-Current broad rod specifications are:
-- 2-piece construction;
-- 6'0"–7'0" length;
-- Medium-Light or Medium power;
-- Fast or Extra Fast action.
+Current rod properties are maintained authoritatively in `WATCHLIST.md` using the REQUIRED/PREFERRED/EXCLUDE semantics established by `DW-DEC-009`.
 
-Preferred brands currently include Shimano, Fenwick, and G. Loomis. Named models remain priority targets and useful value anchors, but unfamiliar rods that credibly match the preferred specification/quality profile and present unusually strong value should also be surfaced.
-
-The broad specifications guide discovery rather than acting as absolute exclusions for already-established premium targets; an unusually compelling target outside the envelope may still be evaluated.
+Preferred brands currently include Shimano, Fenwick, and G. Loomis. Named models remain priority targets and useful value anchors, but unfamiliar rods that credibly match the watch-property profile and present unusually strong value should also be surfaced.
 
 ## DW-DEC-007 — Canonical naming consistency
 **Date:** 2026-09-13  
