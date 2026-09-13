@@ -1,6 +1,6 @@
-# Fishing Deal Watch — Sources
+# Deal_Watch — Fishing Sources
 
-This file defines the source checklist and reporting expectations. Source accessibility can change; preserve observed status rather than assuming permanent access.
+This file defines the source checklist and reporting expectations for the current fishing watch domain. Source accessibility can change; preserve observed status rather than assuming permanent access.
 
 ## Primary discovery sources
 
@@ -74,4 +74,4 @@ As of initialization on 2026-09-13:
 - Facebook Marketplace: known access limitation in prior discussion; treat as unverified/inaccessible until a run proves otherwise.
 - Craigslist, OfferUp, Mercari, EstateSales, Goodwill sources, pawn shops, and independent tackle shops: included in the desired search universe but not yet consistently validated in the durable workflow.
 
-`FDW-TODO-001` owns systematic validation of this matrix.
+`FDW-TODO-001` owns systematic validation of this matrix; the legacy ID is intentionally preserved.
