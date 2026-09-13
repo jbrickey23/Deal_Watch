@@ -1,6 +1,6 @@
-# Fishing Deal Watch — Deal Rules
+# Deal_Watch — Fishing Deal Rules
 
-This file defines how listings are evaluated and reported.
+This file defines how listings in the current fishing watch domain are evaluated and reported.
 
 ## Deal Score
 
@@ -89,7 +89,7 @@ For worthwhile listings, report:
 
 ## Notification threshold
 
-The daily condition watch should notify only for worthwhile **new** or **meaningfully changed** listings.
+The fishing-domain condition watch should notify only for worthwhile **new** or **meaningfully changed** listings.
 
 Meaningful changes include:
 - new listing
@@ -123,4 +123,4 @@ Reference MSRP/direct: about $254.99.
 - around $200 new has previously benchmarked around 8.5/10
 - seek meaningfully better pricing or unusual value
 
-These thresholds are provisional and should evolve from observed market evidence under `FDW-TODO-004`.
+These thresholds are provisional and should evolve from observed market evidence under legacy task `FDW-TODO-004`.
