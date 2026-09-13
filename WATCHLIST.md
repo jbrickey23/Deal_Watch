@@ -34,12 +34,12 @@ Other brands/models may still qualify as opportunistic finds when they satisfy t
 Current specification-driven search properties:
 
 #### REQUIRED
-- Construction: **2-piece**
 - Power: **Medium-Light or Medium**
 - Action: **Fast or Extra Fast**
 
 #### PREFERRED
-- Length: **6'0"–7'0"**
+- Length: **6'5"–7'2"**
+- Construction: **2-piece**
 
 #### EXCLUDE
 - None currently defined.
