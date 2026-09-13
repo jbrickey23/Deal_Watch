@@ -31,17 +31,34 @@ Primary goals:
 
 ## Current watch domain — Fishing
 
-### Shimano rods
+### Rod discovery framework
+
+Rod discovery is specification-driven as well as model-driven. Named targets receive priority, but they are not an exhaustive whitelist.
+
+Preferred rod brands:
+- Shimano
+- Fenwick
+- G. Loomis
+
+Current preferred rod specifications:
+- 2-piece construction
+- 6'0"–7'0" length
+- Medium-Light or Medium power
+- Fast or Extra Fast action
+
+Searches should also surface unfamiliar or unlisted models when they credibly match the preferred specification/quality profile and offer unusually strong value. The broad specifications guide discovery rather than absolutely excluding an already-established premium target that falls slightly outside the envelope.
+
+### Shimano rods — named priority targets
 - Expride
 - Zodias
 - Cumara
 - Crucial
 - Poison Adrena
 
-### G. Loomis rods
-Comparable premium Loomis rods are in scope, including GLX, IMX, IMX-Pro, NRX and related models when value is compelling.
+### G. Loomis rods — named priority targets
+Comparable premium Loomis rods are in scope, including GLX, IMX, IMX-Pro, NRX and related models when value is compelling. Also search beyond those named families when specifications, quality, and value fit.
 
-### Fenwick rods
+### Fenwick rods — named priority targets
 - Eagle `EGLW70ML-FS-2`
 - HMG-family rods near the Eagle reference configuration, especially:
   - `HMGW72ML-FS-2`
@@ -60,6 +77,7 @@ See `WATCHLIST.md` for authoritative target details.
 - Maintain naming consistency: canonical project name is `Deal_Watch`; descriptive domain labels must not silently become project names.
 - Use `Fishing` as the current watch-domain label, not as the canonical project name.
 - Preserve existing `FDW-*` task and decision IDs as stable historical identifiers. New durable IDs use the `DW-*` prefix.
+- Rod searches must combine preferred specifications/qualities with named priority targets rather than treating named models as an exhaustive whitelist.
 - Delivered price matters more than headline price.
 - Exact model/SKU should be verified where possible.
 - A mislabeled listing may be more interesting, not less, if photos indicate a better item than the seller realizes.
@@ -80,7 +98,7 @@ These are working benchmarks, not permanent truths. Re-verify current manufactur
 
 ## Current automation state
 
-A daily condition-watch automation named `Deal Watch — Fishing` is enabled for the fishing domain. Its prompt preserves the current target set and explicitly identifies `Deal_Watch` / `JBrickey23/Deal_Watch` as the canonical project and repository.
+A daily condition-watch automation named `Deal Watch — Fishing` is enabled for the fishing domain. It is an execution mechanism; the repository's current `WATCHLIST.md`, rules, and durable decisions are authoritative when execution wording and repository state differ.
 
 ## Open issues
 
@@ -89,7 +107,7 @@ A daily condition-watch automation named `Deal Watch — Fishing` is enabled for
 
 ## Immediate continuation point
 
-Run the next fishing-domain Deal_Watch search using `WATCHLIST.md`, `SOURCES.md`, and `DEAL_RULES.md` as authoritative instructions. Record notable findings and source coverage in `LISTINGS.md`, then reconcile any durable rule or watchlist changes.
+Run the next fishing-domain Deal_Watch search using `WATCHLIST.md`, `SOURCES.md`, and `DEAL_RULES.md` as authoritative instructions. For rods, search both the named priority targets and the broader preferred specification/quality profile. Record notable findings and source coverage in `LISTINGS.md`, then reconcile any durable rule or watchlist changes.
 
 ## Restore order for a new chat
 
