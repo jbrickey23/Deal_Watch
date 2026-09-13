@@ -4,6 +4,26 @@ Newest decisions first. Record durable decisions, not every discussion.
 
 Legacy `FDW-*` IDs remain stable historical identifiers. New decision IDs use the `DW-*` prefix.
 
+## DW-DEC-008 — Rod discovery uses specifications plus named priority targets
+**Date:** 2026-09-13  
+**Status:** Current
+
+Rod discovery must not be limited to an exhaustive list of known model names. Organize the fishing-domain rod watch as a layered search:
+- preferred brands;
+- broad preferred specifications and qualities;
+- named high-priority model families/exact models;
+- opportunistic comparable finds.
+
+Current broad rod specifications are:
+- 2-piece construction;
+- 6'0"–7'0" length;
+- Medium-Light or Medium power;
+- Fast or Extra Fast action.
+
+Preferred brands currently include Shimano, Fenwick, and G. Loomis. Named models remain priority targets and useful value anchors, but unfamiliar rods that credibly match the preferred specification/quality profile and present unusually strong value should also be surfaced.
+
+The broad specifications guide discovery rather than acting as absolute exclusions for already-established premium targets; an unusually compelling target outside the envelope may still be evaluated.
+
 ## DW-DEC-007 — Canonical naming consistency
 **Date:** 2026-09-13  
 **Status:** Current
