@@ -33,20 +33,27 @@ Primary goals:
 
 ### Rod discovery framework
 
-Rod discovery is specification-driven as well as model-driven. Named targets receive priority, but they are not an exhaustive whitelist.
+Rod discovery is specification-driven as well as model-driven. Named targets receive priority, but they are not an exhaustive whitelist. `WATCHLIST.md` assigns properties behavioral levels (`REQUIRED`, `PREFERRED`, and `EXCLUDE`) and is authoritative for their current values.
 
 Preferred rod brands:
 - Shimano
 - Fenwick
 - G. Loomis
 
-Current preferred rod specifications:
-- 2-piece construction
-- 6'0"–7'0" length
+Current rod-property summary:
+
+**REQUIRED**
 - Medium-Light or Medium power
 - Fast or Extra Fast action
 
-Searches should also surface unfamiliar or unlisted models when they credibly match the preferred specification/quality profile and offer unusually strong value. The broad specifications guide discovery rather than absolutely excluding an already-established premium target that falls slightly outside the envelope.
+**PREFERRED**
+- 6'5"–7'2" length
+- 2-piece construction
+
+**EXCLUDE**
+- None currently defined
+
+Searches should also surface unfamiliar or unlisted models when they satisfy required properties, avoid exclusions, credibly match the preferred specification/quality profile, and offer unusually strong value. Preferred properties improve relevance but do not act as hard exclusions.
 
 ### Shimano rods — named priority targets
 - Expride
@@ -77,7 +84,8 @@ See `WATCHLIST.md` for authoritative target details.
 - Maintain naming consistency: canonical project name is `Deal_Watch`; descriptive domain labels must not silently become project names.
 - Use `Fishing` as the current watch-domain label, not as the canonical project name.
 - Preserve existing `FDW-*` task and decision IDs as stable historical identifiers. New durable IDs use the `DW-*` prefix.
-- Rod searches must combine preferred specifications/qualities with named priority targets rather than treating named models as an exhaustive whitelist.
+- Rod searches must combine current watch-property levels and preferred qualities with named priority targets rather than treating named models as an exhaustive whitelist.
+- `WATCHLIST.md` is authoritative for current property assignments; context and decision records should describe semantics without overriding newer watchlist values.
 - Delivered price matters more than headline price.
 - Exact model/SKU should be verified where possible.
 - A mislabeled listing may be more interesting, not less, if photos indicate a better item than the seller realizes.
@@ -107,7 +115,7 @@ A daily condition-watch automation named `Deal Watch — Fishing` is enabled for
 
 ## Immediate continuation point
 
-Run the next fishing-domain Deal_Watch search using `WATCHLIST.md`, `SOURCES.md`, and `DEAL_RULES.md` as authoritative instructions. For rods, search both the named priority targets and the broader preferred specification/quality profile. Record notable findings and source coverage in `LISTINGS.md`, then reconcile any durable rule or watchlist changes.
+Run the next fishing-domain Deal_Watch search using `WATCHLIST.md`, `SOURCES.md`, and `DEAL_RULES.md` as authoritative instructions. For rods, search both the named priority targets and the current REQUIRED/PREFERRED/EXCLUDE property framework. Record notable findings and source coverage in `LISTINGS.md`, then reconcile any durable rule or watchlist changes.
 
 ## Restore order for a new chat
 
