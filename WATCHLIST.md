@@ -3,33 +3,50 @@
 This file is the authoritative durable target list for the current fishing watch domain.
 
 The watchlist uses two complementary discovery modes:
-1. **specification/quality discovery** — search broadly for rods that fit the preferred characteristics, even when the exact model is not already named;
+1. **specification/quality discovery** — search broadly for rods that fit the desired characteristics, even when the exact model is not already named;
 2. **specific target discovery** — give extra attention to known brands, model families, and exact SKUs that are already established as desirable targets.
 
 Exact model numbers take precedence over family-level descriptions when identifying and evaluating a listing, but the named-model list is **not** the boundary of the rod search.
 
+## Watch-property levels
+
+Watchlist properties use three levels:
+
+- **REQUIRED** — an item must satisfy this property to qualify through specification-driven discovery. Failure normally removes it from the candidate set unless a separately named priority target explicitly documents an exception.
+- **PREFERRED** — increases relevance/ranking but is not mandatory. An unusually strong deal may still qualify without it.
+- **EXCLUDE** — a hard rejection rule. Do not surface an item as a deal when a verified property matches an exclusion, unless the watchlist is later explicitly changed.
+
+When a listing does not provide enough evidence to determine a REQUIRED or EXCLUDE property, mark that property as **UNVERIFIED** rather than assuming it passes or fails. A potentially strong listing may be surfaced for verification when the unknown property is material to eligibility.
+
 ## Rod discovery framework
 
-### Preferred brands
+### Preferred brands — PREFERRED
 
 Primary rod brands:
 - Shimano
 - Fenwick
 - G. Loomis
 
-Other brands/models may still qualify as opportunistic finds when they closely match the preferred specifications and quality/value criteria.
+Other brands/models may still qualify as opportunistic finds when they satisfy the applicable REQUIRED/EXCLUDE rules and closely match the preferred specifications and quality/value criteria.
 
-### Preferred rod specifications
+### Rod specifications
 
-Current broad rod-search criteria:
+Current specification-driven search properties:
+
+#### REQUIRED
 - Construction: **2-piece**
-- Length: **6'0"–7'0"**
 - Power: **Medium-Light or Medium**
 - Action: **Fast or Extra Fast**
 
-These specifications are discovery criteria rather than a requirement that every named priority model match every dimension exactly. A compelling premium or discontinued target may still be worth evaluating outside the preferred envelope when the value case is unusually strong.
+#### PREFERRED
+- Length: **6'0"–7'0"**
 
-### Desirable rod qualities
+#### EXCLUDE
+- None currently defined.
+
+These levels apply to broad specification-driven discovery. Named priority targets remain independently useful search targets and may document exceptions where appropriate.
+
+### Desirable rod qualities — PREFERRED
 
 Favor rods with:
 - premium or upper-mid-tier blank construction and components;
@@ -39,7 +56,7 @@ Favor rods with:
 - discontinued, older, poorly identified, or overlooked models with durable fishing value;
 - unusually strong acquisition value relative to realistic used/new market pricing.
 
-A rod does **not** need to appear on the named-model list to qualify. Surface unfamiliar models when their specifications, construction quality, reputation, and asking price make them credible matches for the current fishing domain.
+A rod does **not** need to appear on the named-model list to qualify. Surface unfamiliar models when they satisfy the applicable hard rules and their specifications, construction quality, reputation, and asking price make them credible matches for the current fishing domain.
 
 ## Shimano rods — priority targets
 
@@ -67,7 +84,7 @@ Search comparable premium Loomis rods when value is compelling, including:
 - NRX
 - related older/discontinued premium Loomis rods
 
-Also search beyond those named families when a G. Loomis rod matches the preferred rod specifications and appears materially undervalued.
+Also search beyond those named families when a G. Loomis rod matches the rod discovery framework and appears materially undervalued.
 
 Do not assume Shimano-branded rods are rebadged G. Loomis blanks. Treat cross-brand comparison as value/technology context, not identity.
 
@@ -117,19 +134,23 @@ Older/discontinued target:
 - 1/8–5/8 oz
 
 #### HMG70ML-FS
-Older/discontinued target:
+Older/discontinued target/reference:
 - 7'0"
 - Medium Light
 - Fast
 - 1-piece
 - 1/8–5/8 oz
 
-Also search older HMG Carbon Veil and similar discontinued HMG models when configuration and price fit the current fishing domain.
+Because it is 1-piece, `HMG70ML-FS` does not satisfy the current REQUIRED construction property for specification-driven discovery. Preserve it as a named historical/reference target rather than treating it as evidence that 1-piece construction broadly qualifies.
+
+Also search older HMG Carbon Veil and similar discontinued HMG models when configuration and price fit the current fishing domain and applicable hard rules.
 
 ## Opportunistic rod finds
 
 Surface rods outside the named-model list when they:
-- closely fit the preferred specifications;
+- satisfy all applicable REQUIRED properties;
+- do not match any EXCLUDE property;
+- closely fit PREFERRED specifications/qualities;
 - are from a preferred brand or are credibly comparable in quality;
 - appear to occupy a higher quality tier than the seller's description or price suggests; and
 - offer unusually strong value after condition, verification confidence, shipping, and transaction risk are considered.
@@ -168,11 +189,13 @@ Inspect or flag:
 - exact model markings
 - piece count and ferrule fit
 - length, power, and action markings
+- handle material/configuration when relevant to a watch property
 - blank damage or repairs
 - guide inserts and frames
 - reel seat
 - altered handles
 - mismatched model/description
+- any REQUIRED or EXCLUDE property that remains UNVERIFIED
 
 ### Reels
 Inspect or flag:
