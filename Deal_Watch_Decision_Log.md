@@ -4,6 +4,16 @@ Newest decisions first. Record durable decisions, not every discussion.
 
 Legacy `FDW-*` IDs remain stable historical identifiers. New decision IDs use the `DW-*` prefix.
 
+## DW-DEC-010 — Old chats are disposable only after reconciliation
+**Date:** 2026-09-14  
+**Status:** Current
+
+ChatGPT conversations are working sessions, not durable project records. Durable state lives in the GitHub repository files.
+
+Before deleting an old chat, assume any unreconciled decisions, actions, listings, source findings, rule changes, or continuation details that exist only in that chat may be lost from the project record. When unsure, reconcile the chat into `Deal_Watch` first, then delete it after confirming the repository either changed appropriately or already contained the relevant state.
+
+A specific phrase such as `reconcile Deal_Watch` is a reliable trigger, but the important requirement is the action: review the session and update the affected durable repository records.
+
 ## DW-DEC-009 — Watch properties use REQUIRED, PREFERRED, and EXCLUDE levels
 **Date:** 2026-09-13  
 **Status:** Current
