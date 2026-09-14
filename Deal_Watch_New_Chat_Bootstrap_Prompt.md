@@ -33,6 +33,13 @@ Then tell me concisely:
 
 Do not make repository changes until the restore is complete unless I explicitly ask you to reconcile immediately.
 
+## Reconciled checkpoint additions
+
+- Preserve full clickable listing URLs in `LISTINGS.md`; for Facebook Marketplace use `https://www.facebook.com/marketplace/item/<listing_id>/`.
+- Facebook Marketplace was previously authenticated and searched around Redmond/98053, represented by Facebook as Ames Lake, within 500 miles. If the browser environment is unavailable, mark authenticated Marketplace coverage honestly rather than treating public indexed results as native coverage.
+- A future felt-hat domain has been scoped but is not active. Fishing remains active unless the user explicitly asks to switch.
+- Candidate felt-hat domain focus: thrift/garage-sale/estate-sale quality fur-felt hats for reshape/upcycle, especially rabbit felt, beaver felt, beaver blend, and 50/50 beaver/rabbit. Evaluate size, condition, price, material-confidence, X/XXX markings, and visual evidence from sweatband/liner/tags/photos.
+
 ## Current checkpoint
 
 `Deal_Watch` is initialized as a durable GitHub-backed deal-discovery framework. Fishing is the current watch domain, focused on unusually good fishing-tackle deals, particularly older, discontinued, misidentified, or undervalued premium tackle.
