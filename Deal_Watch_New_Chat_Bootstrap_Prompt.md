@@ -52,6 +52,12 @@ The canonical project name is `Deal_Watch`. The repository is `JBrickey23/Deal_W
 
 Existing `FDW-*` durable IDs are legacy stable identifiers and remain unchanged. New durable IDs use `DW-*`.
 
+## Chat cleanup rule
+
+Old chat windows are working sessions, not durable records. They can be deleted after any important decisions, actions, listings, source findings, rule changes, or continuation details from that chat have been reconciled into the GitHub repository.
+
+When in doubt, reconcile first and delete the old chat only after confirming the repository either changed appropriately or already contained the relevant state.
+
 ## Do not repeat
 
 Do not recreate project initialization. Do not treat previously rejected fair-market listings as new finds unless price, condition, identity, or availability has materially changed.
