@@ -6,6 +6,18 @@ Legacy `FDW-*` IDs are preserved as stable historical identifiers. New task IDs 
 
 ## OPEN
 
+### DW-TODO-006 — Verify ChatGPT Project Instructions after canonical rename
+**Priority:** High  
+**Status:** OPEN
+
+Verify that the ChatGPT Project named `Deal_Watch` uses the canonical repository `JBrickey23/Deal_Watch` and the renamed durable files (`Deal_Watch_Context.md`, `Deal_Watch_TODO.md`, `Deal_Watch_Decision_Log.md`, and `Deal_Watch_New_Chat_Bootstrap_Prompt.md`). Remove any stale `Fishing_Deal_Watch`, `Fishing Deal Watch`, or `Deal_Watcher` references that incorrectly identify the project rather than the fishing watch domain.
+
+Success criteria:
+- ChatGPT Project name is `Deal_Watch`;
+- Project Instructions reference `JBrickey23/Deal_Watch`;
+- restore/reconcile instructions use the canonical `Deal_Watch_*` filenames;
+- Fishing is represented as a watch domain, not the project identity.
+
 ### FDW-TODO-001 — Validate source coverage across real runs
 **Priority:** High  
 **Status:** OPEN
@@ -50,4 +62,4 @@ Created and reconciled the core durable records plus fishing-domain watchlist, s
 
 ## Next unused task ID
 
-`DW-TODO-006`
+`DW-TODO-007`
