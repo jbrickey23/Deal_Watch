@@ -5,6 +5,68 @@ This is the durable ledger for notable listings and market observations in the c
 Newest observations first.
 
 
+## 2026-09-14 — Daily run after full-link Marketplace setup
+
+**Run result:** No confirmed buy alert. Authenticated Facebook Marketplace coverage could not be rerun in this session because the Work browser environment was unavailable, but public web/indexed sources were checked from the top of the current fishing watchlist and prior full Facebook item URLs remain preserved in the previous run entry.
+
+### Public web observations
+
+#### Shimano Stradic FM ST2500HGFM — eBay/public retail benchmark
+**Status:** BENCHMARK / possible mild price improvement  
+**Observed public price range:** about $209.00–$254.99 new  
+**Exact target confidence:** High where listings explicitly used `ST2500HGFM`
+
+Assessment: public eBay/indexed results showed ST2500HGFM examples around ordinary retail, with one indexed $209.00 new/free-delivery observation and several $254.99 benchmark observations. This is mildly interesting against MSRP, but not meaningfully better than prior ~$200-new benchmark and not a Deal_Watch alert.
+
+#### Shimano Stradic FM ST1000HGFM — eBay/public retail benchmark
+**Status:** BENCHMARK  
+**Observed public price range:** about $202.16–$234.99 new  
+**Exact target confidence:** Medium to high from indexed result text
+
+Assessment: public indexed pricing remains consistent with prior benchmark. No new exceptional ST1000HGFM opportunity surfaced.
+
+#### Shimano Expride spinning rods — public retail/used benchmark
+**Status:** BENCHMARK / no stronger public bargain surfaced  
+**Observed public examples:** current/new Expride B spinning rods and import listings mostly in the ~$214–$360 range depending on model, source, and shipping.
+
+Assessment: confirms that the authenticated Marketplace Expride candidates from the prior run remain the more interesting follow-up targets, especially [Shimano Expride Fishing Rod — $200 — Wenatchee, WA](https://www.facebook.com/marketplace/item/3758815807603968/) and [Shimano Expride Spinning Freshwater/Bass — $181.78 — Citrus Heights, CA](https://www.facebook.com/marketplace/item/28607742822162769/).
+
+#### Shimano Poison Adrena spinning rod — Facebook public-index result
+**Status:** NEEDS DEEP INSPECTION / public-index observation  
+**Observed price:** $325 per item  
+**Observed location:** Manteca, CA  
+**Observed configuration from indexed text:** 6'11", 6–12 lb, spinning rod  
+**Listing ID:** `2159031097996755`  
+**Link:** [Shimano Poison Adrena spinning rod 6'11, 6–12 lb — $325 — Manteca, CA](https://www.facebook.com/marketplace/item/2159031097996755/)
+
+Assessment: likely a very relevant configuration for the current rod framework if action and condition check out. The price is not automatic grab-it territory, but the model family, spinning format, length, and 6–12 lb rating make it a strong follow-up candidate if the listing is reachable in authenticated Marketplace.
+
+#### G. Loomis IMX-Pro / GLX public benchmarks
+**Status:** BENCHMARK / no stronger public bargain surfaced  
+**Observed public examples:** eBay/indexed IMX-Pro spinning rods and GLX/IMX listings remained mostly fair-market or high-market, with many non-matching casting, heavy, fly, steelhead, or long-rod configurations.
+
+Assessment: the under-described authenticated Marketplace Loomis entries from the prior run remain better follow-up leads because they may hide exact model value behind sparse titles:
+- [G Loomis Rod — $220 — Puyallup, WA](https://www.facebook.com/marketplace/item/760904763726398/)
+- [GL LOOMIS Rod — $200 — Thorp, WA](https://www.facebook.com/marketplace/item/1112681091277695/)
+- [G-Loomis IMX-Pro — $300 — Milton, WA](https://www.facebook.com/marketplace/item/28353506527577686/)
+
+#### Fenwick HMGW72ML-FS-2 / Eagle EGLW70ML-FS-2 — public retail benchmark
+**Status:** BENCHMARK  
+**Observed public benchmark:** HMGW72ML-FS-2 remains around $179.95 new; Eagle EGLW70ML-FS-2 remains around ~$99.95–$119.95 depending retailer/indexed source.
+
+Assessment: no used/public Fenwick result beat the existing deal thresholds. Continue to treat used Eagle examples near $95 delivered as weak and HMG examples under $80 as the meaningful strong-buy zone.
+
+### Source coverage — this run
+
+- Facebook Marketplace — NOT SEARCHED AUTHENTICATED in this session; browser environment unavailable. Prior authenticated full-link results remain preserved immediately below this entry.
+- Facebook Marketplace public indexing — SEARCHED; one Poison Adrena spinning result surfaced with full item URL.
+- eBay — SEARCHED via public/indexed results for Stradic FM, Expride, G. Loomis, and Fenwick targets.
+- Craigslist — SEARCHED via public/indexed results; no matching target surfaced.
+- OfferUp — SEARCHED via public/indexed results; no stronger target surfaced.
+- Retail/manufacturer benchmark sources — SEARCHED for Stradic FM, Fenwick HMG/Eagle, Expride, and G. Loomis benchmark context.
+
+Operational note: authenticated Marketplace should be rerun when the browser environment is available, using the stable Redmond/98053 Marketplace scope and preserving full item URLs for every notable candidate.
+
 ## 2026-09-13 — Authenticated Facebook Marketplace full-link run
 
 **Run result:** Facebook Marketplace was unlocked through authenticated browser access and searched natively from the top of the current Deal_Watch fishing target set. No listing was verified deeply enough to create a confirmed buy alert, but several candidate listings now have stable, full clickable item URLs for follow-up.
