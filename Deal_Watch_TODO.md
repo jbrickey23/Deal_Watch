@@ -6,6 +6,24 @@ Legacy `FDW-*` IDs are preserved as stable historical identifiers. New task IDs 
 
 ## OPEN
 
+### DW-TODO-007 — Define felt-hat domain if user switches from fishing
+**Priority:** Medium  
+**Status:** OPEN
+
+If the user decides to switch Deal_Watch from fishing to hats, create/reconcile a hat-domain watchlist and deal rules before running the new domain.
+
+Initial hat-domain focus:
+- thrift, garage-sale, estate-sale, and under-described listings;
+- reshape/upcycle candidates rather than generic fashion hats;
+- rabbit felt, beaver felt, beaver blend, 50/50 beaver/rabbit, or credible fur felt;
+- size, condition, price, and visual verification of markings;
+- X/XXX ratings as non-standard quality clues, not fixed material percentages.
+
+Success criteria:
+- `WATCHLIST.md` rewritten or extended for the hat domain;
+- `DEAL_RULES.md` includes hat material-confidence, condition-confidence, and price/value thresholds;
+- `SOURCES.md` reflects hat-appropriate source terms and marketplaces;
+- `LISTINGS.md` records hat listings with full clickable URLs and material/condition evidence.
 ### DW-TODO-006 — Verify ChatGPT Project Instructions after canonical rename
 **Priority:** High  
 **Status:** OPEN
@@ -62,4 +80,4 @@ Created and reconciled the core durable records plus fishing-domain watchlist, s
 
 ## Next unused task ID
 
-`DW-TODO-007`
+`DW-TODO-008`
