@@ -131,3 +131,42 @@ Run the next fishing-domain Deal_Watch search using `WATCHLIST.md`, `SOURCES.md`
 9. `Deal_Watch_New_Chat_Bootstrap_Prompt.md`
 
 Always use the latest repository state rather than prior chat memory when they conflict.
+
+## Reconciled chat additions — 2026-09-14
+
+### Facebook Marketplace access and links
+
+Authenticated Facebook Marketplace access was successfully established in a prior Work browser session. The verified search scope was Redmond/98053 represented by Facebook as Ames Lake, within 500 miles. Marketplace entries should preserve full stable item URLs in this format:
+
+`https://www.facebook.com/marketplace/item/<listing_id>/`
+
+The latest ledger entries in `LISTINGS.md` preserve clickable Marketplace URLs. If the Work browser environment is unavailable in a future run, mark authenticated Facebook Marketplace as `INACCESSIBLE` or `NOT SEARCHED AUTHENTICATED` rather than treating public indexed results as native Marketplace coverage.
+
+### Possible future watch domain — Felt hats
+
+A possible future Deal_Watch domain was discussed but not activated. Fishing remains the current active watch domain unless the user explicitly requests a domain switch.
+
+The proposed felt-hat domain focuses on thrift, garage-sale, and estate-sale hat buys that can be reshaped/upcycled. Key evaluation dimensions:
+- material: rabbit felt, beaver felt, beaver blend, 50/50 beaver/rabbit, credible fur felt;
+- size: larger sizes generally improve utility/resale/upcycle value;
+- condition: structurally usable felt body, reshape potential, sweatband/liner/tag condition, no severe moth damage, rot, mold, oil saturation, or structural collapse;
+- price: under $100 is a broad first-pass interesting range for verified quality felt, with price/value thresholds to be refined from observed data.
+
+Hat-material signals should be treated by confidence:
+- HIGH: visible tag/sweatband/liner states `100% beaver`, `pure beaver`, `50/50 beaver/rabbit`, `beaver blend`, or `fur felt`;
+- MEDIUM: reputable brand plus X/XXX rating or known quality line consistent with the brand/era;
+- LOW: seller claim without photos of markings;
+- REJECT or practice-only: wool felt, crushable wool, costume hats, severe damage, or unclear material at high price.
+
+X ratings are useful signals but not standardized across brands or eras. Do not assume a fixed beaver percentage from `3X`, `5X`, `10X`, `XXX`, `50X`, etc. Exact material markings such as `50/50 beaver/rabbit` carry more evidentiary weight than X-count alone.
+
+Visual verification workflow for hats should inspect:
+1. listing title, price, location, and full URL;
+2. all visible text and image captions;
+3. photos for brand, size, felt/material markings, X rating, sweatband, liner, brim edge, crown shape, moth holes, cracks, oil/sweat staining, water damage, and reshapeable structure;
+4. material confidence: HIGH / MEDIUM / LOW / REJECT;
+5. condition confidence: USABLE / QUESTIONABLE / REJECT;
+6. price/value tier;
+7. next action: ALERT / NEEDS SELLER QUESTIONS / WATCH / BENCHMARK / REJECT.
+
+Seller follow-up for hat verification should ask for close-up photos of the inside sweatband markings, size tag, liner/logo, brim edge, and any damage/moth holes, plus whether the hat says fur felt, beaver, rabbit, wool, or any X rating.
