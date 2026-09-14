@@ -84,6 +84,7 @@ See `WATCHLIST.md` for authoritative target details.
 - Maintain naming consistency: canonical project name is `Deal_Watch`; descriptive domain labels must not silently become project names.
 - Use `Fishing` as the current watch-domain label, not as the canonical project name.
 - Preserve existing `FDW-*` task and decision IDs as stable historical identifiers. New durable IDs use the `DW-*` prefix.
+- Treat ChatGPT conversations as working sessions. Before deleting an old chat, reconcile any important decisions, actions, listings, source findings, rule changes, or continuation details into the GitHub repository.
 - Rod searches must combine current watch-property levels and preferred qualities with named priority targets rather than treating named models as an exhaustive whitelist.
 - `WATCHLIST.md` is authoritative for current property assignments; context and decision records should describe semantics without overriding newer watchlist values.
 - Delivered price matters more than headline price.
