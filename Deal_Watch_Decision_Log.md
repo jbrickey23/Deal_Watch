@@ -4,6 +4,29 @@ Newest decisions first. Record durable decisions, not every discussion.
 
 Legacy `FDW-*` IDs remain stable historical identifiers. New decision IDs use the `DW-*` prefix.
 
+## DW-DEC-011 — Preserve full clickable listing URLs and evidence links
+**Date:** 2026-09-14  
+**Status:** Current
+
+Notable listing entries must preserve a full clickable URL whenever available, not only source names, search terms, listing titles, or relative hrefs.
+
+For Facebook Marketplace, store stable item links as:
+
+`https://www.facebook.com/marketplace/item/<listing_id>/`
+
+Also preserve the listing ID, observed title, price, location, source/search scope, and verification status. Search-result tracking query strings are not needed for durable item links unless they are the only way to recover the listing.
+
+Authenticated Marketplace coverage must be reported truthfully. Public indexed Facebook results are not equivalent to native authenticated Marketplace searching.
+
+## DW-DEC-012 — Felt hats are a candidate future domain, not the active domain
+**Date:** 2026-09-14  
+**Status:** Current
+
+A possible future watch domain for thrift/garage-sale quality felt hats was scoped but not activated. Fishing remains the current active domain until the user explicitly requests a domain switch.
+
+The felt-hat domain should target reshape/upcycle candidates, especially rabbit felt, beaver felt, beaver blends, and explicit 50/50 beaver/rabbit felt. Early value guidance: verified quality fur felt under $100 is generally interesting, with thresholds to be refined from observed listings.
+
+Hat verification should prioritize visible material markings, size, condition, price, and upcycle potential. X/XXX ratings are useful clues but not standardized across brands or eras; exact material markings carry more confidence than X-count alone.
 ## DW-DEC-010 — Old chats are disposable only after reconciliation
 **Date:** 2026-09-14  
 **Status:** Current
