@@ -4,6 +4,45 @@ This is the durable ledger for notable listings and market observations in the c
 
 Newest observations first.
 
+## 2026-09-15 — BidRush-only source-validation run
+
+**Run result:** No confirmed buy alert. BidRush was searched directly for current fishing-domain targets and broader fishing terms. No exact Shimano Expride/Zodias/Cumara/Crucial/Poison Adrena, Fenwick Eagle/HMG, G. Loomis, or Shimano Stradic FM target was verified. Two active Port Ludlow mixed fishing lots surfaced as under-described estate-lot candidates.
+
+### BidRush observations
+
+#### Fishing Rods, Reels And Equipment — BidRush
+**Status:** NEEDS DEEP INSPECTION / active mixed-lot candidate  
+**Observed price:** $75 current bid  
+**Bids:** 20  
+**Location:** Port Ludlow, WA  
+**Auction status:** Published / active at observation  
+**Ends:** 2026-09-17 02:32 UTC  
+**Shipping:** Not enabled; pickup enabled  
+**Link:** [Fishing Rods, Reels And Equipment](https://bidrush.com/items/fishing-rods-reels-and-equipment-dc3yr9)  
+**Deal Score:** 6.5/10 pending photo/model verification
+
+Assessment: listing describes multiple fishing rods, casting and spinning reels, lures/spoons, line, leaders, tackle accessories, rod tubes, and a landing net. First image confirms many rods, rod tubes, a landing net, and at least a couple reels, but no exact target model markings were readable from the inspected evidence. Interesting because estate lots can hide value, but not an alert without clearer identification. Pickup-only materially affects acquisition value.
+
+#### Rods, Reels and More Fishing — BidRush
+**Status:** NEEDS DEEP INSPECTION / active mixed-lot candidate  
+**Observed price:** $56 current bid  
+**Bids:** 13  
+**Location:** Port Ludlow, WA  
+**Auction status:** Published / active at observation  
+**Ends:** 2026-09-17 02:33 UTC  
+**Shipping:** Not enabled; pickup enabled  
+**Link:** [Rods, Reels and More Fishing](https://bidrush.com/items/rods-reels-and-more-fishing-br2tko)  
+**Deal Score:** 6/10 pending photo/model verification
+
+Assessment: listing describes multiple rods, spinning and conventional reels, assorted fishing lures/tackle, line, leaders, rigging components, rod tubes, and a landing net. First image confirms many rods and tubes but does not expose exact model markings. Similar upside profile to lot 132, but with less obvious visible reel value from the first inspected image. Not an alert unless further image inspection reveals premium rods/reels or current bid remains low enough to justify the uncertainty and pickup-only friction.
+
+### Source coverage — this run
+
+- BidRush — SEARCHED directly via site search and item-page inspection; search page and item pages exposed structured listing objects and image URLs.
+- All other sources — NOT SEARCHED.
+
+Operational note: BidRush search is readable but fuzzy/noisy. Future BidRush runs should filter candidate items by title/description evidence rather than relying on source ranking alone; `reel` can produce false positives such as View-Master reels or cord reels.
+
 
 ## 2026-09-14 — Daily run after full-link Marketplace setup
 
