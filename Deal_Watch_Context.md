@@ -111,12 +111,15 @@ A daily condition-watch automation named `Deal Watch — Fishing` is enabled for
 
 ## Open issues
 
-- Source coverage still needs operational validation across repeated runs, especially Facebook Marketplace, OfferUp, Craigslist, Mercari, estate-sale sites, Goodwill sources, independent tackle shops, and pawn/liquidation sources.
+- Source coverage still needs operational validation across repeated runs, especially Facebook Marketplace, OfferUp, Craigslist, Mercari, estate-sale sites beyond BidRush, Goodwill sources, independent tackle shops, and pawn/liquidation sources.
+- BidRush direct item pages and site search have been validated as readable from ChatGPT/workspace tooling, but future runs should continue testing search quality because results can be fuzzy/noisy.
 - Listing history is currently sparse because prior searches were conversational rather than ledger-driven.
 
 ## Immediate continuation point
 
 Run the next fishing-domain Deal_Watch search using `WATCHLIST.md`, `SOURCES.md`, and `DEAL_RULES.md` as authoritative instructions. For rods, search both the named priority targets and the current REQUIRED/PREFERRED/EXCLUDE property framework. Record notable findings and source coverage in `LISTINGS.md`, then reconcile any durable rule or watchlist changes.
+
+Specific current follow-up from the 2026-09-15 BidRush-only run: two active pickup-only Port Ludlow mixed fishing lots are preserved in `LISTINGS.md` and may merit deeper photo inspection before their 2026-09-17 UTC close if the user wants to pursue local estate-lot upside.
 
 ## Restore order for a new chat
 
