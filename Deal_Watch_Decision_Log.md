@@ -4,6 +4,22 @@ Newest decisions first. Record durable decisions, not every discussion.
 
 Legacy `FDW-*` IDs remain stable historical identifiers. New decision IDs use the `DW-*` prefix.
 
+## DW-DEC-014 — Define the Worker go-to light spinning role
+**Date:** 2026-09-15  
+**Status:** Current
+
+Add `Worker` as a named fishing-domain rod role/specification class rather than a single model. The Worker is intended to be the go-to light spinning rod when the exact target species or presentation is not known: panfish and trout through finesse/general light-duty bass, while existing heavier rods cover bigger lures, heavy cover, and larger-fish work.
+
+Worker preferences are maintained authoritatively in `WATCHLIST.md`. Key durable characteristics are Medium-Light power, Fast/Extra Fast action, approximately 6'8"–7'2", strong preference for 2-piece transportability, good performance around 1/8 oz with useful upper range through at least 3/8 and preferably 1/2–5/8 oz, shorter rear handle, and continuous/full cork when available.
+
+For the Worker role specifically, 2-piece construction carries more ranking weight than it does in the general rod framework. Exceptional 1-piece rods can still be surfaced but must be identified as a transport compromise.
+
+Current Fenwick Worker anchors:
+- `EGLW70ML-FS-2` at about $99.95 new is the value baseline.
+- `HMGW72ML-FS-2` at about $179.95 new is the current performance benchmark.
+
+Deal_Watch should search beyond these exact SKUs, including current and prior Eagle/HMG/Elite/Walleye/Inshore/general Fenwick spinning rods and poorly identified used listings whose photos/specifications fit the Worker role.
+
 ## DW-DEC-013 — BidRush is a promising validated source
 **Date:** 2026-09-15  
 **Status:** Current
