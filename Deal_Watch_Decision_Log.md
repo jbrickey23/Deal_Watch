@@ -35,6 +35,7 @@ A possible future watch domain for thrift/garage-sale quality felt hats was scop
 The felt-hat domain should target reshape/upcycle candidates, especially rabbit felt, beaver felt, beaver blends, and explicit 50/50 beaver/rabbit felt. Early value guidance: verified quality fur felt under $100 is generally interesting, with thresholds to be refined from observed listings.
 
 Hat verification should prioritize visible material markings, size, condition, price, and upcycle potential. X/XXX ratings are useful clues but not standardized across brands or eras; exact material markings carry more confidence than X-count alone.
+
 ## DW-DEC-010 — Old chats are disposable only after reconciliation
 **Date:** 2026-09-14  
 **Status:** Current
