@@ -4,6 +4,14 @@ Newest decisions first. Record durable decisions, not every discussion.
 
 Legacy `FDW-*` IDs remain stable historical identifiers. New decision IDs use the `DW-*` prefix.
 
+## DW-DEC-013 — BidRush is a promising validated source
+**Date:** 2026-09-15  
+**Status:** Current
+
+BidRush should be included as a Deal_Watch discovery source. A direct test of `https://bidrush.com/items/vintage-men-s-hats-KYK5H9` returned `200 OK` and exposed machine-readable listing details in the page HTML, including title, description, location, listing status, end time, highest bid, bid count, pickup/shipping flags, auction metadata, and image URLs.
+
+Treat BidRush as promising for local/estate-style auction discovery across watch domains, including the current fishing domain and possible future thrift/upcycle felt-hat domain. Direct item-page reading is validated from this example; broader BidRush search coverage should still be validated during future runs and reported honestly in source coverage.
+
 ## DW-DEC-011 — Preserve full clickable listing URLs and evidence links
 **Date:** 2026-09-14  
 **Status:** Current
