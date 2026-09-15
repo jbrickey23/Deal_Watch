@@ -10,6 +10,7 @@ This file defines the source checklist and reporting expectations for the curren
 - Facebook Marketplace — potentially excellent for genuine local bargains; often limited without login or direct marketplace access.
 - Mercari — consumer-to-consumer used gear and occasional mispricing.
 - EstateSales.net — estate inventories, lots, and poorly identified older fishing gear.
+- BidRush — local/estate-style auctions with item pages that can expose title, description, bid state, location, dates, pickup/shipping status, photos, and auction metadata; promising for both fishing gear and future thrift/upcycle domains such as felt hats.
 
 ## Secondary discovery sources
 
@@ -57,7 +58,7 @@ A source used only for verification must not be reported as a searched marketpla
 
 Every substantive run should include a compact coverage footer or equivalent, for example:
 
-`Sources checked: eBay SEARCHED | Craigslist SEARCHED | OfferUp SEARCHED | Mercari SEARCHED | EstateSales SEARCHED | Facebook INACCESSIBLE | ShopGoodwill SEARCHED`
+`Sources checked: eBay SEARCHED | Craigslist SEARCHED | OfferUp SEARCHED | Mercari SEARCHED | EstateSales SEARCHED | BidRush SEARCHED | Facebook INACCESSIBLE | ShopGoodwill SEARCHED`
 
 Allowed source-run states:
 - `SEARCHED` — source was actually queried/inspected during this run.
@@ -73,5 +74,8 @@ As of initialization on 2026-09-13:
 - manufacturer/retailer sites: successfully used for verification.
 - Facebook Marketplace: known access limitation in prior discussion; treat as unverified/inaccessible until a run proves otherwise.
 - Craigslist, OfferUp, Mercari, EstateSales, Goodwill sources, pawn shops, and independent tackle shops: included in the desired search universe but not yet consistently validated in the durable workflow.
+
+As of 2026-09-15:
+- BidRush: direct item page `https://bidrush.com/items/vintage-men-s-hats-KYK5H9` returned `200 OK` from workspace fetch. The page embedded useful listing data including title, description, location, status, end time, highest bid, bid count, pickup/shipping flags, and image URLs. Treat BidRush as a promising validated source for direct listing reads; broader search coverage still needs validation in future runs.
 
 `FDW-TODO-001` owns systematic validation of this matrix; the legacy ID is intentionally preserved.
