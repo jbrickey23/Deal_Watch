@@ -40,7 +40,7 @@ Preferred rod brands:
 - Fenwick
 - G. Loomis
 
-Current rod-property summary:
+Current general rod-property summary:
 
 **REQUIRED**
 - Medium-Light or Medium power
@@ -54,6 +54,33 @@ Current rod-property summary:
 - None currently defined
 
 Searches should also surface unfamiliar or unlisted models when they satisfy required properties, avoid exclusions, credibly match the preferred specification/quality profile, and offer unusually strong value. Preferred properties improve relevance but do not act as hard exclusions.
+
+### Named rod role — Worker
+
+`Worker` is now a durable fishing-domain role/specification class for the likely **go-to light spinning rod**. It is intended to cover panfish and trout through finesse/general bass; heavier existing rods handle bigger lures, heavy cover, and larger-fish work.
+
+Worker summary:
+- spinning;
+- Medium-Light strongly preferred;
+- Fast preferred, Extra Fast acceptable;
+- roughly 6'8"–7'2" preferred;
+- **2-piece strongly preferred for transport**;
+- should fish about 1/8 oz well, with useful performance below 1/8 desirable;
+- upper useful range at least 3/8 oz and preferably 1/2–5/8 oz;
+- approximately 4–10 or 6–12 lb line class;
+- shorter rear handle preferred;
+- continuous/full cork grip preferred;
+- roughly 1000–2500 spinning-reel pairing;
+- intended for panfish, trout, Ned/drop-shot, light jigs, small plastics/swimbaits/hardbaits, finesse bass, and general open-water/light-duty bass.
+
+For Worker scoring, 2-piece construction carries more weight than in the general rod framework. Exceptional 1-piece rods can still be surfaced but must be flagged as a transport compromise.
+
+Current Worker anchors:
+- **Value baseline:** Fenwick Eagle Walleye `EGLW70ML-FS-2`, about $99.95 new.
+- **Performance benchmark:** Fenwick HMG Walleye `HMGW72ML-FS-2`, about $179.95 new.
+- Other Fenwick targets include `EGLW69ML-XFS-2`, `HMG69ML-FS-2`, and older/discontinued Eagle/HMG/Elite/Walleye/Inshore/general spinning rods that fit the Worker role.
+
+See `WATCHLIST.md` for the authoritative full Worker definition and evaluation behavior.
 
 ### Shimano rods — named priority targets
 - Expride
@@ -72,6 +99,7 @@ Comparable premium Loomis rods are in scope, including GLX, IMX, IMX-Pro, NRX an
   - `HMG69ML-FS-2`
   - `HMG70ML-FS`
   - similar discontinued HMG variants
+- Worker-compatible current/prior Fenwick Walleye, Inshore, Eagle, HMG, Elite, and general spinning rods.
 
 ### Shimano reels
 - Stradic FM `ST1000HGFM`
@@ -98,8 +126,8 @@ See `WATCHLIST.md` for authoritative target details.
 
 ## Known price/configuration anchors
 
-- Fenwick Eagle `EGLW70ML-FS-2`: 7'0", Medium Light, Fast, 2-piece, 1/8–5/8 oz, 4–10 lb line; reference new price about $99.95.
-- Fenwick HMG `HMGW72ML-FS-2`: 7'2", Medium Light, Fast, 2-piece, 1/8–5/8 oz; reference new price about $179.95.
+- Fenwick Eagle `EGLW70ML-FS-2`: 7'0", Medium Light, Fast, 2-piece, 1/8–5/8 oz, 4–10 lb line; reference new price about $99.95. Worker value baseline.
+- Fenwick HMG `HMGW72ML-FS-2`: 7'2", Medium Light, Fast, 2-piece, 1/8–5/8 oz; reference new price about $179.95. Current Worker performance benchmark.
 - Shimano Stradic FM `ST1000HGFM`: reference MSRP/direct price about $234.99.
 - Shimano Stradic FM `ST2500HGFM`: reference MSRP/direct price about $254.99.
 
@@ -114,12 +142,15 @@ A daily condition-watch automation named `Deal Watch — Fishing` is enabled for
 - Source coverage still needs operational validation across repeated runs, especially Facebook Marketplace, OfferUp, Craigslist, Mercari, estate-sale sites beyond BidRush, Goodwill sources, independent tackle shops, and pawn/liquidation sources.
 - BidRush direct item pages and site search have been validated as readable from ChatGPT/workspace tooling, but future runs should continue testing search quality because results can be fuzzy/noisy.
 - Listing history is currently sparse because prior searches were conversational rather than ledger-driven.
+- Worker research should continue opportunistically across older/discontinued Fenwick generations and later across other manufacturers, but the role definition is now stable enough for Deal_Watch execution.
 
 ## Immediate continuation point
 
-Run the next fishing-domain Deal_Watch search using `WATCHLIST.md`, `SOURCES.md`, and `DEAL_RULES.md` as authoritative instructions. For rods, search both the named priority targets and the current REQUIRED/PREFERRED/EXCLUDE property framework. Record notable findings and source coverage in `LISTINGS.md`, then reconcile any durable rule or watchlist changes.
+Run the next fishing-domain Deal_Watch search using `WATCHLIST.md`, `SOURCES.md`, and `DEAL_RULES.md` as authoritative instructions. For rods, search both the named priority targets and the current REQUIRED/PREFERRED/EXCLUDE property framework, with **Worker** treated as a named high-priority role. Search used listings by specifications/photos as well as exact model strings because older Worker candidates may be poorly identified.
 
-Specific current follow-up from the 2026-09-15 BidRush-only run: two active pickup-only Port Ludlow mixed fishing lots are preserved in `LISTINGS.md` and may merit deeper photo inspection before their 2026-09-17 UTC close if the user wants to pursue local estate-lot upside.
+Record notable findings and source coverage in `LISTINGS.md`, then reconcile any durable rule or watchlist changes.
+
+Specific prior follow-up from the 2026-09-15 BidRush-only run: two active pickup-only Port Ludlow mixed fishing lots are preserved in `LISTINGS.md` and may merit deeper photo inspection before their 2026-09-17 UTC close if the user wants to pursue local estate-lot upside.
 
 ## Restore order for a new chat
 
@@ -134,6 +165,18 @@ Specific current follow-up from the 2026-09-15 BidRush-only run: two active pick
 9. `Deal_Watch_New_Chat_Bootstrap_Prompt.md`
 
 Always use the latest repository state rather than prior chat memory when they conflict.
+
+## Reconciled chat additions — 2026-09-15 — Worker research
+
+A focused Fenwick comparison established the `Worker` role. The research compared current and prior Fenwick Eagle, HMG, Elite, Walleye, Bass, and Inshore configurations. The durable conclusion is not that a single Fenwick SKU is permanently selected, but that `HMGW72ML-FS-2` is the current new-rod performance benchmark and `EGLW70ML-FS-2` is the value baseline.
+
+Important user-use constraints established during the research:
+- 2-piece construction is strongly preferred for ease of transport;
+- shorter handle geometry is preferred;
+- continuous/full cork is preferred;
+- the Worker should complement existing heavier rods rather than duplicate them;
+- the useful mission is panfish/trout through finesse and general light-duty bass;
+- older Marketplace rods with similar specifications are desirable when they beat the current new benchmarks on price/performance.
 
 ## Reconciled chat additions — 2026-09-14
 
