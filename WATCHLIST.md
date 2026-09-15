@@ -58,6 +58,80 @@ Favor rods with:
 
 A rod does **not** need to appear on the named-model list to qualify. Surface unfamiliar models when they satisfy the applicable hard rules and their specifications, construction quality, reputation, and asking price make them credible matches for the current fishing domain.
 
+## The Worker — go-to light spinning role
+
+`Worker` is a named **role/specification class**, not a single model. It represents the likely go-to spinning rod: the rod to grab when the exact target species or presentation is not yet known, covering panfish and trout through finesse/general bass while heavier rods handle bigger lures, heavy cover, and larger-fish work.
+
+### Worker target specification
+
+#### Core fit
+- Type: **spinning**
+- Power: **Medium-Light strongly preferred**
+- Action: **Fast preferred; Extra Fast acceptable**
+- Length: **6'8"–7'2" preferred**
+- Construction: **2-piece strongly preferred** because transport convenience is part of the Worker role
+- Useful light end: should handle approximately **1/8 oz well**; credible performance below 1/8 oz is desirable
+- Useful upper end: at least **3/8 oz**, preferably **1/2–5/8 oz**
+- Typical line class: approximately **4–10 or 6–12 lb**
+- Handle: **shorter rear handle preferred**
+- Grip: **continuous/full cork preferred** over long or bulky handle systems
+- Intended reel pairing: roughly **1000–2500 size spinning reel**
+
+### Worker intended coverage
+Prioritize rods suited to:
+- panfish
+- trout
+- Ned rigs
+- drop shot
+- light jigs
+- small plastics and swimbaits
+- small hardbaits
+- finesse bass
+- general open-water/light-duty bass
+
+Do **not** optimize Worker candidates for heavy cover, large jigs, big swimbaits, or other work already better served by heavier rods.
+
+### Worker evaluation behavior
+- Treat **2-piece construction as a major ranking factor** for Worker candidates, more important here than in the general rod-discovery framework.
+- A 1-piece rod can still be surfaced when the value/performance is exceptional, but explicitly flag the transport compromise and rank it below a similarly capable 2-piece candidate.
+- Do not assume a manufacturer's `ML` label defines actual blank behavior. Use lure/line ratings, owner reports, model history, and visible markings to assess whether the rod is a finesse-biased ML, a stout/generalist ML, or something else.
+- For used/Marketplace listings, inspect photos for model markings and piece count rather than relying only on seller text. Poorly identified older Fenwick/HMG/Elite rods may be particularly interesting.
+
+### Worker price/performance anchors
+
+#### Fenwick Eagle Walleye `EGLW70ML-FS-2`
+Value baseline:
+- 7'0"
+- Medium Light / Fast
+- 2-piece
+- 1/8–5/8 oz
+- 4–10 lb
+- reference new price: about **$99.95**
+
+A used Worker candidate must offer a meaningful price, quality, or configuration advantage over simply buying this rod new.
+
+#### Fenwick HMG Walleye `HMGW72ML-FS-2`
+Current performance benchmark:
+- 7'2"
+- Medium Light / Fast
+- 2-piece
+- 1/8–5/8 oz
+- approximately 4–10 lb class
+- reference new price: about **$179.95**
+
+This is the current Worker benchmark. Compare discovered rods against the option of buying this model new with warranty.
+
+### Worker Fenwick search targets
+
+Search current and prior Fenwick **Eagle, HMG, Elite, Walleye, Inshore, and general-purpose spinning** families for Worker-compatible rods, including discontinued models. Priority exact/known configurations include:
+- `HMGW72ML-FS-2` — current benchmark
+- `EGLW70ML-FS-2` — value benchmark
+- `EGLW69ML-XFS-2` — compact 6'9" ML/XF 2-piece alternative
+- `HMG69ML-FS-2` — older/discontinued 6'9" ML/F 2-piece target
+- older HMG/Elite/Inshore ML rods near 6'8"–7'2" when piece count and lure envelope fit
+
+Older 1-piece HMG/Elite Inshore rods around 7' ML/F and roughly 1/16–5/8 oz remain useful performance/value references, but the 1-piece construction is a material Worker drawback.
+
 ## Shimano rods — priority targets
 
 ### Expride
@@ -112,7 +186,7 @@ Prioritize HMG spinning rods broadly similar to the Eagle reference configuratio
 Important models:
 
 #### HMGW72ML-FS-2
-Current HMG Walleye analogue:
+Current HMG Walleye analogue and current **Worker performance benchmark**:
 - 7'2"
 - Medium Light
 - Fast
@@ -141,7 +215,7 @@ Older/discontinued target/reference:
 - 1-piece
 - 1/8–5/8 oz
 
-Because 2-piece construction is currently PREFERRED rather than REQUIRED, `HMG70ML-FS` remains eligible for discovery/evaluation despite being 1-piece; its construction simply ranks below an otherwise comparable 2-piece candidate.
+Because 2-piece construction is PREFERRED in the general framework, `HMG70ML-FS` remains eligible for discovery/evaluation despite being 1-piece. For the **Worker** role specifically, its 1-piece construction is a meaningful transport disadvantage.
 
 Also search older HMG Carbon Veil and similar discontinued HMG models when configuration and price fit the current fishing domain and applicable watch-property levels.
 
@@ -189,7 +263,8 @@ Inspect or flag:
 - exact model markings
 - piece count and ferrule fit
 - length, power, and action markings
-- handle material/configuration when relevant to a watch property
+- handle material/configuration, especially for Worker candidates
+- rear-handle length/geometry when photos permit
 - blank damage or repairs
 - guide inserts and frames
 - reel seat
