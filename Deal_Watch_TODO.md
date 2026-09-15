@@ -24,6 +24,7 @@ Success criteria:
 - `DEAL_RULES.md` includes hat material-confidence, condition-confidence, and price/value thresholds;
 - `SOURCES.md` reflects hat-appropriate source terms and marketplaces;
 - `LISTINGS.md` records hat listings with full clickable URLs and material/condition evidence.
+
 ### DW-TODO-006 — Verify ChatGPT Project Instructions after canonical rename
 **Priority:** High  
 **Status:** OPEN
