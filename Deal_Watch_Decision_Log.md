@@ -4,17 +4,34 @@ Newest decisions first. Record durable decisions, not every discussion.
 
 Legacy `FDW-*` IDs remain stable historical identifiers. New decision IDs use the `DW-*` prefix.
 
-## DW-DEC-015 — Fishing and Hat:Machine are simultaneous active domains
+## DW-DEC-016 — Canonical watches use Project:Domain:WatchType
 **Date:** 2026-09-16  
 **Status:** Current
 
-Fishing and `Hat:Machine` are both active Deal_Watch domains. Neither replaces or renames the other, and the possible felt-hat acquisition/upcycling domain remains separate and inactive.
+Use `Project:Domain:WatchType` as the canonical cross-project naming grammar. Inside a project, `Domain:WatchType` is acceptable shorthand when unambiguous.
+
+Current watch keys:
+- `Deal_Watch:Fishing:WorkerRod`
+- `Deal_Watch:Fishing:StradicReel`
+- `Deal_Watch:Hat:SweatbandMachine`
+
+Names must use a singular domain and a concrete, singular PascalCase watch type. A role may be incorporated when it materially defines the item, as in `WorkerRod`. Avoid domain-only identifiers such as `Fishing` and overly generic watch types such as `Machine`.
+
+Exact models are targets beneath a watch key, not additional namespace levels. Existing filenames may remain stable storage names when renaming them would add migration risk; their contents and references must state the canonical watch key.
+
+This decision supersedes the broad active-domain naming in `DW-DEC-015` while preserving that decision's core requirement that watches remain operationally separate.
+
+## DW-DEC-015 — Broad Fishing and Hat:Machine domain naming (superseded)
+**Date:** 2026-09-16  
+**Status:** Superseded in naming by DW-DEC-016
+
+Fishing and `Hat:SweatbandMachine` were recorded as active Deal_Watch domains. Neither replaces or renames the other, and the possible felt-hat acquisition/upcycling domain remains separate and inactive.
 
 Use shared `WATCHLIST.md` and `SOURCES.md`, but keep domain evaluation and history separate:
 - Fishing: `DEAL_RULES.md` and `LISTINGS.md`.
-- Hat:Machine: `HAT_MACHINE_DEAL_RULES.md` and `HAT_MACHINE_LISTINGS.md`.
+- Hat:SweatbandMachine: `HAT_MACHINE_DEAL_RULES.md` and `HAT_MACHINE_LISTINGS.md`.
 
-A run must identify its selected domain, apply only that domain's rules, write to only that domain's ledger, and report actual source coverage. The existing `Deal Watch — Fishing` automation remains Fishing-specific; no Hat:Machine automation is implied.
+A run must identify its selected domain, apply only that domain's rules, write to only that domain's ledger, and report actual source coverage. The existing `Deal Watch — Fishing` automation remains Fishing-specific; no Hat:SweatbandMachine automation is implied.
 
 ## DW-DEC-014 — Define the Worker go-to light spinning role
 **Date:** 2026-09-15  
