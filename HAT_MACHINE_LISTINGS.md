@@ -1,4 +1,6 @@
-# Deal_Watch — Hat:Machine Listings
+# Deal_Watch — Hat:SweatbandMachine Listings
+
+Canonical watch key: `Deal_Watch:Hat:SweatbandMachine`
 
 ## Mission
 Evaluate machinery against: **Can this machine sew a leather sweatband into a felt hat?**
