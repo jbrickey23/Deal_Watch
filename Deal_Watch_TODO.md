@@ -35,7 +35,8 @@ Success criteria:
 - ChatGPT Project name is `Deal_Watch`;
 - Project Instructions reference `JBrickey23/Deal_Watch`;
 - restore/reconcile instructions use the canonical `Deal_Watch_*` filenames;
-- Fishing is represented as a watch domain, not the project identity.
+- canonical watch identifiers use `Project:Domain:WatchType`;
+- replace or split the legacy automation label `Deal Watch — Fishing` so automation execution maps visibly to `Fishing:WorkerRod` and `Fishing:StradicReel`.
 
 ### FDW-TODO-001 — Validate source coverage across real runs
 **Priority:** High  
