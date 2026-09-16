@@ -1,6 +1,6 @@
-# Deal_Watch — Fishing Listing History
+# Deal_Watch — Fishing Watch History
 
-This is the durable ledger for notable listings and market observations in the current fishing watch domain. It is not intended to contain every search result; preserve items that matter for future comparison, status tracking, or deal-rule calibration.
+This is the durable ledger for `Deal_Watch:Fishing:WorkerRod` and `Deal_Watch:Fishing:StradicReel`. New entries must label the applicable canonical watch key. It is not intended to contain every search result; preserve items that matter for future comparison, status tracking, or deal-rule calibration.
 
 Newest observations first.
 
