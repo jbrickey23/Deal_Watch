@@ -68,6 +68,12 @@ After roughly 10–20 durable search runs, assess whether code, GitHub Actions, 
 
 ## DONE
 
+### DW-TODO-008 — Reconcile active multi-domain state
+**Priority:** High  
+**Status:** DONE
+
+Reconciled Fishing and Hat:Machine as simultaneous active domains. Added `HAT_MACHINE_DEAL_RULES.md`, preserved separate domain ledgers, and updated README, Context, Bootstrap, TODO, and Decision Log so fresh-chat restoration selects and evaluates each domain independently.
+
 ### FDW-TODO-002 — Align the ChatGPT automation with durable repository state
 **Priority:** High  
 **Status:** DONE
@@ -81,4 +87,4 @@ Created and reconciled the core durable records plus fishing-domain watchlist, s
 
 ## Next unused task ID
 
-`DW-TODO-008`
+`DW-TODO-009`
