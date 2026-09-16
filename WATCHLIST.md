@@ -1,12 +1,44 @@
 # Deal_Watch — Watchlist
 
-This file is the authoritative durable target list for active Deal_Watch domains.
+This file is the authoritative durable target list for canonical Deal_Watch watch keys.
 
-## Domain — Fishing
+## Watch — Fishing:WorkerRod
 
-The established Fishing watch remains active. Preserve its existing discovery framework, Worker role, Shimano/Fenwick/G. Loomis targets, Stradic targets, verification priorities, and price anchors from durable history.
+Fully qualified: `Deal_Watch:Fishing:WorkerRod`
 
-## Domain — Hat:Machine
+Mission: find the likely go-to light spinning rod for panfish/trout through finesse and general light-duty bass, complementing existing heavier rods.
+
+Core profile:
+- spinning rod;
+- Medium-Light strongly preferred;
+- Fast preferred; Extra Fast acceptable;
+- approximately 6'8"–7'2";
+- 2-piece strongly preferred for transport;
+- fishes approximately 1/8 oz well, with useful upper range through at least 3/8 oz and preferably 1/2–5/8 oz;
+- approximately 4–10 or 6–12 lb line class;
+- shorter rear handle preferred;
+- continuous/full cork preferred;
+- likely 1000–2500 spinning-reel pairing.
+
+Named priority families include Shimano Expride, Zodias, Cumara, Crucial, Poison Adrena; comparable G. Loomis; and Worker-compatible current/prior Fenwick Eagle, HMG, Elite, Walleye, Inshore, and general spinning rods. Search by specifications and photos as well as exact model strings.
+
+Current anchors:
+- Fenwick Eagle Walleye `EGLW70ML-FS-2` — value baseline around $99.95 new.
+- Fenwick HMG Walleye `HMGW72ML-FS-2` — performance benchmark around $179.95 new.
+
+## Watch — Fishing:StradicReel
+
+Fully qualified: `Deal_Watch:Fishing:StradicReel`
+
+Mission: find unusually strong acquisition value on Shimano Stradic FM spinning reels, especially:
+- `ST1000HGFM`;
+- `ST2500HGFM` and relevant 2500-size FM variants.
+
+Verify exact SKU/generation, spool lip, bail, handle, corrosion or saltwater exposure, completeness, seller risk, returns, shipping, and delivered price. Do not mix older Stradic generations into the FM watch without identifying them explicitly as opportunistic comparables.
+
+## Watch — Hat:SweatbandMachine
+
+Fully qualified: `Deal_Watch:Hat:SweatbandMachine`
 
 ### Mission question
 For every candidate machine, answer first:
