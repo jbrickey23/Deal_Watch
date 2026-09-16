@@ -1,6 +1,6 @@
-# Deal_Watch — Hat:Machine Deal Rules
+# Deal_Watch — Hat:SweatbandMachine Deal Rules
 
-These rules apply only to the active `Hat:Machine` domain. Fishing continues to use `DEAL_RULES.md`.
+These rules apply only to the canonical watch `Deal_Watch:Hat:SweatbandMachine`. Fishing continues to use `DEAL_RULES.md`.
 
 ## Mission gate
 
