@@ -4,7 +4,7 @@
 
 `Deal_Watch` is a GitHub-backed durable project. Repository: `JBrickey23/Deal_Watch`. GitHub is the durable source of truth; ChatGPT conversations are working sessions.
 
-The project uses canonical `Project:Domain:WatchType` identifiers. Active watches are `Deal_Watch:Fishing:WorkerRod`, `Deal_Watch:Fishing:StradicReel`, and `Deal_Watch:Hat:SweatbandMachine`. Fishing has an enabled ChatGPT condition-watch automation named `Deal Watch — Fishing`; no Hat:SweatbandMachine automation is assumed. The repository remains authoritative for targets, source coverage, domain rules, listing history, tasks, and decisions.
+The project uses canonical `Project:Domain:WatchType` identifiers. Active watches are `Deal_Watch:Fishing:WorkerRod`, `Deal_Watch:Fishing:StradicReel`, and `Deal_Watch:Hat:SweatbandMachine`. The Fishing watches currently share a legacy ChatGPT condition-watch automation named `Deal Watch — Fishing`; that broad automation label is not a canonical watch key and should be renamed or split during automation cleanup. No `Hat:SweatbandMachine` automation is assumed. The repository remains authoritative for targets, source coverage, domain rules, listing history, tasks, and decisions.
 
 ## Purpose and scope
 
@@ -157,7 +157,7 @@ These are working benchmarks, not permanent truths. Re-verify current manufactur
 
 ## Current automation state
 
-A daily condition-watch automation named `Deal Watch — Fishing` is enabled for the fishing domain. It is an execution mechanism; the repository's current `WATCHLIST.md`, rules, and durable decisions are authoritative when execution wording and repository state differ.
+A daily condition-watch automation with the legacy broad name `Deal Watch — Fishing` is enabled for the Fishing watch keys. It is an execution mechanism; the repository's current `WATCHLIST.md`, rules, and durable decisions are authoritative when execution wording and repository state differ.
 
 ## Open issues
 
