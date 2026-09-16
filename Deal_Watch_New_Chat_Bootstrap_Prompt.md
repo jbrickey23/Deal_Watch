@@ -40,9 +40,10 @@ Do not make repository changes until restoration is complete unless I explicitly
 
 `Deal_Watch` is initialized as a durable, multi-domain deal-discovery framework.
 
-Active domains:
-- **Fishing** — premium tackle bargain discovery, including the Worker rod role.
-- **Hat:Machine** — purpose-built, convertible, and sleeper machines evaluated against whether they can sew a leather sweatband into a formed felt hat.
+Active canonical watches:
+- `Deal_Watch:Fishing:WorkerRod`
+- `Deal_Watch:Fishing:StradicReel`
+- `Deal_Watch:Hat:SweatbandMachine`
 
 The possible felt-hat acquisition/upcycling watch remains a separately scoped future domain and is not active.
 
@@ -53,27 +54,27 @@ Shared records:
 
 Domain records:
 - Fishing: `DEAL_RULES.md`, `LISTINGS.md`
-- Hat:Machine: `HAT_MACHINE_DEAL_RULES.md`, `HAT_MACHINE_LISTINGS.md`
+- Hat:SweatbandMachine: `HAT_MACHINE_DEAL_RULES.md`, `HAT_MACHINE_LISTINGS.md`
 
-## Domain separation rule
+## Watch-key separation rule
 
-Select the requested domain before searching. Apply only its rules and write only to its ledger. Do not blend Fishing and Hat:Machine findings into one run or ledger.
+Select the requested canonical watch key before searching. Apply only its rules and label findings with that key. Do not blend Fishing and Hat:SweatbandMachine findings into one run or ledger.
 
 ## Current continuation
 
-The current continuation focus is **Hat:Machine**. Search exact-purpose machines plus convertible and sleeper industrial machines, including cylinder-arm, post-bed, off-the-arm/free-arm, upholstery, leather, canvas, shoe-repair, shop-liquidation, and used-industrial-dealer sources.
+The current continuation focus is **`Deal_Watch:Hat:SweatbandMachine`**. Search exact-purpose machines plus convertible and sleeper industrial machines, including cylinder-arm, post-bed, off-the-arm/free-arm, upholstery, leather, canvas, shoe-repair, shop-liquidation, and used-industrial-dealer sources.
 
 For every candidate, answer the formed-hat geometry question first and identify any actual modification path and all-in cost. Record meaningful findings and actual source coverage in `HAT_MACHINE_LISTINGS.md`.
 
-Fishing remains active and can be run separately.
+`Deal_Watch:Fishing:WorkerRod` and `Deal_Watch:Fishing:StradicReel` remain active and can be run separately.
 
 ## Automation state
 
-A daily condition-watch automation named `Deal Watch — Fishing` is enabled for Fishing. It is only an execution mechanism. No Hat:Machine automation is assumed unless separately created.
+A daily condition-watch automation named `Deal Watch — Fishing` is enabled for Fishing. It is only an execution mechanism. No Hat:SweatbandMachine automation is assumed unless separately created.
 
 ## Naming and cleanup
 
-The canonical project name is `Deal_Watch`. Fishing and Hat:Machine are domain labels. Existing `FDW-*` IDs remain stable; new durable IDs use `DW-*`.
+The canonical project name is `Deal_Watch`. `Fishing` and `Hat` are domains; `WorkerRod`, `StradicReel`, and `SweatbandMachine` are watch types. Domain-only labels are not canonical watch identifiers. Existing `FDW-*` IDs remain stable; new durable IDs use `DW-*`.
 
 Old chats can be deleted only after important decisions, listings, source findings, rule changes, and continuation details have been reconciled into GitHub.
 
