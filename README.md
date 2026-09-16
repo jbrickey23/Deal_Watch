@@ -1,24 +1,36 @@
 # Deal_Watch
 
-`Deal_Watch` is a durable GitHub-backed project for finding, verifying, evaluating, and tracking unusually good deals across multiple watch domains.
+`Deal_Watch` is a durable GitHub-backed project for finding, verifying, evaluating, and tracking unusually good deals through explicitly named watch keys.
 
-## Active domains
+## Canonical naming
 
-### Fishing
-Bargain discovery for premium fishing tackle, emphasizing older, discontinued, misidentified, or materially undervalued rods and reels. The named `Worker` rod role remains a high-priority target.
+Canonical watch identifiers use:
 
-- Targets: `WATCHLIST.md` → `Domain — Fishing`
-- Rules: `DEAL_RULES.md`
-- Ledger: `LISTINGS.md`
+`Project:Domain:WatchType`
 
-### Hat:Machine
-Discovery of machines that can sew a leather sweatband into a formed felt hat. It covers purpose-built machines, credible conversions, and poorly identified sleeper machines.
+Inside this repository, the project-qualified prefix may be omitted when context is unambiguous:
 
-- Targets: `WATCHLIST.md` → `Domain — Hat:Machine`
-- Rules: `HAT_MACHINE_DEAL_RULES.md`
-- Ledger: `HAT_MACHINE_LISTINGS.md`
+`Domain:WatchType`
 
-The possible felt-hat acquisition/upcycling watch remains a separately scoped future domain. It is not the same as `Hat:Machine`.
+Current canonical watch keys:
+- `Deal_Watch:Fishing:WorkerRod`
+- `Deal_Watch:Fishing:StradicReel`
+- `Deal_Watch:Hat:SweatbandMachine`
+
+Broad labels such as `Fishing`, `Hat`, `Worker`, or `Machine` are organizational terms or historical shorthand, not complete watch identifiers.
+
+## Active watches
+
+### Fishing:WorkerRod
+The go-to light spinning-rod watch: Medium-Light preferred, Fast/Extra Fast, approximately 6'8"–7'2", strongly preferred 2-piece construction, shorter rear handle, and full cork when available. Named Shimano, Fenwick, and G. Loomis targets are evaluated against this role rather than treated as an unrelated generic fishing watch.
+
+### Fishing:StradicReel
+Shimano Stradic FM 1000- and 2500-size reel targets, with exact SKU, delivered-price, condition, and transaction-risk verification.
+
+### Hat:SweatbandMachine
+Purpose-built, convertible, and sleeper machinery evaluated against whether it can sew a leather sweatband into a formed felt hat.
+
+The separately discussed felt-hat acquisition/upcycling watch is inactive. If activated, its intuitive key is `Hat:FeltHat`.
 
 ## Durable operating model
 
@@ -34,22 +46,20 @@ Shared state:
 - `WATCHLIST.md`
 - `SOURCES.md`
 
-Domain records:
-- Fishing: `DEAL_RULES.md`, `LISTINGS.md`
-- Hat:Machine: `HAT_MACHINE_DEAL_RULES.md`, `HAT_MACHINE_LISTINGS.md`
+Stable storage files:
+- Fishing watch rules/history: `DEAL_RULES.md`, `LISTINGS.md`
+- `Hat:SweatbandMachine` rules/history: `HAT_MACHINE_DEAL_RULES.md`, `HAT_MACHINE_LISTINGS.md`
 
-## Naming principle
-
-The canonical project name is `Deal_Watch`. Fishing and `Hat:Machine` are active watch domains, not project names. Existing `FDW-*` task and decision IDs remain unchanged as stable historical identifiers; new durable IDs use `DW-*`.
+The existing filenames remain stable storage names. Canonical watch identity comes from the qualified keys, not from filenames.
 
 ## Current workflow
 
-1. Restore shared state and both domain records from GitHub.
-2. Select the requested domain; do not silently run or merge domains.
-3. Search actual sources from `SOURCES.md` for that domain's targets in `WATCHLIST.md`.
-4. Evaluate candidates using the selected domain's rules.
-5. Compare against the selected domain's ledger.
-6. Report actual source coverage explicitly.
-7. Reconcile meaningful changes into the appropriate shared and domain-specific files.
+1. Restore current GitHub state.
+2. Identify the requested canonical watch key.
+3. Search the applicable sources and targets.
+4. Apply only that watch's rules and comparisons.
+5. Write findings to the correct ledger and label entries with the watch key.
+6. Report actual source coverage.
+7. Reconcile meaningful changes.
 
-A daily ChatGPT condition-watch automation named `Deal Watch — Fishing` exists for Fishing. It is an execution mechanism; repository state is authoritative. No Hat:Machine automation is assumed unless separately created.
+A legacy daily automation named `Deal Watch — Fishing` currently executes the Fishing watches. Its broad name should not be used as the naming model for new watches; automation naming/splitting remains a separate operational cleanup item.
