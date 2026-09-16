@@ -68,6 +68,12 @@ After roughly 10–20 durable search runs, assess whether code, GitHub Actions, 
 
 ## DONE
 
+### DW-TODO-009 — Adopt qualified watch-key naming
+**Priority:** High  
+**Status:** DONE
+
+Adopted `Project:Domain:WatchType` as the canonical naming grammar. Reconciled current watches as `Deal_Watch:Fishing:WorkerRod`, `Deal_Watch:Fishing:StradicReel`, and `Deal_Watch:Hat:SweatbandMachine`; updated operational files and preserved old broad labels only as historical shorthand.
+
 ### DW-TODO-008 — Reconcile active multi-domain state
 **Priority:** High  
 **Status:** DONE
@@ -87,4 +93,4 @@ Created and reconciled the core durable records plus fishing-domain watchlist, s
 
 ## Next unused task ID
 
-`DW-TODO-009`
+`DW-TODO-010`
