@@ -4,6 +4,18 @@ Newest decisions first. Record durable decisions, not every discussion.
 
 Legacy `FDW-*` IDs remain stable historical identifiers. New decision IDs use the `DW-*` prefix.
 
+## DW-DEC-015 — Fishing and Hat:Machine are simultaneous active domains
+**Date:** 2026-09-16  
+**Status:** Current
+
+Fishing and `Hat:Machine` are both active Deal_Watch domains. Neither replaces or renames the other, and the possible felt-hat acquisition/upcycling domain remains separate and inactive.
+
+Use shared `WATCHLIST.md` and `SOURCES.md`, but keep domain evaluation and history separate:
+- Fishing: `DEAL_RULES.md` and `LISTINGS.md`.
+- Hat:Machine: `HAT_MACHINE_DEAL_RULES.md` and `HAT_MACHINE_LISTINGS.md`.
+
+A run must identify its selected domain, apply only that domain's rules, write to only that domain's ledger, and report actual source coverage. The existing `Deal Watch — Fishing` automation remains Fishing-specific; no Hat:Machine automation is implied.
+
 ## DW-DEC-014 — Define the Worker go-to light spinning role
 **Date:** 2026-09-15  
 **Status:** Current
