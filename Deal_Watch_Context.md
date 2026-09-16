@@ -4,11 +4,11 @@
 
 `Deal_Watch` is a GitHub-backed durable project. Repository: `JBrickey23/Deal_Watch`. GitHub is the durable source of truth; ChatGPT conversations are working sessions.
 
-The project is domain-agnostic by design. **Fishing** and **Hat:Machine** are active watch domains. Fishing has an enabled ChatGPT condition-watch automation named `Deal Watch — Fishing`; no Hat:Machine automation is assumed. The repository remains authoritative for targets, source coverage, domain rules, listing history, tasks, and decisions.
+The project uses canonical `Project:Domain:WatchType` identifiers. Active watches are `Deal_Watch:Fishing:WorkerRod`, `Deal_Watch:Fishing:StradicReel`, and `Deal_Watch:Hat:SweatbandMachine`. Fishing has an enabled ChatGPT condition-watch automation named `Deal Watch — Fishing`; no Hat:SweatbandMachine automation is assumed. The repository remains authoritative for targets, source coverage, domain rules, listing history, tasks, and decisions.
 
 ## Purpose and scope
 
-The project exists to find, verify, evaluate, and track unusually good deals using durable watchlists, source definitions, evaluation rules, and listing history. Fishing emphasizes older, discontinued, misidentified, or undervalued premium rods and reels. Hat:Machine seeks purpose-built, convertible, and sleeper machines capable of sewing leather sweatbands into formed felt hats.
+The project exists to find, verify, evaluate, and track unusually good deals using durable watchlists, source definitions, evaluation rules, and listing history. Fishing emphasizes older, discontinued, misidentified, or undervalued premium rods and reels. Hat:SweatbandMachine seeks purpose-built, convertible, and sleeper machines capable of sewing leather sweatbands into formed felt hats.
 
 Primary goals:
 - find genuine bargains rather than merely fair retail prices;
@@ -28,10 +28,10 @@ Primary goals:
 - `SOURCES.md` — source checklist and coverage expectations.
 - `DEAL_RULES.md` — Fishing scoring, valuation, verification, and reporting rules.
 - `LISTINGS.md` — Fishing listing/history ledger and benchmarks.
-- `HAT_MACHINE_DEAL_RULES.md` — Hat:Machine mission-fit, conversion, valuation, and reporting rules.
-- `HAT_MACHINE_LISTINGS.md` — Hat:Machine listing/history ledger and benchmarks.
+- `HAT_MACHINE_DEAL_RULES.md` — Hat:SweatbandMachine mission-fit, conversion, valuation, and reporting rules.
+- `HAT_MACHINE_LISTINGS.md` — Hat:SweatbandMachine listing/history ledger and benchmarks.
 
-## Active watch domain — Fishing
+## Active watch — Fishing:WorkerRod
 
 ### Rod discovery framework
 
@@ -103,15 +103,17 @@ Comparable premium Loomis rods are in scope, including GLX, IMX, IMX-Pro, NRX an
   - similar discontinued HMG variants
 - Worker-compatible current/prior Fenwick Walleye, Inshore, Eagle, HMG, Elite, and general spinning rods.
 
+## Active watch — Fishing:StradicReel
+
 ### Shimano reels
 - Stradic FM `ST1000HGFM`
 - Stradic FM 2500-size models, especially `ST2500HGFM`
 
 See `WATCHLIST.md` for authoritative target details.
 
-## Active watch domain — Hat:Machine
+## Active watch — Hat:SweatbandMachine
 
-Hat:Machine asks: **Can this machine sew a leather sweatband into a formed felt hat?**
+Hat:SweatbandMachine asks: **Can this machine sew a leather sweatband into a formed felt hat?**
 
 It searches three acquisition tracks:
 - **Native:** documented purpose-built sweatband machines.
@@ -129,8 +131,8 @@ Known purpose-built benchmarks and the first run are preserved in `HAT_MACHINE_L
 ## Current operating rules
 
 - Maintain naming consistency: canonical project name is `Deal_Watch`; descriptive domain labels must not silently become project names.
-- Use `Fishing` and `Hat:Machine` as active domain labels, not as canonical project names.
-- Keep domain evaluations separate: Fishing uses `DEAL_RULES.md` / `LISTINGS.md`; Hat:Machine uses `HAT_MACHINE_DEAL_RULES.md` / `HAT_MACHINE_LISTINGS.md`.
+- Use the canonical keys `Fishing:WorkerRod`, `Fishing:StradicReel`, and `Hat:SweatbandMachine`; domain-only or item-only labels are shorthand, not watch identities.
+- Label Fishing ledger entries as `Fishing:WorkerRod` or `Fishing:StradicReel` within `LISTINGS.md`; use `HAT_MACHINE_DEAL_RULES.md` / `HAT_MACHINE_LISTINGS.md` only for `Hat:SweatbandMachine`.
 - Preserve existing `FDW-*` task and decision IDs as stable historical identifiers. New durable IDs use the `DW-*` prefix.
 - Treat ChatGPT conversations as working sessions. Before deleting an old chat, reconcile any important decisions, actions, listings, source findings, rule changes, or continuation details into the GitHub repository.
 - Rod searches must combine current watch-property levels and preferred qualities with named priority targets rather than treating named models as an exhaustive whitelist.
@@ -163,15 +165,15 @@ A daily condition-watch automation named `Deal Watch — Fishing` is enabled for
 - BidRush direct item pages and site search have been validated as readable from ChatGPT/workspace tooling, but future runs should continue testing search quality because results can be fuzzy/noisy.
 - Listing history is currently sparse because prior searches were conversational rather than ledger-driven.
 - Worker research should continue opportunistically across older/discontinued Fenwick generations and later across other manufacturers, but the role definition is stable enough for Fishing execution.
-- Hat:Machine source coverage needs repeated validation across the newly added industrial dealers, upholstery/leather/canvas channels, liquidations, and poorly identified local industrial machines.
+- Hat:SweatbandMachine source coverage needs repeated validation across the newly added industrial dealers, upholstery/leather/canvas channels, liquidations, and poorly identified local industrial machines.
 
 ## Immediate continuation point
 
-The current continuation focus is **Hat:Machine**. Run the next Hat:Machine search using the `Domain — Hat:Machine` section of `WATCHLIST.md`, the Hat-specific sources and adjacent-trade searches in `SOURCES.md`, `HAT_MACHINE_DEAL_RULES.md`, and `HAT_MACHINE_LISTINGS.md`.
+The current continuation focus is **`Deal_Watch:Hat:SweatbandMachine`**. Run the next Hat:SweatbandMachine search using the `Domain — Hat:SweatbandMachine` section of `WATCHLIST.md`, the Hat-specific sources and adjacent-trade searches in `SOURCES.md`, `HAT_MACHINE_DEAL_RULES.md`, and `HAT_MACHINE_LISTINGS.md`.
 
 Search both exact-purpose models and broad architecture/sleeper listings. Apply the formed-hat geometry and specific conversion-feasibility test before assigning mission fit. Record meaningful findings and actual source coverage in `HAT_MACHINE_LISTINGS.md`.
 
-Fishing remains active and may be run separately using `DEAL_RULES.md` and `LISTINGS.md`. Do not combine the two domain ledgers.
+`Deal_Watch:Fishing:WorkerRod` and `Deal_Watch:Fishing:StradicReel` remain active and may be run separately using `DEAL_RULES.md` and `LISTINGS.md`. Do not combine the two domain ledgers.
 
 ## Restore order for a new chat
 
