@@ -1,6 +1,6 @@
-# Deal_Watch — Fishing Deal Rules
+# Deal_Watch — Fishing Watch Rules
 
-This file defines how listings in the current fishing watch domain are evaluated and reported.
+This file defines shared evaluation behavior for `Deal_Watch:Fishing:WorkerRod` and `Deal_Watch:Fishing:StradicReel`. Every reported listing must identify which watch key applies.
 
 ## Deal Score
 
@@ -89,7 +89,7 @@ For worthwhile listings, report:
 
 ## Notification threshold
 
-The fishing-domain condition watch should notify only for worthwhile **new** or **meaningfully changed** listings.
+The legacy automation executing the Fishing watch keys should notify only for worthwhile **new** or **meaningfully changed** listings.
 
 Meaningful changes include:
 - new listing
