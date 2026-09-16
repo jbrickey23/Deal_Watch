@@ -22,66 +22,63 @@ Read, in this order:
 6. `SOURCES.md`
 7. `DEAL_RULES.md`
 8. `LISTINGS.md`
-9. `Deal_Watch_New_Chat_Bootstrap_Prompt.md`
+9. `HAT_MACHINE_DEAL_RULES.md`
+10. `HAT_MACHINE_LISTINGS.md`
+11. `Deal_Watch_New_Chat_Bootstrap_Prompt.md`
 
 Then tell me concisely:
 1. the current authoritative project state;
-2. what work is open;
-3. the immediate continuation point;
-4. the next unused durable task ID;
-5. whether GitHub read/write access is currently available.
+2. the active domains;
+3. what work is open;
+4. the immediate continuation point;
+5. the next unused durable task ID;
+6. whether GitHub read/write access is currently available.
 
-Do not make repository changes until the restore is complete unless I explicitly ask you to reconcile immediately.
-
-## Reconciled checkpoint additions
-
-- Preserve full clickable listing URLs in `LISTINGS.md`; for Facebook Marketplace use `https://www.facebook.com/marketplace/item/<listing_id>/`.
-- Facebook Marketplace was previously authenticated and searched around Redmond/98053, represented by Facebook as Ames Lake, within 500 miles. If the browser environment is unavailable, mark authenticated Marketplace coverage honestly rather than treating public indexed results as native coverage.
-- A future felt-hat domain has been scoped but is not active. Fishing remains active unless the user explicitly asks to switch.
-- Candidate felt-hat domain focus: thrift/garage-sale/estate-sale quality fur-felt hats for reshape/upcycle, especially rabbit felt, beaver felt, beaver blend, and 50/50 beaver/rabbit. Evaluate size, condition, price, material-confidence, X/XXX markings, and visual evidence from sweatband/liner/tags/photos.
+Do not make repository changes until restoration is complete unless I explicitly ask you to reconcile immediately.
 
 ## Current checkpoint
 
-`Deal_Watch` is initialized as a durable GitHub-backed deal-discovery framework. Fishing is the current watch domain, focused on unusually good fishing-tackle deals, particularly older, discontinued, misidentified, or undervalued premium tackle.
+`Deal_Watch` is initialized as a durable, multi-domain deal-discovery framework.
 
-The durable project includes:
-- an authoritative watchlist;
-- a source checklist with explicit coverage-state reporting;
-- deal-scoring and verification rules;
-- a listing/history ledger;
-- durable tasks and decisions.
+Active domains:
+- **Fishing** — premium tackle bargain discovery, including the Worker rod role.
+- **Hat:Machine** — purpose-built, convertible, and sleeper machines evaluated against whether they can sew a leather sweatband into a formed felt hat.
 
-A daily ChatGPT automation named `Deal Watch — Fishing` is enabled for the current fishing domain. Treat it as an execution mechanism, not the durable source of truth.
+The possible felt-hat acquisition/upcycling watch remains a separately scoped future domain and is not active.
 
-## Naming rule
+Shared records:
+- `WATCHLIST.md`
+- `SOURCES.md`
+- durable Context, TODO, Decision Log, and Bootstrap files.
 
-The canonical project name is `Deal_Watch`. The repository is `JBrickey23/Deal_Watch`. Fishing is a watch domain, not a project rename. Do not silently substitute `Fishing Deal Watch`, `Fishing_Deal_Watch`, `Deal_Watcher`, or another alias for the canonical project name.
+Domain records:
+- Fishing: `DEAL_RULES.md`, `LISTINGS.md`
+- Hat:Machine: `HAT_MACHINE_DEAL_RULES.md`, `HAT_MACHINE_LISTINGS.md`
 
-Existing `FDW-*` durable IDs are legacy stable identifiers and remain unchanged. New durable IDs use `DW-*`.
+## Domain separation rule
 
-## Chat cleanup rule
+Select the requested domain before searching. Apply only its rules and write only to its ledger. Do not blend Fishing and Hat:Machine findings into one run or ledger.
 
-Old chat windows are working sessions, not durable records. They can be deleted after any important decisions, actions, listings, source findings, rule changes, or continuation details from that chat have been reconciled into the GitHub repository.
+## Current continuation
 
-When in doubt, reconcile first and delete the old chat only after confirming the repository either changed appropriately or already contained the relevant state.
+The current continuation focus is **Hat:Machine**. Search exact-purpose machines plus convertible and sleeper industrial machines, including cylinder-arm, post-bed, off-the-arm/free-arm, upholstery, leather, canvas, shoe-repair, shop-liquidation, and used-industrial-dealer sources.
+
+For every candidate, answer the formed-hat geometry question first and identify any actual modification path and all-in cost. Record meaningful findings and actual source coverage in `HAT_MACHINE_LISTINGS.md`.
+
+Fishing remains active and can be run separately.
+
+## Automation state
+
+A daily condition-watch automation named `Deal Watch — Fishing` is enabled for Fishing. It is only an execution mechanism. No Hat:Machine automation is assumed unless separately created.
+
+## Naming and cleanup
+
+The canonical project name is `Deal_Watch`. Fishing and Hat:Machine are domain labels. Existing `FDW-*` IDs remain stable; new durable IDs use `DW-*`.
+
+Old chats can be deleted only after important decisions, listings, source findings, rule changes, and continuation details have been reconciled into GitHub.
 
 ## Do not repeat
 
-Do not recreate project initialization. Do not treat previously rejected fair-market listings as new finds unless price, condition, identity, or availability has materially changed.
-
-Do not claim a source was searched when it was inaccessible or not searched.
-
-## Current operating priorities
-
-- Use `WATCHLIST.md` for fishing-domain targets.
-- Use `SOURCES.md` for search coverage and discovery/verification roles.
-- Use `DEAL_RULES.md` for delivered-price discipline, verification, risk analysis, and Deal Scores.
-- Use `LISTINGS.md` to detect new, changed, ended, or already-rejected listings.
-
-## Immediate continuation
-
-The next substantive fishing-domain search run should execute against the durable repository specification, report actual source coverage, and update `LISTINGS.md` with worthwhile new or meaningfully changed observations.
-
-After meaningful work, reconcile affected durable records before transferring to another conversation.
+Do not recreate project initialization. Do not treat unchanged or previously rejected listings as new. Do not claim a source was searched when it was inaccessible or not searched.
 
 ---
