@@ -4,11 +4,11 @@
 
 `Deal_Watch` is a GitHub-backed durable project. Repository: `JBrickey23/Deal_Watch`. GitHub is the durable source of truth; ChatGPT conversations are working sessions.
 
-The project is domain-agnostic by design. **Fishing** is the current watch domain. An enabled ChatGPT condition-watch automation named `Deal Watch — Fishing` executes that domain watch; the repository remains authoritative for targets, source coverage, deal rules, listing history, tasks, and decisions.
+The project is domain-agnostic by design. **Fishing** and **Hat:Machine** are active watch domains. Fishing has an enabled ChatGPT condition-watch automation named `Deal Watch — Fishing`; no Hat:Machine automation is assumed. The repository remains authoritative for targets, source coverage, domain rules, listing history, tasks, and decisions.
 
 ## Purpose and scope
 
-The project exists to find, verify, evaluate, and track unusually good deals using durable watchlists, source definitions, evaluation rules, and listing history. The current fishing domain emphasizes older, discontinued, misidentified, or undervalued premium rods and reels.
+The project exists to find, verify, evaluate, and track unusually good deals using durable watchlists, source definitions, evaluation rules, and listing history. Fishing emphasizes older, discontinued, misidentified, or undervalued premium rods and reels. Hat:Machine seeks purpose-built, convertible, and sleeper machines capable of sewing leather sweatbands into formed felt hats.
 
 Primary goals:
 - find genuine bargains rather than merely fair retail prices;
@@ -26,10 +26,12 @@ Primary goals:
 - `Deal_Watch_New_Chat_Bootstrap_Prompt.md` — fresh-chat restoration instructions.
 - `WATCHLIST.md` — authoritative targets and configurations for the current watch domain.
 - `SOURCES.md` — source checklist and coverage expectations.
-- `DEAL_RULES.md` — scoring, valuation, verification, and reporting rules.
-- `LISTINGS.md` — known listing/history ledger and benchmark observations.
+- `DEAL_RULES.md` — Fishing scoring, valuation, verification, and reporting rules.
+- `LISTINGS.md` — Fishing listing/history ledger and benchmarks.
+- `HAT_MACHINE_DEAL_RULES.md` — Hat:Machine mission-fit, conversion, valuation, and reporting rules.
+- `HAT_MACHINE_LISTINGS.md` — Hat:Machine listing/history ledger and benchmarks.
 
-## Current watch domain — Fishing
+## Active watch domain — Fishing
 
 ### Rod discovery framework
 
@@ -107,10 +109,28 @@ Comparable premium Loomis rods are in scope, including GLX, IMX, IMX-Pro, NRX an
 
 See `WATCHLIST.md` for authoritative target details.
 
+## Active watch domain — Hat:Machine
+
+Hat:Machine asks: **Can this machine sew a leather sweatband into a formed felt hat?**
+
+It searches three acquisition tracks:
+- **Native:** documented purpose-built sweatband machines.
+- **Convertible:** machines with suitable fundamental geometry and a specific reasonable modification path.
+- **Sleeper:** cheap, poorly identified older industrial machines whose photos/model plates reveal favorable geometry.
+
+Priority investigation includes Singer 103W2, verified Singer 107 subclasses, ASM 1107-1, Juki LS-341-related cylinder-arm designs, Consew 227/227R-class machines, Adler 69-class machines, 441-style cylinder-arm machines, and comparable post-bed/off-the-arm/free-arm industrials. Inclusion is for investigation, not automatic qualification.
+
+Every candidate receives the formed-hat rotation, crown/brim-junction reach, clearance, stitch/feed, material-control, slow-speed, modification-feasibility, parts, condition, and all-in-cost tests in `HAT_MACHINE_DEAL_RULES.md`.
+
+Search base: ZIP 98053 / approximately 500 miles where supported, plus compelling shipping-capable national listings.
+
+Known purpose-built benchmarks and the first run are preserved in `HAT_MACHINE_LISTINGS.md`. The Juki MB-372/Z002 is a confirmed negative example.
+
 ## Current operating rules
 
 - Maintain naming consistency: canonical project name is `Deal_Watch`; descriptive domain labels must not silently become project names.
-- Use `Fishing` as the current watch-domain label, not as the canonical project name.
+- Use `Fishing` and `Hat:Machine` as active domain labels, not as canonical project names.
+- Keep domain evaluations separate: Fishing uses `DEAL_RULES.md` / `LISTINGS.md`; Hat:Machine uses `HAT_MACHINE_DEAL_RULES.md` / `HAT_MACHINE_LISTINGS.md`.
 - Preserve existing `FDW-*` task and decision IDs as stable historical identifiers. New durable IDs use the `DW-*` prefix.
 - Treat ChatGPT conversations as working sessions. Before deleting an old chat, reconcile any important decisions, actions, listings, source findings, rule changes, or continuation details into the GitHub repository.
 - Rod searches must combine current watch-property levels and preferred qualities with named priority targets rather than treating named models as an exhaustive whitelist.
@@ -142,15 +162,16 @@ A daily condition-watch automation named `Deal Watch — Fishing` is enabled for
 - Source coverage still needs operational validation across repeated runs, especially Facebook Marketplace, OfferUp, Craigslist, Mercari, estate-sale sites beyond BidRush, Goodwill sources, independent tackle shops, and pawn/liquidation sources.
 - BidRush direct item pages and site search have been validated as readable from ChatGPT/workspace tooling, but future runs should continue testing search quality because results can be fuzzy/noisy.
 - Listing history is currently sparse because prior searches were conversational rather than ledger-driven.
-- Worker research should continue opportunistically across older/discontinued Fenwick generations and later across other manufacturers, but the role definition is now stable enough for Deal_Watch execution.
+- Worker research should continue opportunistically across older/discontinued Fenwick generations and later across other manufacturers, but the role definition is stable enough for Fishing execution.
+- Hat:Machine source coverage needs repeated validation across the newly added industrial dealers, upholstery/leather/canvas channels, liquidations, and poorly identified local industrial machines.
 
 ## Immediate continuation point
 
-Run the next fishing-domain Deal_Watch search using `WATCHLIST.md`, `SOURCES.md`, and `DEAL_RULES.md` as authoritative instructions. For rods, search both the named priority targets and the current REQUIRED/PREFERRED/EXCLUDE property framework, with **Worker** treated as a named high-priority role. Search used listings by specifications/photos as well as exact model strings because older Worker candidates may be poorly identified.
+The current continuation focus is **Hat:Machine**. Run the next Hat:Machine search using the `Domain — Hat:Machine` section of `WATCHLIST.md`, the Hat-specific sources and adjacent-trade searches in `SOURCES.md`, `HAT_MACHINE_DEAL_RULES.md`, and `HAT_MACHINE_LISTINGS.md`.
 
-Record notable findings and source coverage in `LISTINGS.md`, then reconcile any durable rule or watchlist changes.
+Search both exact-purpose models and broad architecture/sleeper listings. Apply the formed-hat geometry and specific conversion-feasibility test before assigning mission fit. Record meaningful findings and actual source coverage in `HAT_MACHINE_LISTINGS.md`.
 
-Specific prior follow-up from the 2026-09-15 BidRush-only run: two active pickup-only Port Ludlow mixed fishing lots are preserved in `LISTINGS.md` and may merit deeper photo inspection before their 2026-09-17 UTC close if the user wants to pursue local estate-lot upside.
+Fishing remains active and may be run separately using `DEAL_RULES.md` and `LISTINGS.md`. Do not combine the two domain ledgers.
 
 ## Restore order for a new chat
 
@@ -162,7 +183,9 @@ Specific prior follow-up from the 2026-09-15 BidRush-only run: two active pickup
 6. `SOURCES.md`
 7. `DEAL_RULES.md`
 8. `LISTINGS.md`
-9. `Deal_Watch_New_Chat_Bootstrap_Prompt.md`
+9. `HAT_MACHINE_DEAL_RULES.md`
+10. `HAT_MACHINE_LISTINGS.md`
+11. `Deal_Watch_New_Chat_Bootstrap_Prompt.md`
 
 Always use the latest repository state rather than prior chat memory when they conflict.
 
