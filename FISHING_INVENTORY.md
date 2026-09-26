@@ -38,21 +38,22 @@ Reel reference images are tracked in `REEL_IMAGES.md` and mirrored under `assets
 **Keep / replace / unsure:** UNKNOWN  
 **Notes:** Not close to the `HMGW72ML-FS-2` Worker role; this is a short casting utility rod, not a light spinning finesse rod.
 
-### DreamCatcher ZEUS 2-piece Spinning Rod — two tips
-**Status:** OWNED  
+### DreamCatcher Z201 2-piece Spinning Rod — two tips
+**Status:** OWNED / model and printed specifications confirmed by user  
 **Brand/source:** DreamCatcher  
+**Model:** `Z201`  
 **Type:** Spinning rod  
 **Length:** 6'6"  
+**Power:** Medium  
 **Action:** Fast  
 **Pieces:** 2  
-**Tips included:** Medium tip + Medium Heavy tip  
-**Effective powers:** Medium or Medium Heavy depending on tip  
-**Line rating:** UNKNOWN  
-**Lure rating:** UNKNOWN  
-**Likely role:** configurable spinning utility rod; can bridge medium spinning duty and heavier spinning duty depending on installed tip  
+**Tips included:** Medium tip + Medium Heavy tip (previously reported by user; retain pending clarification of how the Z201 markings apply to each tip)  
+**Lure rating:** 3/16-2 oz  
+**Line rating:** 8-20 lb  
+**Likely role:** broad-range/heavier spinning utility rod; substantial upper lure capacity compared with the Fenwick HMG Worker and likely overlap/comparison with the Fenwick Eagle `EGLW66M-FS-2`  
 **Pairing:** UNKNOWN  
 **Keep / replace / unsure:** UNKNOWN  
-**Notes:** Important comparison against `EGLW66M-FS-2`: both are 6'6" spinning rods with at least Medium power, but the ZEUS can step to Medium Heavy while the Fenwick Eagle is a fixed Medium/Fast 1/8-3/4 oz rod.
+**Notes:** Updated 2026-09-26 from user-read rod markings: 6'6", Z201, Medium, Fast, 3/16-2 oz, 8-20 lb. Do not assume the printed ratings differ between the included M and MH tips without further markings.
 
 ### DreamCatcher CARBONITE 2-piece Casting Rod — two tips
 **Status:** OWNED  
@@ -177,7 +178,7 @@ Reel reference images are tracked in `REEL_IMAGES.md` and mirrored under `assets
 - Confirm whether `B0D15WC5DT` is the 5'6" Medium 1-piece GX2 casting rod variant shown by indexed product data.
 - Confirm exact Shimano Spirex 1000-class submodel suffix and specs.
 - Identify current pairings for the Shimano IX, Shimano Spirex, and Lew's baitcaster.
-- Confirm line/lure ratings for the DreamCatcher ZEUS 6'6" two-tip spinning rod.
+- Clarify whether DreamCatcher `Z201` 3/16-2 oz / 8-20 lb markings apply to the rod generally or specifically to one of the included Medium / Medium Heavy tips.
 - Confirm line/lure ratings for the DreamCatcher CARBONITE 7' two-tip casting rod.
 - Confirm South Bend Elite ES-323A power/action and printed 4-8 lb / 1/8-3/8 oz ratings; confirm whether it is paired with Pflueger PRES20.
 - Confirm Pflueger PRES20 (not PRES20X) gear ratio, line capacity, condition, and current pairing from reel markings/photos.
