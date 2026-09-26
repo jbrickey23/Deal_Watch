@@ -38,11 +38,15 @@ ChatGPT conversations are working sessions. GitHub is the durable authoritative 
 
 Canonical repository: `JBrickey23/Deal_Watch`
 
+GitHub write path: use normal contents-file tools for UTF-8 text. For binary assets, use Git blobs, trees, commits, and `update_ref`; this workflow is verified.
+
 Shared state:
 - `Deal_Watch_Context.md`
 - `Deal_Watch_TODO.md`
 - `Deal_Watch_Decision_Log.md`
 - `Deal_Watch_New_Chat_Bootstrap_Prompt.md`
+- `FISHING_INVENTORY.md`
+- `REEL_IMAGES.md`
 - `WATCHLIST.md`
 - `SOURCES.md`
 
