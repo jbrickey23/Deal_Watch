@@ -6,20 +6,6 @@ Reel reference images are tracked in `REEL_IMAGES.md` and mirrored under `assets
 
 ## Rods
 
-### Berkley Lightning Spinning Rod — 5'6" Light 2-piece
-**Status:** OWNED  
-**Type:** Spinning rod  
-**Length:** 5'6"  
-**Power:** Light  
-**Action:** UNKNOWN  
-**Pieces:** 2  
-**Line rating:** UNKNOWN  
-**Lure rating:** UNKNOWN  
-**Likely role:** short light spinning rod; likely panfish/trout/creek/close-quarters light-duty role  
-**Pairing:** UNKNOWN  
-**Keep / replace / unsure:** UNKNOWN  
-**Notes:** Relevant comparison point for whether the `EGLW66M-FS-2` fills a distinct heavier/longer slot rather than replacing this light rod.
-
 ### Ugly Stik GX2 Spinning Rod — 5'6" Light Fast 2-piece
 **Status:** OWNED / confirmed variant  
 **Source / purchase link:** https://www.cabelas.com/p/ugly-stik-gx2-spinning-rod-101594182  
@@ -34,7 +20,7 @@ Reel reference images are tracked in `REEL_IMAGES.md` and mirrored under `assets
 **Likely role:** durable short light spinning rod; panfish/trout/creek/close-quarters light-duty role  
 **Pairing:** UNKNOWN  
 **Keep / replace / unsure:** UNKNOWN  
-**Notes:** Similar slot to the Berkley Lightning 5'6" Light 2-piece; compare sensitivity, durability, portability, and actual use before deciding whether either is redundant.
+**Notes:** Compare with the South Bend Elite ES-323A for short, light spinning duty.
 
 ### Ugly Stik GX2 Casting Rod — ASIN B0D15WC5DT
 **Status:** OWNED / needs user confirmation of exact variant if Amazon order page differs  
@@ -119,7 +105,7 @@ Reel reference images are tracked in `REEL_IMAGES.md` and mirrored under `assets
 **Pieces:** 2 (user report)  
 **Line rating:** 4-8 lb per matching ES-323A listing; verify printed rod label  
 **Lure rating:** 1/8-3/8 oz per matching ES-323A listing; verify printed rod label  
-**Likely role:** short light spinning rod for panfish/trout and close-quarters use; compare with Berkley Lightning and Ugly Stik GX2 5'6" Light rods  
+**Likely role:** short light spinning rod for panfish/trout and close-quarters use; compare with the Ugly Stik GX2 5'6" Light rod  
 **Pairing:** UNKNOWN; Pflueger President PRES20 may be suitable if currently paired, but pairing not established  
 **Keep / replace / unsure:** UNKNOWN  
 **Reference:** https://offerup.com/item/detail/50f665ac-139e-3780-84bf-0ff28e3bb266 (independent seller description, not manufacturer specification)
@@ -190,7 +176,6 @@ Reel reference images are tracked in `REEL_IMAGES.md` and mirrored under `assets
 
 ## Open Inventory Questions
 
-- Confirm line/lure/action ratings for the Berkley Lightning 5'6" Light 2-piece spinning rod.
 - Confirm line/lure ratings for the Ugly Stik GX2 5'6" Light Fast 2-piece spinning rod.
 - Confirm whether `B0D15WC5DT` is the 5'6" Medium 1-piece GX2 casting rod variant shown by indexed product data.
 - Confirm exact Shimano Spirex 1000-class submodel suffix and specs.
