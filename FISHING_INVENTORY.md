@@ -4,6 +4,20 @@ Durable owned-gear inventory for rods and reels. Use this to evaluate lineup gap
 
 ## Rods
 
+### Berkley Lightning Spinning Rod — 5'6" Light 2-piece
+**Status:** OWNED  
+**Type:** Spinning rod  
+**Length:** 5'6"  
+**Power:** Light  
+**Action:** UNKNOWN  
+**Pieces:** 2  
+**Line rating:** UNKNOWN  
+**Lure rating:** UNKNOWN  
+**Likely role:** short light spinning rod; likely panfish/trout/creek/close-quarters light-duty role  
+**Pairing:** UNKNOWN  
+**Keep / replace / unsure:** UNKNOWN  
+**Notes:** Relevant comparison point for whether the `EGLW66M-FS-2` fills a distinct heavier/longer slot rather than replacing this light rod.
+
 ### Ugly Stik GX2 Spinning Rod — Cabela's Web ID 101594182
 **Status:** OWNED / needs user confirmation of exact variant  
 **Source / purchase link:** https://www.cabelas.com/p/ugly-stik-gx2-spinning-rod-101594182  
@@ -103,6 +117,7 @@ Durable owned-gear inventory for rods and reels. Use this to evaluate lineup gap
 ## Open Inventory Questions
 
 - Confirm exact Shimano IX size/model marking for ASIN `B003ZZBX30`.
+- Confirm line/lure/action ratings for the Berkley Lightning 5'6" Light 2-piece spinning rod.
 - Confirm exact Cabela's Ugly Stik GX2 spinning rod variant for Web ID `101594182`; indexed/default visible variant is 4'6" Ultra Light Moderate Fast 1-piece.
 - Confirm whether `B0D15WC5DT` is the 5'6" Medium 1-piece GX2 casting rod variant shown by indexed product data.
 - Confirm whether `B07W6X4T19` is the left-hand `CP1SHL` Lew's Classic Pro Speed Spool SLP.
