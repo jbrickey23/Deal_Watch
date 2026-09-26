@@ -8,7 +8,9 @@ Legacy `FDW-*` IDs are preserved as stable historical identifiers. New task IDs 
 
 ### DW-TODO-011 — Itemize owned fishing gear
 **Priority:** High  
-**Status:** OPEN
+**Status:** OPEN / IN PROGRESS
+
+2026-09-26 checkpoint: `FISHING_INVENTORY.md` includes South Bend Elite `ES-323A` and user-confirmed Pflueger President `PRES20` (not `PRES20X`); the Berkley Lightning was removed. Lew's baitcaster is user-confirmed left-hand. Continue resolving printed rod specs, reel submodels, actual pairings and the Fenwick Eagle keep/return decision.
 
 Create a durable inventory of the user's owned fishing rods and reels so Deal_Watch can evaluate lineup gaps, overlap, replacement candidates, and future search targets against actual owned gear instead of isolated deals.
 
