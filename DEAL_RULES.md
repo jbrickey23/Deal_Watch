@@ -87,6 +87,18 @@ For worthwhile listings, report:
 - Deal Score 1–10
 - concise category: `fair price`, `interesting`, `strong buy`, or `grab it`
 
+## Post-procurement fishing filters
+
+Because the Fenwick HMG Walleye `HMGW72ML-FS-2` and a Stradic 1000HG have been procured, future Fishing notifications should not alert on ordinary duplicates of those exact roles.
+
+Surface additional HMGW72ML-FS-2 / Worker-like rods only when:
+- the price is true backup/flip territory;
+- condition is excellent and delivered cost materially beats current owned/new benchmarks;
+- the rod fills a demonstrably different slot from the owned HMG Worker; or
+- the listing helps evaluate whether the user's other received Fenwick should replace an existing rod.
+
+Surface additional Stradic 1000HG listings only when they are exceptional backup/spare-value opportunities. Prioritize 2500-size FM variants when they fill a different role from the owned 1000-size reel.
+
 ## Notification threshold
 
 The legacy automation executing the Fishing watch keys should notify only for worthwhile **new** or **meaningfully changed** listings.
