@@ -145,10 +145,10 @@ Reel reference images are tracked in `REEL_IMAGES.md` and mirrored under `assets
 ### Lew's Classic Pro Speed Spool SLP baitcast reel — ASIN B07W6X4T19
 **Status:** OWNED / confirmed variant  
 **Image:** `assets/reels/lews-classic-pro-speed-spool-slp.jpg`  
-**Model:** Lew's Classic Pro Speed Spool SLP, model `CP1SHL`  
+**Model:** Lew's Classic Pro Speed Spool SLP, likely `CP1SHL` from order/product data; exact model marking not yet checked  
 **Source / purchase link:** https://www.amazon.com/dp/B07W6X4T19  
 **Type:** Baitcast reel  
-**Hand retrieve:** Left hand  
+**Hand retrieve:** Left hand — confirmed by user  
 **Gear ratio:** 7.5:1, per indexed product title/data  
 **Bearings:** 5, per indexed product data  
 **Material notes:** graphite frame/body class; aluminum handle per indexed product data  
