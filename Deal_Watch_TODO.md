@@ -6,6 +6,19 @@ Legacy `FDW-*` IDs are preserved as stable historical identifiers. New task IDs 
 
 ## OPEN
 
+### DW-TODO-011 — Itemize owned fishing gear
+**Priority:** High  
+**Status:** OPEN
+
+Create a durable inventory of the user's owned fishing rods and reels so Deal_Watch can evaluate lineup gaps, overlap, replacement candidates, and future search targets against actual owned gear instead of isolated deals.
+
+Success criteria:
+- list owned rods with maker/model, length, power, action, piece count, lure rating, line rating, handle notes, intended role, and keep/replace/unknown status;
+- list owned reels with maker/model/SKU/generation, size, intended pairing, condition, and keep/replace/unknown status;
+- identify current lineup roles and gaps;
+- use the inventory to resolve `DW-TODO-010` for `EGLW66M-FS-2`;
+- update Fishing search parameters so future alerts fill gaps rather than duplicate owned gear.
+
 ### DW-TODO-010 — Evaluate Fenwick EGLW66M-FS-2 before return
 **Priority:** High  
 **Status:** OPEN
@@ -107,4 +120,4 @@ Created and reconciled the core durable records plus fishing-domain watchlist, s
 
 ## Next unused task ID
 
-`DW-TODO-011`
+`DW-TODO-012`
