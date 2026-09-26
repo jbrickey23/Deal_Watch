@@ -4,6 +4,20 @@ Newest decisions first. Record durable decisions, not every discussion.
 
 Legacy `FDW-*` IDs remain stable historical identifiers. New decision IDs use the `DW-*` prefix.
 
+## DW-DEC-017 — Shift Fishing search after Worker and Stradic 1000 procurement
+**Date:** 2026-09-26  
+**Status:** Current
+
+The user has procured the Fenwick HMG Walleye `HMGW72ML-FS-2` Worker benchmark and a Stradic 1000HG / `ST1000HGFM`-class reel. Future `Deal_Watch:Fishing:WorkerRod` and `Deal_Watch:Fishing:StradicReel` execution should not continue alerting on ordinary duplicates of those exact roles.
+
+Fishing searches now prioritize:
+- rods that fill a meaningfully different lineup slot from the owned HMG Worker;
+- exceptional backup/flip pricing on Worker-like rods;
+- 2500-size Stradic FM variants that complement the owned 1000-size reel;
+- evaluation of the user's other received Fenwick rod before return, specifically whether it replaces another rod or overlaps too closely with the owned HMG Worker.
+
+The other received Fenwick rod is not yet identified in durable state. It must be evaluated by exact model/specs before the watchlist is further narrowed.
+
 ## DW-DEC-016 — Canonical watches use Project:Domain:WatchType
 **Date:** 2026-09-16  
 **Status:** Current
