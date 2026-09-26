@@ -4,6 +4,21 @@ Durable owned-gear inventory for rods and reels. Use this to evaluate lineup gap
 
 ## Rods
 
+### Ugly Stik GX2 Spinning Rod — Cabela's Web ID 101594182
+**Status:** OWNED / needs user confirmation of exact variant  
+**Source / purchase link:** https://www.cabelas.com/p/ugly-stik-gx2-spinning-rod-101594182  
+**Type:** Spinning rod  
+**Likely product family:** Ugly Stik GX2 Spinning Rod  
+**Indexed/default visible variant:** 4'6", Ultra Light, Moderate Fast, 1-piece  
+**Length:** UNKNOWN until confirmed from rod markings/order variant; likely 4'6" if default indexed variant is correct  
+**Power:** UNKNOWN until confirmed; likely Ultra Light if default indexed variant is correct  
+**Action:** UNKNOWN until confirmed; likely Moderate Fast if default indexed variant is correct  
+**Pieces:** UNKNOWN until confirmed; likely 1 if default indexed variant is correct  
+**Likely role:** durable short ultralight/creek/panfish/trout spinning rod if default variant is correct  
+**Pairing:** UNKNOWN  
+**Keep / replace / unsure:** UNKNOWN  
+**Notes:** Product-family pages can hide selected variants. Confirm exact length/power/action/pieces from rod markings or order details.
+
 ### Ugly Stik GX2 Casting Rod — ASIN B0D15WC5DT
 **Status:** OWNED / needs user confirmation of exact variant if Amazon order page differs  
 **Likely model:** Ugly Stik GX2 Casting Rod, model `USGXCAP561M`  
@@ -88,6 +103,7 @@ Durable owned-gear inventory for rods and reels. Use this to evaluate lineup gap
 ## Open Inventory Questions
 
 - Confirm exact Shimano IX size/model marking for ASIN `B003ZZBX30`.
+- Confirm exact Cabela's Ugly Stik GX2 spinning rod variant for Web ID `101594182`; indexed/default visible variant is 4'6" Ultra Light Moderate Fast 1-piece.
 - Confirm whether `B0D15WC5DT` is the 5'6" Medium 1-piece GX2 casting rod variant shown by indexed product data.
 - Confirm whether `B07W6X4T19` is the left-hand `CP1SHL` Lew's Classic Pro Speed Spool SLP.
 - Identify current pairings for the Shimano IX and Lew's baitcaster.
