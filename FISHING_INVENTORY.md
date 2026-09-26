@@ -111,9 +111,9 @@ Durable owned-gear inventory for rods and reels. Use this to evaluate lineup gap
 
 ## Reels
 
-### Shimano IX rear-drag spinning reel — ASIN B003ZZBX30
-**Status:** OWNED / needs user confirmation of exact size label  
-**Likely model family:** Shimano IX rear-drag freshwater spinning reel, likely IX 2000R class  
+### Shimano IX 2000 rear-drag spinning reel — ASIN B003ZZBX30
+**Status:** OWNED / confirmed 2000 class  
+**Model family:** Shimano IX rear-drag freshwater spinning reel, 2000 class  
 **Source / purchase link:** https://www.amazon.com/dp/B003ZZBX30  
 **Type:** Spinning reel  
 **Drag:** Rear drag  
@@ -125,7 +125,7 @@ Durable owned-gear inventory for rods and reels. Use this to evaluate lineup gap
 **Likely role:** budget/light freshwater reel; possible loaner, backup, panfish/trout, or light utility reel  
 **Pairing:** UNKNOWN  
 **Keep / replace / unsure:** UNKNOWN  
-**Notes:** Confirm exact size printed on reel/body/spool, current line, condition, and whether it is actively used or just available inventory.
+**Notes:** Confirm current line, condition, and whether it is actively used or just available inventory.
 
 ### Lew's Classic Pro Speed Spool SLP baitcast reel — ASIN B07W6X4T19
 **Status:** OWNED / needs user confirmation of exact variant  
@@ -149,7 +149,6 @@ Durable owned-gear inventory for rods and reels. Use this to evaluate lineup gap
 
 ## Open Inventory Questions
 
-- Confirm exact Shimano IX size/model marking for ASIN `B003ZZBX30`.
 - Confirm line/lure/action ratings for the Berkley Lightning 5'6" Light 2-piece spinning rod.
 - Confirm line/lure ratings for the Ugly Stik GX2 5'6" Light Fast 2-piece spinning rod.
 - Confirm whether `B0D15WC5DT` is the 5'6" Medium 1-piece GX2 casting rod variant shown by indexed product data.
