@@ -6,7 +6,7 @@ This file is the authoritative durable target list for canonical Deal_Watch watc
 
 Fully qualified: `Deal_Watch:Fishing:WorkerRod`
 
-Mission: find the likely go-to light spinning rod for panfish/trout through finesse and general light-duty bass, complementing existing heavier rods.
+Mission: maintain and extend the user's light-spinning rod lineup after procurement of the Worker benchmark. The owned `HMGW72ML-FS-2` is now the reference Worker rod for panfish/trout through finesse and general light-duty bass; future searches should avoid near-duplicates unless they are materially better, backup-worthy at true bargain pricing, or fill a clearly different role.
 
 Core profile:
 - spinning rod;
@@ -20,19 +20,22 @@ Core profile:
 - continuous/full cork preferred;
 - likely 1000–2500 spinning-reel pairing.
 
-Named priority families include Shimano Expride, Zodias, Cumara, Crucial, Poison Adrena; comparable G. Loomis; and Worker-compatible current/prior Fenwick Eagle, HMG, Elite, Walleye, Inshore, and general spinning rods. Search by specifications and photos as well as exact model strings.
+Named priority families include Shimano Expride, Zodias, Cumara, Crucial, Poison Adrena; comparable G. Loomis; and Worker-adjacent current/prior Fenwick Eagle, HMG, Elite, Walleye, Inshore, and general spinning rods. Search by specifications and photos as well as exact model strings, but after procurement of the HMG Worker, prioritize rods that fill a different slot rather than another near-identical 7' ML/F 2-piece rod.
 
-Current anchors:
-- Fenwick Eagle Walleye `EGLW70ML-FS-2` — value baseline around $99.95 new.
-- Fenwick HMG Walleye `HMGW72ML-FS-2` — performance benchmark around $179.95 new.
+Current owned / anchor state:
+- **Procured:** Fenwick HMG Walleye `HMGW72ML-FS-2` — owned Worker benchmark; do not keep searching for ordinary duplicates.
+- Fenwick Eagle Walleye `EGLW70ML-FS-2` — value baseline around $99.95 new and a comparison point for overlap/return decisions.
+- Unknown received Fenwick — pending evaluation as a possible replacement for another rod versus too much overlap with the owned HMG Worker.
 
 ## Watch — Fishing:StradicReel
 
 Fully qualified: `Deal_Watch:Fishing:StradicReel`
 
-Mission: find unusually strong acquisition value on Shimano Stradic FM spinning reels, especially:
-- `ST1000HGFM`;
-- `ST2500HGFM` and relevant 2500-size FM variants.
+Mission: maintain Shimano Stradic FM acquisition watch after procurement of a Stradic 1000HG. The owned 1000-size reel covers the Worker pairing; future searches should prioritize materially better backup/second-spool opportunities or 2500-size FM variants that fill a different role.
+
+Current state:
+- **Procured:** Stradic 1000HG / `ST1000HGFM` class — owned; ordinary additional 1000-size listings are no longer alerts.
+- Continue watching `ST2500HGFM` and relevant 2500-size FM variants when price/condition materially beat ordinary new-market benchmarks.
 
 Verify exact SKU/generation, spool lip, bail, handle, corrosion or saltwater exposure, completeness, seller risk, returns, shipping, and delivered price. Do not mix older Stradic generations into the FM watch without identifying them explicitly as opportunistic comparables.
 
