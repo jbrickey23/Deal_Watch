@@ -16,7 +16,7 @@ Fishing searches now prioritize:
 - 2500-size Stradic FM variants that complement the owned 1000-size reel;
 - evaluation of the user's other received Fenwick rod before return, specifically whether it replaces another rod or overlaps too closely with the owned HMG Worker.
 
-The other received Fenwick rod is not yet identified in durable state. It must be evaluated by exact model/specs before the watchlist is further narrowed.
+The other received Fenwick rod has since been identified as `EGLW66M-FS-2`: 6'6", Medium, Fast, 2-piece, 6-12 lb, 1/8-3/4 oz. Evaluate it as a possible shorter/heavier utility slot versus overlap with the owned HMG Worker before further narrowing the watchlist.
 
 ## DW-DEC-016 — Canonical watches use Project:Domain:WatchType
 **Date:** 2026-09-16  
