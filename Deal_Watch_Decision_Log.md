@@ -4,6 +4,21 @@ Newest decisions first. Record durable decisions, not every discussion.
 
 Legacy `FDW-*` IDs remain stable historical identifiers. New decision IDs use the `DW-*` prefix.
 
+## DW-DEC-018 — Use Git object path for binary GitHub writes
+**Date:** 2026-09-26  
+**Status:** Current
+
+GitHub write access is verified for `JBrickey23/Deal_Watch`. The simple file contents wrapper is appropriate for UTF-8 text files, but binary assets should be written with the Git object workflow:
+
+- create binary blobs with `create_blob` using base64 content;
+- create or extend a tree with `create_tree`;
+- create a commit with `create_commit`;
+- fast-forward the branch with `update_ref`.
+
+This workflow was proven by mirroring the current reel reference images into `assets/reels/` and updating `REEL_IMAGES.md`, `FISHING_INVENTORY.md`, and `Deal_Watch_TODO.md` in commit `33c24c8e1a9624ce891512b471a63cc32ee73437`.
+
+Do not treat binary GitHub upload as blocked merely because the UTF-8 contents wrapper is the first exposed write tool.
+
 ## DW-DEC-017 — Shift Fishing search after Worker and Stradic 1000 procurement
 **Date:** 2026-09-26  
 **Status:** Current
