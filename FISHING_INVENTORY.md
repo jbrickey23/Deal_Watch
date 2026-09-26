@@ -51,9 +51,9 @@ Durable owned-gear inventory for rods and reels. Use this to evaluate lineup gap
 **Keep / replace / unsure:** UNKNOWN  
 **Notes:** Not close to the `HMGW72ML-FS-2` Worker role; this is a short casting utility rod, not a light spinning finesse rod.
 
-### ZEUS 2-piece Spinning Rod — two tips
+### DreamCatcher ZEUS 2-piece Spinning Rod — two tips
 **Status:** OWNED  
-**Brand/source:** UNKNOWN  
+**Brand/source:** DreamCatcher  
 **Type:** Spinning rod  
 **Length:** 6'6"  
 **Action:** Fast  
@@ -67,9 +67,9 @@ Durable owned-gear inventory for rods and reels. Use this to evaluate lineup gap
 **Keep / replace / unsure:** UNKNOWN  
 **Notes:** Important comparison against `EGLW66M-FS-2`: both are 6'6" spinning rods with at least Medium power, but the ZEUS can step to Medium Heavy while the Fenwick Eagle is a fixed Medium/Fast 1/8-3/4 oz rod.
 
-### CARBONITE 2-piece Casting Rod — two tips
+### DreamCatcher CARBONITE 2-piece Casting Rod — two tips
 **Status:** OWNED  
-**Brand/source:** UNKNOWN  
+**Brand/source:** DreamCatcher  
 **Type:** Casting rod  
 **Length:** 7'0"  
 **Action:** Fast  
@@ -155,6 +155,6 @@ Durable owned-gear inventory for rods and reels. Use this to evaluate lineup gap
 - Confirm whether `B0D15WC5DT` is the 5'6" Medium 1-piece GX2 casting rod variant shown by indexed product data.
 - Confirm whether `B07W6X4T19` is the left-hand `CP1SHL` Lew's Classic Pro Speed Spool SLP.
 - Identify current pairings for the Shimano IX and Lew's baitcaster.
-- Confirm brand/source and line/lure ratings for the ZEUS 6'6" two-tip spinning rod.
-- Confirm brand/source and line/lure ratings for the CARBONITE 7' two-tip casting rod.
+- Confirm line/lure ratings for the DreamCatcher ZEUS 6'6" two-tip spinning rod.
+- Confirm line/lure ratings for the DreamCatcher CARBONITE 7' two-tip casting rod.
 - Continue adding owned rods and reels, including older/current setups that the `EGLW66M-FS-2` might replace.
