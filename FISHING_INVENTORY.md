@@ -6,21 +6,20 @@ Reel reference images are tracked in `REEL_IMAGES.md` and mirrored under `assets
 
 ## Rods
 
-### Ugly Stik GX2 Spinning Rod — 5'6" Light Fast 2-piece
-**Status:** OWNED / confirmed variant  
-**Source / purchase link:** https://www.cabelas.com/p/ugly-stik-gx2-spinning-rod-101594182  
+### Ugly Stik GX2 Spinning Rod — USGXSP662M
+**Status:** OWNED / exact model confirmed by user  
+**Model:** `USGXSP662M`  
 **Type:** Spinning rod  
-**Product family:** Ugly Stik GX2 Spinning Rod  
-**Length:** 5'6"  
-**Power:** Light  
-**Action:** Fast  
-**Pieces:** 2  
+**Length:** 6'6" (decoded from model; specifications otherwise pending verification)  
+**Power:** Medium (decoded from model; pending specification verification)  
+**Action:** UNKNOWN  
+**Pieces:** 2 (decoded from model; pending specification verification)  
 **Line rating:** UNKNOWN  
 **Lure rating:** UNKNOWN  
-**Likely role:** durable short light spinning rod; panfish/trout/creek/close-quarters light-duty role  
+**Likely role:** general-purpose medium spinning utility rod; compare directly with the Fenwick Eagle `EGLW66M-FS-2` for lineup overlap  
 **Pairing:** UNKNOWN  
 **Keep / replace / unsure:** UNKNOWN  
-**Notes:** Compare with the South Bend Elite ES-323A for short, light spinning duty.
+**Notes:** Corrected 2026-09-26. Previously misidentified in inventory as a 5'6" Light Fast 2-piece GX2. User confirmed the actual rod model is `USGXSP662M`. Do not carry forward the prior 5'6" Light specifications.
 
 ### Ugly Stik GX2 Casting Rod — ASIN B0D15WC5DT
 **Status:** OWNED / needs user confirmation of exact variant if Amazon order page differs  
@@ -174,7 +173,7 @@ Reel reference images are tracked in `REEL_IMAGES.md` and mirrored under `assets
 
 ## Open Inventory Questions
 
-- Confirm line/lure ratings for the Ugly Stik GX2 5'6" Light Fast 2-piece spinning rod.
+- Verify full printed/manufacturer specifications for Ugly Stik GX2 `USGXSP662M`, especially action, line rating, and lure rating; model code indicates 6'6" Medium 2-piece.
 - Confirm whether `B0D15WC5DT` is the 5'6" Medium 1-piece GX2 casting rod variant shown by indexed product data.
 - Confirm exact Shimano Spirex 1000-class submodel suffix and specs.
 - Identify current pairings for the Shimano IX, Shimano Spirex, and Lew's baitcaster.
