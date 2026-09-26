@@ -170,7 +170,7 @@ A daily condition-watch automation with the legacy broad name `Deal Watch — Fi
 
 ## Immediate continuation point
 
-The current continuation focus is **Fishing lineup reconciliation plus `Deal_Watch:Hat:SweatbandMachine`**. First resolve `DW-TODO-010`: decide whether the received Fenwick Eagle Walleye `EGLW66M-FS-2` replaces an existing rod, fills a distinct shorter/heavier utility slot, or overlaps too closely with the owned `HMGW72ML-FS-2`. Run the next Hat:SweatbandMachine search using the `Domain — Hat:SweatbandMachine` section of `WATCHLIST.md`, the Hat-specific sources and adjacent-trade searches in `SOURCES.md`, `HAT_MACHINE_DEAL_RULES.md`, and `HAT_MACHINE_LISTINGS.md`.
+The current continuation focus is **Fishing lineup reconciliation plus `Deal_Watch:Hat:SweatbandMachine`**. First resolve `DW-TODO-011` by itemizing owned fishing gear, then use that inventory to resolve `DW-TODO-010`: decide whether the received Fenwick Eagle Walleye `EGLW66M-FS-2` replaces an existing rod, fills a distinct shorter/heavier utility slot, or overlaps too closely with the owned `HMGW72ML-FS-2`. Run the next Hat:SweatbandMachine search using the `Domain — Hat:SweatbandMachine` section of `WATCHLIST.md`, the Hat-specific sources and adjacent-trade searches in `SOURCES.md`, `HAT_MACHINE_DEAL_RULES.md`, and `HAT_MACHINE_LISTINGS.md`.
 
 Search both exact-purpose models and broad architecture/sleeper listings. Apply the formed-hat geometry and specific conversion-feasibility test before assigning mission fit. Record meaningful findings and actual source coverage in `HAT_MACHINE_LISTINGS.md`.
 
