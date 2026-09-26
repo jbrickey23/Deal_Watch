@@ -111,6 +111,19 @@ Reel reference images are tracked in `REEL_IMAGES.md` and mirrored under `assets
 **Pairing:** UNKNOWN  
 **Keep / replace / unsure:** UNSURE
 
+### South Bend Elite ES-323A — 5'6" 2-piece
+**Status:** OWNED / user-reported model and length  
+**Type:** Spinning rod (matching ES-323A listing; confirm from rod)  
+**Length:** 5'6"  
+**Power/action:** Light action per matching seller description; exact power/action markings UNVERIFIED  
+**Pieces:** 2 (user report)  
+**Line rating:** 4-8 lb per matching ES-323A listing; verify printed rod label  
+**Lure rating:** 1/8-3/8 oz per matching ES-323A listing; verify printed rod label  
+**Likely role:** short light spinning rod for panfish/trout and close-quarters use; compare with Berkley Lightning and Ugly Stik GX2 5'6" Light rods  
+**Pairing:** UNKNOWN; Pflueger President PRES20 may be suitable if currently paired, but pairing not established  
+**Keep / replace / unsure:** UNKNOWN  
+**Reference:** https://offerup.com/item/detail/50f665ac-139e-3780-84bf-0ff28e3bb266 (independent seller description, not manufacturer specification)
+
 ## Reels
 
 ### Shimano IX 2000 rear-drag spinning reel — ASIN B003ZZBX30
@@ -165,6 +178,16 @@ Reel reference images are tracked in `REEL_IMAGES.md` and mirrored under `assets
 **Pairing:** Fenwick HMG Walleye `HMGW72ML-FS-2`  
 **Keep / replace / unsure:** KEEP
 
+### Pflueger President PRES20 spinning reel
+**Status:** OWNED / model as reported by user  
+**Type:** Spinning reel, size 20  
+**Exact generation:** UNKNOWN; do not silently equate `PRES20` with current `PRES20X`  
+**Gear ratio / capacity / drag:** UNKNOWN for this exact reel pending markings or documentation; current PRES20X is a separate reference model  
+**Likely role:** small light-line reel for a short Light/Ultralight spinning rod; potential South Bend Elite ES-323A pairing if confirmed  
+**Pairing:** UNKNOWN  
+**Keep / replace / unsure:** UNKNOWN  
+**Reference for current generation only:** https://pfluegerfishing.com/products/president-spinning-reel-1595567
+
 ## Open Inventory Questions
 
 - Confirm line/lure/action ratings for the Berkley Lightning 5'6" Light 2-piece spinning rod.
@@ -174,4 +197,6 @@ Reel reference images are tracked in `REEL_IMAGES.md` and mirrored under `assets
 - Identify current pairings for the Shimano IX, Shimano Spirex, and Lew's baitcaster.
 - Confirm line/lure ratings for the DreamCatcher ZEUS 6'6" two-tip spinning rod.
 - Confirm line/lure ratings for the DreamCatcher CARBONITE 7' two-tip casting rod.
+- Confirm South Bend Elite ES-323A power/action and printed 4-8 lb / 1/8-3/8 oz ratings; confirm whether it is paired with Pflueger PRES20.
+- Confirm Pflueger PRES20 generation, gear ratio, line capacity, condition, and current pairing from reel markings/photos.
 - Continue adding owned rods and reels, including older/current setups that the `EGLW66M-FS-2` might replace.
