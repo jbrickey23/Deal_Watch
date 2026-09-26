@@ -1,5 +1,11 @@
 # Deal_Watch — Context
 
+## Session handoff — 2026-09-26 inventory and hat steamer
+
+The user shifted the current work to owned fishing rod/reel inventory. `FISHING_INVENTORY.md` was updated: South Bend Elite `ES-323A` (5'6", two-piece; third-party listing suggests Light, 4–8 lb, 1/8–3/8 oz, not yet confirmed from this rod) and Pflueger President `PRES20` were added. The user explicitly confirmed the reel is `PRES20`, **not** `PRES20X`; do not apply current `PRES20X` specifications to it. The Berkley Lightning 5'6" Light two-piece was removed from owned inventory and its open question removed. The Lew's Classic Pro Speed Spool SLP is user-confirmed left-hand; exact `CP1SHL` marking remains unverified. Current unknowns and potential pairings are recorded in `FISHING_INVENTORY.md`. Continue inventory and compare the 6'6" Medium Fenwick `EGLW66M-FS-2` to the HMG Worker and the existing 6'6" DreamCatcher ZEUS; keep/return remains unresolved.
+
+The user also compared steamers for shaping/blocking felt hats. A pictured, seller-described Jiffy J-2000 Limited Edition missing an upright wand holder was offered used for $200; a $100 offer was contemplated, but no purchase was reported. Another pictured white/gray hose steamer could not be identified reliably by photo; do not label it Jiffy without its model plate. The user favored a purpose-built hat steamer to reduce repair/compatibility uncertainty and found a new Jiffy J-2000H at $165 plus estimated $26.19 shipping ($191.19 estimated total, final shipping subject to approval if higher). The cart is a price comparison, **not a confirmed order**. This hat-shaping steamer discussion is distinct from the active `Hat:SweatbandMachine` watch, which concerns sewing sweatbands. Do not silently create a steamer watch or record the steamer as owned.
+
 ## Current authoritative state
 
 `Deal_Watch` is a GitHub-backed durable project. Repository: `JBrickey23/Deal_Watch`. GitHub is the durable source of truth; ChatGPT conversations are working sessions.
