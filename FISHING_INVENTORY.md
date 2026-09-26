@@ -165,14 +165,12 @@ Reel reference images are tracked in `REEL_IMAGES.md` and mirrored under `assets
 **Keep / replace / unsure:** KEEP
 
 ### Pflueger President PRES20 spinning reel
-**Status:** OWNED / model as reported by user  
+**Status:** OWNED / exact model confirmed by user: `PRES20` (NOT `PRES20X`)  
 **Type:** Spinning reel, size 20  
-**Exact generation:** UNKNOWN; do not silently equate `PRES20` with current `PRES20X`  
-**Gear ratio / capacity / drag:** UNKNOWN for this exact reel pending markings or documentation; current PRES20X is a separate reference model  
+**Gear ratio / capacity / drag:** UNKNOWN for this exact model pending markings or model-specific documentation  
 **Likely role:** small light-line reel for a short Light/Ultralight spinning rod; potential South Bend Elite ES-323A pairing if confirmed  
 **Pairing:** UNKNOWN  
-**Keep / replace / unsure:** UNKNOWN  
-**Reference for current generation only:** https://pfluegerfishing.com/products/president-spinning-reel-1595567
+**Keep / replace / unsure:** UNKNOWN
 
 ## Open Inventory Questions
 
@@ -183,5 +181,5 @@ Reel reference images are tracked in `REEL_IMAGES.md` and mirrored under `assets
 - Confirm line/lure ratings for the DreamCatcher ZEUS 6'6" two-tip spinning rod.
 - Confirm line/lure ratings for the DreamCatcher CARBONITE 7' two-tip casting rod.
 - Confirm South Bend Elite ES-323A power/action and printed 4-8 lb / 1/8-3/8 oz ratings; confirm whether it is paired with Pflueger PRES20.
-- Confirm Pflueger PRES20 generation, gear ratio, line capacity, condition, and current pairing from reel markings/photos.
+- Confirm Pflueger PRES20 (not PRES20X) gear ratio, line capacity, condition, and current pairing from reel markings/photos.
 - Continue adding owned rods and reels, including older/current setups that the `EGLW66M-FS-2` might replace.
