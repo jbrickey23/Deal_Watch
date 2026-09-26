@@ -6,6 +6,18 @@ Legacy `FDW-*` IDs are preserved as stable historical identifiers. New task IDs 
 
 ## OPEN
 
+### DW-TODO-012 — Mirror reel image binaries into GitHub
+**Priority:** Medium  
+**Status:** OPEN
+
+The user asked to collect pictures for each currently inventoried reel, copy them into GitHub, and insert them into the fishing inventory. The executable text-based catalog has been completed in `REEL_IMAGES.md` and linked from `FISHING_INVENTORY.md`; actual binary image mirroring remains open because the currently available GitHub write path supports UTF-8 text file create/update, not binary image upload.
+
+Success criteria:
+- download or otherwise obtain durable image files for each current reel;
+- add images under a repository path such as `assets/reels/` when a binary-capable GitHub path is available;
+- update `REEL_IMAGES.md` and `FISHING_INVENTORY.md` to use repository-hosted image paths rather than external image URLs;
+- preserve source attribution and avoid hotlink-only dependence for long-term inventory use.
+
 ### DW-TODO-011 — Itemize owned fishing gear
 **Priority:** High  
 **Status:** OPEN
@@ -120,4 +132,4 @@ Created and reconciled the core durable records plus fishing-domain watchlist, s
 
 ## Next unused task ID
 
-`DW-TODO-012`
+`DW-TODO-013`
