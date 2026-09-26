@@ -2,7 +2,7 @@
 
 Durable owned-gear inventory for rods and reels. Use this to evaluate lineup gaps, overlap, replacement candidates, and future Deal_Watch fishing search targets.
 
-Reel reference images are tracked in `REEL_IMAGES.md`.
+Reel reference images are tracked in `REEL_IMAGES.md` and mirrored under `assets/reels/`.
 
 ## Rods
 
@@ -115,7 +115,7 @@ Reel reference images are tracked in `REEL_IMAGES.md`.
 
 ### Shimano IX 2000 rear-drag spinning reel — ASIN B003ZZBX30
 **Status:** OWNED / confirmed 2000 class  
-**Image:** See `REEL_IMAGES.md`  
+**Image:** `assets/reels/shimano-ix-2000r.jpg`  
 **Model family:** Shimano IX rear-drag freshwater spinning reel, 2000 class  
 **Source / purchase link:** https://www.amazon.com/dp/B003ZZBX30  
 **Type:** Spinning reel  
@@ -132,7 +132,7 @@ Reel reference images are tracked in `REEL_IMAGES.md`.
 
 ### Shimano Spirex 1000-class spinning reel
 **Status:** OWNED / visually confirmed 1000 class from user image  
-**Image:** See `REEL_IMAGES.md`  
+**Image:** `assets/reels/shimano-spirex-1000fg.jpg`  
 **Model family:** Shimano Spirex, 1000 class  
 **Type:** Spinning reel  
 **Drag:** likely front drag based on visible reel style  
@@ -145,7 +145,7 @@ Reel reference images are tracked in `REEL_IMAGES.md`.
 
 ### Lew's Classic Pro Speed Spool SLP baitcast reel — ASIN B07W6X4T19
 **Status:** OWNED / needs user confirmation of exact variant  
-**Image:** See `REEL_IMAGES.md`  
+**Image:** `assets/reels/lews-classic-pro-speed-spool-slp.jpg`  
 **Likely model:** Lew's Classic Pro Speed Spool SLP, model `CP1SHL`  
 **Source / purchase link:** https://www.amazon.com/dp/B07W6X4T19  
 **Type:** Baitcast reel  
@@ -159,7 +159,7 @@ Reel reference images are tracked in `REEL_IMAGES.md`.
 
 ### Shimano Stradic 1000HG / ST1000HGFM class
 **Status:** OWNED  
-**Image:** See `REEL_IMAGES.md`  
+**Image:** `assets/reels/shimano-stradic-fm-1000hg.jpg`  
 **Type:** Spinning reel  
 **Likely role:** primary Worker reel paired with `HMGW72ML-FS-2`  
 **Pairing:** Fenwick HMG Walleye `HMGW72ML-FS-2`  

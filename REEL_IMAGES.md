@@ -1,39 +1,43 @@
 # Deal_Watch — Reel Images
 
-Reference image catalog for owned reels. These are externally hosted source images embedded in GitHub markdown because the current GitHub connector supports text-file writes but not binary image-file mirroring.
+Reference image catalog for owned reels. Images are mirrored into this repository under `assets/reels/` so the inventory does not depend only on external hotlinks.
 
 ## Shimano IX 2000 rear-drag spinning reel
 
-![Shimano IX 2000R spinning reel](https://miasangling.co.za/cdn/shop/files/IXR_905c0e8c-0037-48d2-93dc-158b766631e2.jpg?v=1756389917)
+![Shimano IX 2000R spinning reel](assets/reels/shimano-ix-2000r.jpg)
 
 - Inventory item: `Shimano IX 2000 rear-drag spinning reel`
+- Repository image: `assets/reels/shimano-ix-2000r.jpg`
 - Source page: https://miasangling.co.za/products/shimano-ix-2000r-reel
-- Notes: External reference image for confirmed 2000-class Shimano IX rear-drag reel.
+- Notes: Reference image for confirmed 2000-class Shimano IX rear-drag reel.
 
 ## Shimano Spirex 1000-class spinning reel
 
-![Shimano Spirex 1000FG spinning reel](https://i5.walmartimages.com/seo/Shimano-Fishing-SPIREX-1000FG-FDRG-Spinning-Reels-SR1000FG_dfc7a029-c618-403b-92fd-7a74c34aadb8.748d44f6add39b7f66d4825c5bee1914.jpeg)
+![Shimano Spirex 1000FG spinning reel](assets/reels/shimano-spirex-1000fg.jpg)
 
 - Inventory item: `Shimano Spirex 1000-class spinning reel`
+- Repository image: `assets/reels/shimano-spirex-1000fg.jpg`
 - Source page: https://www.walmart.com/ip/15550361
-- Notes: User-provided image also visually confirmed Shimano Spirex 1000 styling/marking in this chat. External image is used here so GitHub markdown can render it.
+- Notes: User-provided image also visually confirmed Shimano Spirex 1000 styling/marking in this chat. Repository image is a reference image for the same family until exact submodel is confirmed.
 
 ## Lew's Classic Pro Speed Spool SLP baitcast reel
 
-![Lew's Classic Pro Speed Spool SLP baitcast reel](https://i.ebayimg.com/images/g/sf8AAOSwpeFeqvkv/s-l640.jpg)
+![Lew's Classic Pro Speed Spool SLP baitcast reel](assets/reels/lews-classic-pro-speed-spool-slp.jpg)
 
 - Inventory item: `Lew's Classic Pro Speed Spool SLP baitcast reel`
+- Repository image: `assets/reels/lews-classic-pro-speed-spool-slp.jpg`
 - Source page: https://www.ebay.com/p/5034620930
 - Notes: Reference image for Lew's Classic Pro Speed Spool SLP family; exact left-hand `CP1SHL` variant still needs confirmation.
 
 ## Shimano Stradic FM 1000HG / ST1000HGFM class
 
-![Shimano Stradic FM 1000HG spinning reel](https://findit.com.au/images/detailed/187/022255275781_1.jpg)
+![Shimano Stradic FM 1000HG spinning reel](assets/reels/shimano-stradic-fm-1000hg.jpg)
 
 - Inventory item: `Shimano Stradic 1000HG / ST1000HGFM class`
+- Repository image: `assets/reels/shimano-stradic-fm-1000hg.jpg`
 - Source page: https://findit.com.au/fishing-and-outdoor-store-en/shimano-stradic-fm/
 - Notes: Reference image for owned Stradic 1000HG / `ST1000HGFM` class reel.
 
 ## Binary Image Mirroring Status
 
-External image URLs are captured and renderable in markdown. Actual copied binary image assets are not yet stored in the repository because the currently exposed GitHub text-file write path does not provide a clean image/binary upload operation.
+DONE. Current reel reference images are mirrored into GitHub under `assets/reels/`. Preserve the source links above as attribution and provenance.
