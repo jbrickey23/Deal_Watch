@@ -4,7 +4,7 @@
 
 `Deal_Watch` is a GitHub-backed durable project. Repository: `JBrickey23/Deal_Watch`. GitHub is the durable source of truth; ChatGPT conversations are working sessions.
 
-The project uses canonical `Project:Domain:WatchType` identifiers. Active watches are `Deal_Watch:Fishing:WorkerRod`, `Deal_Watch:Fishing:StradicReel`, and `Deal_Watch:Hat:SweatbandMachine`. The Fishing watch state changed on 2026-09-26: the user has procured the Fenwick HMG Walleye `HMGW72ML-FS-2` Worker benchmark and a Stradic 1000HG / `ST1000HGFM`-class reel. Future fishing searches should avoid ordinary duplicates and instead focus on materially different lineup slots, exceptional backup pricing, and evaluation of the user's other received Fenwick rod before deciding whether to return it. The Fishing watches currently share a legacy ChatGPT condition-watch automation named `Deal Watch — Fishing`; that broad automation label is not a canonical watch key and should be renamed or split during automation cleanup. No `Hat:SweatbandMachine` automation is assumed. The repository remains authoritative for targets, source coverage, domain rules, listing history, tasks, and decisions.
+The project uses canonical `Project:Domain:WatchType` identifiers. Active watches are `Deal_Watch:Fishing:WorkerRod`, `Deal_Watch:Fishing:StradicReel`, and `Deal_Watch:Hat:SweatbandMachine`. The Fishing watch state changed on 2026-09-26: the user has procured the Fenwick HMG Walleye `HMGW72ML-FS-2` Worker benchmark and a Stradic 1000HG / `ST1000HGFM`-class reel. The other received Fenwick is now identified as `EGLW66M-FS-2`, a 6'6" Medium Fast 2-piece Eagle Walleye rated 6-12 lb and 1/8-3/4 oz. Future fishing searches should avoid ordinary duplicates and instead focus on materially different lineup slots, exceptional backup pricing, and evaluation of whether the `EGLW66M-FS-2` is distinct enough from the HMG Worker to keep. The Fishing watches currently share a legacy ChatGPT condition-watch automation named `Deal Watch — Fishing`; that broad automation label is not a canonical watch key and should be renamed or split during automation cleanup. No `Hat:SweatbandMachine` automation is assumed. The repository remains authoritative for targets, source coverage, domain rules, listing history, tasks, and decisions.
 
 ## Purpose and scope
 
@@ -80,7 +80,7 @@ For Worker scoring, 2-piece construction carries more weight than in the general
 Current Worker anchors:
 - **Owned Worker benchmark:** Fenwick HMG Walleye `HMGW72ML-FS-2`.
 - **Value baseline / overlap comparison:** Fenwick Eagle Walleye `EGLW70ML-FS-2`, about $99.95 new.
-- **Pending lineup decision:** the user's other received Fenwick rod should be evaluated as a possible replacement for another rod versus too much overlap with the owned HMG Worker before it is returned or kept.
+- **Pending lineup decision:** Fenwick Eagle Walleye `EGLW66M-FS-2` should be evaluated as a possible shorter/heavier utility rod: 6'6", Medium, Fast, 2-piece, 6-12 lb, 1/8-3/4 oz. It is likely distinct from the owned HMG Worker on length/power/upper lure range, but may still overlap depending on the user's existing rod lineup.
 - Other Fenwick targets such as `EGLW69ML-XFS-2`, `HMG69ML-FS-2`, and older/discontinued Eagle/HMG/Elite/Walleye/Inshore/general spinning rods remain useful only when they fill a distinct role or are true bargain/backup opportunities.
 
 See `WATCHLIST.md` for the authoritative full Worker definition and evaluation behavior.
@@ -170,7 +170,7 @@ A daily condition-watch automation with the legacy broad name `Deal Watch — Fi
 
 ## Immediate continuation point
 
-The current continuation focus is **Fishing lineup reconciliation plus `Deal_Watch:Hat:SweatbandMachine`**. First resolve `DW-TODO-010`: identify the other received Fenwick model/specs and decide whether it replaces an existing rod or overlaps too closely with the owned `HMGW72ML-FS-2`. Run the next Hat:SweatbandMachine search using the `Domain — Hat:SweatbandMachine` section of `WATCHLIST.md`, the Hat-specific sources and adjacent-trade searches in `SOURCES.md`, `HAT_MACHINE_DEAL_RULES.md`, and `HAT_MACHINE_LISTINGS.md`.
+The current continuation focus is **Fishing lineup reconciliation plus `Deal_Watch:Hat:SweatbandMachine`**. First resolve `DW-TODO-010`: decide whether the received Fenwick Eagle Walleye `EGLW66M-FS-2` replaces an existing rod, fills a distinct shorter/heavier utility slot, or overlaps too closely with the owned `HMGW72ML-FS-2`. Run the next Hat:SweatbandMachine search using the `Domain — Hat:SweatbandMachine` section of `WATCHLIST.md`, the Hat-specific sources and adjacent-trade searches in `SOURCES.md`, `HAT_MACHINE_DEAL_RULES.md`, and `HAT_MACHINE_LISTINGS.md`.
 
 Search both exact-purpose models and broad architecture/sleeper listings. Apply the formed-hat geometry and specific conversion-feasibility test before assigning mission fit. Record meaningful findings and actual source coverage in `HAT_MACHINE_LISTINGS.md`.
 
