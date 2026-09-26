@@ -51,6 +51,38 @@ Durable owned-gear inventory for rods and reels. Use this to evaluate lineup gap
 **Keep / replace / unsure:** UNKNOWN  
 **Notes:** Not close to the `HMGW72ML-FS-2` Worker role; this is a short casting utility rod, not a light spinning finesse rod.
 
+### ZEUS 2-piece Spinning Rod — two tips
+**Status:** OWNED  
+**Brand/source:** UNKNOWN  
+**Type:** Spinning rod  
+**Length:** 6'6"  
+**Action:** Fast  
+**Pieces:** 2  
+**Tips included:** Medium tip + Medium Heavy tip  
+**Effective powers:** Medium or Medium Heavy depending on tip  
+**Line rating:** UNKNOWN  
+**Lure rating:** UNKNOWN  
+**Likely role:** configurable spinning utility rod; can bridge medium spinning duty and heavier spinning duty depending on installed tip  
+**Pairing:** UNKNOWN  
+**Keep / replace / unsure:** UNKNOWN  
+**Notes:** Important comparison against `EGLW66M-FS-2`: both are 6'6" spinning rods with at least Medium power, but the ZEUS can step to Medium Heavy while the Fenwick Eagle is a fixed Medium/Fast 1/8-3/4 oz rod.
+
+### CARBONITE 2-piece Casting Rod — two tips
+**Status:** OWNED  
+**Brand/source:** UNKNOWN  
+**Type:** Casting rod  
+**Length:** 7'0"  
+**Action:** Fast  
+**Pieces:** 2  
+**Tips included:** Medium Light tip + Medium tip  
+**Effective powers:** Medium Light or Medium depending on tip  
+**Line rating:** UNKNOWN  
+**Lure rating:** UNKNOWN  
+**Likely role:** configurable casting rod; lighter bass/finesse casting with ML tip or general medium casting with M tip  
+**Pairing:** UNKNOWN; likely candidate pairing for Lew's Classic Pro Speed Spool SLP baitcaster  
+**Keep / replace / unsure:** UNKNOWN  
+**Notes:** This may reduce the need for additional general-purpose casting rods unless a target fills a specialized role.
+
 ### Fenwick HMG Walleye HMGW72ML-FS-2
 **Status:** OWNED / Worker benchmark  
 **Type:** Spinning rod  
@@ -105,7 +137,7 @@ Durable owned-gear inventory for rods and reels. Use this to evaluate lineup gap
 **Bearings:** 5, per indexed product data  
 **Material notes:** graphite frame/body class; aluminum handle per indexed product data  
 **Likely role:** casting setup reel for bass/utility presentations; likely pairs with a casting rod such as the Ugly Stik GX2 unless the user has another preferred casting rod  
-**Pairing:** UNKNOWN  
+**Pairing:** UNKNOWN
 **Keep / replace / unsure:** UNKNOWN
 
 ### Shimano Stradic 1000HG / ST1000HGFM class
@@ -123,4 +155,6 @@ Durable owned-gear inventory for rods and reels. Use this to evaluate lineup gap
 - Confirm whether `B0D15WC5DT` is the 5'6" Medium 1-piece GX2 casting rod variant shown by indexed product data.
 - Confirm whether `B07W6X4T19` is the left-hand `CP1SHL` Lew's Classic Pro Speed Spool SLP.
 - Identify current pairings for the Shimano IX and Lew's baitcaster.
+- Confirm brand/source and line/lure ratings for the ZEUS 6'6" two-tip spinning rod.
+- Confirm brand/source and line/lure ratings for the CARBONITE 7' two-tip casting rod.
 - Continue adding owned rods and reels, including older/current setups that the `EGLW66M-FS-2` might replace.
