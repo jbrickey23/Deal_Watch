@@ -20,6 +20,8 @@ Primary goals:
 
 ## Durable records
 
+GitHub write access has been verified for both normal text updates and binary assets. For ordinary UTF-8 files, use `fetch_file` plus `update_file` / `create_file`. For binary assets such as reel images, use the Git object path: `create_blob` with base64 content, `create_tree`, `create_commit`, and `update_ref`. Do not assume binary upload is unavailable merely because the simple UTF-8 contents wrapper is exposed first.
+
 - `Deal_Watch_Context.md` — current project state and continuation point.
 - `Deal_Watch_TODO.md` — unfinished durable work.
 - `Deal_Watch_Decision_Log.md` — durable decisions and operating rules.
@@ -136,6 +138,7 @@ Known purpose-built benchmarks and the first run are preserved in `HAT_MACHINE_L
 - Label Fishing ledger entries as `Fishing:WorkerRod` or `Fishing:StradicReel` within `LISTINGS.md`; use `HAT_MACHINE_DEAL_RULES.md` / `HAT_MACHINE_LISTINGS.md` only for `Hat:SweatbandMachine`.
 - Preserve existing `FDW-*` task and decision IDs as stable historical identifiers. New durable IDs use the `DW-*` prefix.
 - Treat ChatGPT conversations as working sessions. Before deleting an old chat, reconcile any important decisions, actions, listings, source findings, rule changes, or continuation details into the GitHub repository.
+- Use GitHub as the durable write path. Text-file updates can use the contents wrapper; binary assets must use Git blobs/trees/commits and fast-forward the branch ref.
 - Rod searches must combine current watch-property levels and preferred qualities with named priority targets rather than treating named models as an exhaustive whitelist.
 - `WATCHLIST.md` is authoritative for current property assignments; context and decision records should describe semantics without overriding newer watchlist values.
 - Delivered price matters more than headline price.
@@ -188,7 +191,9 @@ Search both exact-purpose models and broad architecture/sleeper listings. Apply 
 8. `LISTINGS.md`
 9. `HAT_MACHINE_DEAL_RULES.md`
 10. `HAT_MACHINE_LISTINGS.md`
-11. `Deal_Watch_New_Chat_Bootstrap_Prompt.md`
+11. `REEL_IMAGES.md`
+12. `FISHING_INVENTORY.md`
+13. `Deal_Watch_New_Chat_Bootstrap_Prompt.md`
 
 Always use the latest repository state rather than prior chat memory when they conflict.
 
