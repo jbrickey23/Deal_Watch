@@ -2,6 +2,8 @@
 
 Durable owned-gear inventory for rods and reels. Use this to evaluate lineup gaps, overlap, replacement candidates, and future Deal_Watch fishing search targets.
 
+Reel reference images are tracked in `REEL_IMAGES.md`.
+
 ## Rods
 
 ### Berkley Lightning Spinning Rod — 5'6" Light 2-piece
@@ -113,6 +115,7 @@ Durable owned-gear inventory for rods and reels. Use this to evaluate lineup gap
 
 ### Shimano IX 2000 rear-drag spinning reel — ASIN B003ZZBX30
 **Status:** OWNED / confirmed 2000 class  
+**Image:** See `REEL_IMAGES.md`  
 **Model family:** Shimano IX rear-drag freshwater spinning reel, 2000 class  
 **Source / purchase link:** https://www.amazon.com/dp/B003ZZBX30  
 **Type:** Spinning reel  
@@ -128,19 +131,21 @@ Durable owned-gear inventory for rods and reels. Use this to evaluate lineup gap
 **Notes:** Confirm current line, condition, and whether it is actively used or just available inventory.
 
 ### Shimano Spirex 1000-class spinning reel
-**Status:** OWNED / exact model marking needs confirmation  
+**Status:** OWNED / visually confirmed 1000 class from user image  
+**Image:** See `REEL_IMAGES.md`  
 **Model family:** Shimano Spirex, 1000 class  
 **Type:** Spinning reel  
-**Drag:** UNKNOWN  
+**Drag:** likely front drag based on visible reel style  
 **Gear ratio:** UNKNOWN  
 **Line capacity:** UNKNOWN  
 **Likely role:** light freshwater spinning reel; possible pairing for short light rods or backup/utility role  
 **Pairing:** UNKNOWN  
 **Keep / replace / unsure:** UNKNOWN  
-**Notes:** User supplied “Shimano Spirex irex 1000.” Confirm exact body/spool marking from photo or reel text; image attachment was not readable in this session.
+**Notes:** User supplied image and text identify Shimano Spirex 1000. Confirm exact submodel suffix and specs when reel body/spool markings are available.
 
 ### Lew's Classic Pro Speed Spool SLP baitcast reel — ASIN B07W6X4T19
 **Status:** OWNED / needs user confirmation of exact variant  
+**Image:** See `REEL_IMAGES.md`  
 **Likely model:** Lew's Classic Pro Speed Spool SLP, model `CP1SHL`  
 **Source / purchase link:** https://www.amazon.com/dp/B07W6X4T19  
 **Type:** Baitcast reel  
@@ -154,6 +159,7 @@ Durable owned-gear inventory for rods and reels. Use this to evaluate lineup gap
 
 ### Shimano Stradic 1000HG / ST1000HGFM class
 **Status:** OWNED  
+**Image:** See `REEL_IMAGES.md`  
 **Type:** Spinning reel  
 **Likely role:** primary Worker reel paired with `HMGW72ML-FS-2`  
 **Pairing:** Fenwick HMG Walleye `HMGW72ML-FS-2`  
@@ -165,7 +171,7 @@ Durable owned-gear inventory for rods and reels. Use this to evaluate lineup gap
 - Confirm line/lure ratings for the Ugly Stik GX2 5'6" Light Fast 2-piece spinning rod.
 - Confirm whether `B0D15WC5DT` is the 5'6" Medium 1-piece GX2 casting rod variant shown by indexed product data.
 - Confirm whether `B07W6X4T19` is the left-hand `CP1SHL` Lew's Classic Pro Speed Spool SLP.
-- Confirm exact Shimano Spirex 1000-class model marking and specs.
+- Confirm exact Shimano Spirex 1000-class submodel suffix and specs.
 - Identify current pairings for the Shimano IX, Shimano Spirex, and Lew's baitcaster.
 - Confirm line/lure ratings for the DreamCatcher ZEUS 6'6" two-tip spinning rod.
 - Confirm line/lure ratings for the DreamCatcher CARBONITE 7' two-tip casting rod.
