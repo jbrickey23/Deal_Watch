@@ -66,7 +66,7 @@ Select the requested canonical watch key before searching. Apply only its rules 
 
 ## Current continuation
 
-The current continuation focus is **`Deal_Watch:Hat:SweatbandMachine`**. Search exact-purpose machines plus convertible and sleeper industrial machines, including cylinder-arm, post-bed, off-the-arm/free-arm, upholstery, leather, canvas, shoe-repair, shop-liquidation, and used-industrial-dealer sources.
+The latest continuation focus is **owned Fishing inventory and the `EGLW66M-FS-2` keep/return decision**. Read `FISHING_INVENTORY.md` and the 2026-09-26 session handoff in `Deal_Watch_Context.md` first for the current corrections and open questions. `Deal_Watch:Hat:SweatbandMachine` remains active for a separately requested run. Search exact-purpose machines plus convertible and sleeper industrial machines, including cylinder-arm, post-bed, off-the-arm/free-arm, upholstery, leather, canvas, shoe-repair, shop-liquidation, and used-industrial-dealer sources.
 
 For every candidate, answer the formed-hat geometry question first and identify any actual modification path and all-in cost. Record meaningful findings and actual source coverage in `HAT_MACHINE_LISTINGS.md`.
 
