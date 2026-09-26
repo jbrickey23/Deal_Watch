@@ -11,6 +11,8 @@ Default branch: `main`
 
 GitHub is the durable source of truth. Do not rely on old conversation memory when it conflicts with current repository state.
 
+GitHub write note: normal UTF-8 file edits can use `fetch_file` plus `update_file` / `create_file`. Binary assets require the Git object path: `create_blob` with base64 content, `create_tree`, `create_commit`, then `update_ref` to fast-forward `main`. This was verified in commit `33c24c8e1a9624ce891512b471a63cc32ee73437`.
+
 ## Restore procedure
 
 Read, in this order:
@@ -24,7 +26,9 @@ Read, in this order:
 8. `LISTINGS.md`
 9. `HAT_MACHINE_DEAL_RULES.md`
 10. `HAT_MACHINE_LISTINGS.md`
-11. `Deal_Watch_New_Chat_Bootstrap_Prompt.md`
+11. `REEL_IMAGES.md`
+12. `FISHING_INVENTORY.md`
+13. `Deal_Watch_New_Chat_Bootstrap_Prompt.md`
 
 Then tell me concisely:
 1. the current authoritative project state;
