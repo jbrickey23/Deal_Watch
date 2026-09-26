@@ -127,6 +127,18 @@ Durable owned-gear inventory for rods and reels. Use this to evaluate lineup gap
 **Keep / replace / unsure:** UNKNOWN  
 **Notes:** Confirm current line, condition, and whether it is actively used or just available inventory.
 
+### Shimano Spirex 1000-class spinning reel
+**Status:** OWNED / exact model marking needs confirmation  
+**Model family:** Shimano Spirex, 1000 class  
+**Type:** Spinning reel  
+**Drag:** UNKNOWN  
+**Gear ratio:** UNKNOWN  
+**Line capacity:** UNKNOWN  
+**Likely role:** light freshwater spinning reel; possible pairing for short light rods or backup/utility role  
+**Pairing:** UNKNOWN  
+**Keep / replace / unsure:** UNKNOWN  
+**Notes:** User supplied “Shimano Spirex irex 1000.” Confirm exact body/spool marking from photo or reel text; image attachment was not readable in this session.
+
 ### Lew's Classic Pro Speed Spool SLP baitcast reel — ASIN B07W6X4T19
 **Status:** OWNED / needs user confirmation of exact variant  
 **Likely model:** Lew's Classic Pro Speed Spool SLP, model `CP1SHL`  
@@ -153,7 +165,8 @@ Durable owned-gear inventory for rods and reels. Use this to evaluate lineup gap
 - Confirm line/lure ratings for the Ugly Stik GX2 5'6" Light Fast 2-piece spinning rod.
 - Confirm whether `B0D15WC5DT` is the 5'6" Medium 1-piece GX2 casting rod variant shown by indexed product data.
 - Confirm whether `B07W6X4T19` is the left-hand `CP1SHL` Lew's Classic Pro Speed Spool SLP.
-- Identify current pairings for the Shimano IX and Lew's baitcaster.
+- Confirm exact Shimano Spirex 1000-class model marking and specs.
+- Identify current pairings for the Shimano IX, Shimano Spirex, and Lew's baitcaster.
 - Confirm line/lure ratings for the DreamCatcher ZEUS 6'6" two-tip spinning rod.
 - Confirm line/lure ratings for the DreamCatcher CARBONITE 7' two-tip casting rod.
 - Continue adding owned rods and reels, including older/current setups that the `EGLW66M-FS-2` might replace.
