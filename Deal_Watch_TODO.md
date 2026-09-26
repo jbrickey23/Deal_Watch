@@ -6,17 +6,17 @@ Legacy `FDW-*` IDs are preserved as stable historical identifiers. New task IDs 
 
 ## OPEN
 
-### DW-TODO-010 — Evaluate other received Fenwick before return
+### DW-TODO-010 — Evaluate Fenwick EGLW66M-FS-2 before return
 **Priority:** High  
 **Status:** OPEN
 
-The user has procured the Fenwick HMG Walleye `HMGW72ML-FS-2` and a Stradic 1000HG / `ST1000HGFM`-class reel. The user also received another Fenwick rod and is considering whether it can replace one of their existing rods without being too close to the owned HMG Worker.
+The user has procured the Fenwick HMG Walleye `HMGW72ML-FS-2` and a Stradic 1000HG / `ST1000HGFM`-class reel. The user also received a Fenwick Eagle Walleye `EGLW66M-FS-2`: 6'6", Medium, Fast, 2-piece, 6-12 lb, 1/8-3/4 oz. The decision is whether it can replace one of the user's existing rods without being too close to the owned HMG Worker.
 
 Success criteria:
-- identify the exact other Fenwick model, length, power, action, piece count, lure rating, line rating, handle style, and return deadline if relevant;
-- compare it against the owned `HMGW72ML-FS-2` Worker role;
+- capture return deadline if relevant;
+- compare `EGLW66M-FS-2` against the owned `HMGW72ML-FS-2` Worker role;
 - compare it against the user's existing rod lineup if available;
-- decide: KEEP as distinct role, RETURN as overlap, or HOLD pending on-water testing;
+- decide: KEEP as a distinct shorter/heavier utility role, RETURN as overlap, or HOLD pending on-water testing;
 - update Fishing search parameters if the rod fills a new durable slot.
 
 ### DW-TODO-007 — Define felt-hat domain if user switches from fishing
