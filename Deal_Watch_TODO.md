@@ -10,7 +10,7 @@ Legacy `FDW-*` IDs are preserved as stable historical identifiers. New task IDs 
 **Priority:** High  
 **Status:** OPEN / IN PROGRESS
 
-2026-09-26 checkpoint: `FISHING_INVENTORY.md` includes South Bend Elite `ES-323A` and user-confirmed Pflueger President `PRES20` (not `PRES20X`); the Berkley Lightning was removed. Lew's baitcaster is user-confirmed left-hand. Continue resolving printed rod specs, reel submodels, actual pairings and the Fenwick Eagle keep/return decision.
+2026-09-26 checkpoint: `FISHING_INVENTORY.md` now reflects user-confirmed/corrected rod identities: Ugly Stik spinning `USGXSP662M`; Ugly Stik casting `USGXCAP561M` with manufacturer-verified 5'6", Medium, 1-piece, 8–20 lb, 1/4–5/8 oz and user-read `Action: Medium`; DreamCatcher spinning `Z201`, 6'6", Medium, Fast, 3/16–2 oz, 8–20 lb. South Bend Elite `ES-323A` and user-confirmed Pflueger President `PRES20` (not `PRES20X`) remain recorded; Lew's baitcaster is user-confirmed left-hand. Continue resolving `USGXSP662M` full specs, DreamCatcher tip-rating applicability, remaining rod/reel specs, actual pairings, and the Fenwick Eagle keep/return decision.
 
 Create a durable inventory of the user's owned fishing rods and reels so Deal_Watch can evaluate lineup gaps, overlap, replacement candidates, and future search targets against actual owned gear instead of isolated deals.
 
