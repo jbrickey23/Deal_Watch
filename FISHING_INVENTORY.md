@@ -98,14 +98,14 @@ Reel reference images are tracked in `REEL_IMAGES.md` and mirrored under `assets
 **Keep / replace / unsure:** UNSURE
 
 ### South Bend Elite ES-323A — 5'6" 2-piece
-**Status:** OWNED / user-reported model and length  
-**Type:** Spinning rod (matching ES-323A listing; confirm from rod)  
+**Status:** OWNED / model and printed specifications confirmed by user  
+**Type:** Spinning rod — confirmed by user  
 **Length:** 5'6"  
-**Power/action:** Light action per matching seller description; exact power/action markings UNVERIFIED  
+**Power/action:** Light — confirmed from physical rod markings by user  
 **Pieces:** 2 (user report)  
-**Line rating:** 4-8 lb per matching ES-323A listing; verify printed rod label  
-**Lure rating:** 1/8-3/8 oz per matching ES-323A listing; verify printed rod label  
-**Likely role:** short light spinning rod for panfish/trout and close-quarters use; compare with the Ugly Stik GX2 5'6" Light rod  
+**Line rating:** 4-8 lb — confirmed from physical rod markings by user  
+**Lure rating:** 1/8-3/8 oz — confirmed from physical rod markings by user  
+**Likely role:** short light spinning rod for panfish/trout and close-quarters use  
 **Pairing:** UNKNOWN; Pflueger President PRES20 may be suitable if currently paired, but pairing not established  
 **Keep / replace / unsure:** UNKNOWN  
 **Reference:** https://offerup.com/item/detail/50f665ac-139e-3780-84bf-0ff28e3bb266 (independent seller description, not manufacturer specification)
@@ -181,6 +181,6 @@ Reel reference images are tracked in `REEL_IMAGES.md` and mirrored under `assets
 - Identify current pairings for the Shimano IX, Shimano Spirex, and Lew's baitcaster.
 - Clarify whether DreamCatcher `Z201` 3/16-2 oz / 8-20 lb markings apply to the rod generally or specifically to one of the included Medium / Medium Heavy tips.
 - Confirm line/lure ratings for the DreamCatcher CARBONITE 7' two-tip casting rod.
-- Confirm South Bend Elite ES-323A power/action and printed 4-8 lb / 1/8-3/8 oz ratings; confirm whether it is paired with Pflueger PRES20.
+- Confirm whether South Bend Elite `ES-323A` is currently paired with Pflueger `PRES20`.
 - Verify manufacturer/model-specific gear ratio, line capacity, drag, and other specifications for the older Pflueger `PRES20` (exact model already physically confirmed; do not use `PRES20X` specs); confirm condition and current pairing.
 - Continue adding owned rods and reels, including older/current setups that the `EGLW66M-FS-2` might replace.
