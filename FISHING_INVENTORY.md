@@ -94,7 +94,7 @@ Reel reference images are tracked in `REEL_IMAGES.md` and mirrored under `assets
 **Line rating:** 6-12 lb  
 **Lure rating:** 1/8-3/4 oz  
 **Likely role:** candidate shorter/heavier utility spinning rod; evaluate against existing lineup and overlap with HMG Worker  
-**Pairing:** UNKNOWN  
+**Pairing:** 2023 JDM Shimano Stradic `C2500S` — ordered / in transit; intended pairing  
 **Keep / replace / unsure:** UNSURE
 
 ### South Bend Elite ES-323A — 5'6" 2-piece
@@ -167,6 +167,23 @@ Reel reference images are tracked in `REEL_IMAGES.md` and mirrored under `assets
 **Likely role:** primary Worker reel paired with `HMGW72ML-FS-2`  
 **Pairing:** Fenwick HMG Walleye `HMGW72ML-FS-2`  
 **Keep / replace / unsure:** KEEP
+
+### Shimano 23 Stradic C2500S JDM
+**Status:** ORDERED / in transit — user confirmed purchase 2026-09-26  
+**Model:** 23 Stradic `C2500S`  
+**UPC:** `4969363045805` — confirmed by user  
+**Type:** Spinning reel  
+**Gear ratio:** 5.1:1 — confirmed by user  
+**Ball bearings:** 6 — confirmed by user  
+**Country of origin:** Malaysia — confirmed by user  
+**Weight:** about 6.5 oz / 185 g — manufacturer specification previously verified  
+**Max drag:** about 6.6 lb / 3 kg — manufacturer specification previously verified  
+**Retrieve:** about 27.6 in / 70 cm per turn — manufacturer specification previously verified  
+**Spool:** compact/shallow C2500-class, 44 mm — manufacturer specification previously verified  
+**Intended role:** compact general-purpose Medium spinning reel; larger functional spool without conventional full-size 2500 bulk  
+**Pairing:** Fenwick Eagle Walleye `EGLW66M-FS-2` — intended pairing  
+**Keep / replace / unsure:** KEEP / incoming  
+**Notes:** Purchased after evaluating compact/JDM alternatives. Treat the owned Stradic 1000HG as the light/finesse benchmark and the 23 Stradic C2500S as the compact Medium/general-purpose counterpart.
 
 ### Pflueger President PRES20 spinning reel
 **Status:** OWNED / exact model physically verified by user: `PRES20` (NOT `PRES20X`)  
