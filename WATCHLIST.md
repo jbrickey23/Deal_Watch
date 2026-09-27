@@ -35,8 +35,10 @@ Mission: maintain a compact-spinning-reel acquisition watch anchored by the owne
 
 Current state:
 - **Procured:** Stradic 1000HG / `ST1000HGFM` class — owned and preferred as the size/feel benchmark; ordinary additional 1000-size listings are no longer alerts unless exceptional backup value.
-- **Primary next-reel target:** compact-body C2000/C2500-class reels, especially Shimano-style compact models that use a small body with a larger spool/capacity/retrieve profile.
-- **Secondary target:** full-size 2500-class reels, including `ST2500HGFM`, only when they are unusually compelling on weight, compactness, price, or role fit; do not treat 2500 as the default upgrade path.
+- **Primary next-reel target:** compact-body C2000/C2500-class reels, with **JDM models explicitly in scope**. Priority families include Shimano Stradic JDM C2000S/C2000SHG/C2500S/C2500SXG, Vanford C2500S/C2500SXG, Twin Power C2000/C2500 compact variants, Vanquish compact variants, and comparable Daiwa FC/LT compact models such as Caldia FC LT2000S/LT2500S and Luvias LT2000S/LT2500S.
+- Favor reels that retain roughly 1000-size body feel while adding a 43–44 mm spool, useful 5–8 lb mono / PE 0.6–1.0 capacity, moderate-to-high retrieve, and low weight.
+- Shallow-spool JDM models are acceptable and often preferred for braid-to-leader or light mono/fluoro; do not penalize shallow capacity unless it is inadequate for the intended freshwater role.
+- **Secondary target:** full-size 2500-class reels, including `ST2500HGFM`, only when unusually compelling on weight, compactness, price, or role fit; do not treat 2500 as the default upgrade path.
 - Equivalent compact offerings from other quality makers may be surfaced when body size, weight, spool function, and freshwater role align with the user's preference.
 
 Verify exact SKU/generation, spool lip, bail, handle, corrosion or saltwater exposure, completeness, seller risk, returns, shipping, and delivered price. Do not mix older Stradic generations into the FM watch without identifying them explicitly as opportunistic comparables.
