@@ -21,9 +21,9 @@ Reel reference images are tracked in `REEL_IMAGES.md` and mirrored under `assets
 **Keep / replace / unsure:** UNKNOWN  
 **Notes:** Corrected 2026-09-26. Previously misidentified in inventory as a 5'6" Light Fast 2-piece GX2. User confirmed the actual rod model is `USGXSP662M`. Do not carry forward the prior 5'6" Light specifications.
 
-### Ugly Stik GX2 Casting Rod — ASIN B0D15WC5DT
-**Status:** OWNED / needs user confirmation of exact variant if Amazon order page differs  
-**Likely model:** Ugly Stik GX2 Casting Rod, model `USGXCAP561M`  
+### Ugly Stik GX2 Casting Rod — USGXCAP561M
+**Status:** OWNED / exact model confirmed by user  
+**Model:** `USGXCAP561M`  
 **Source / purchase link:** https://www.amazon.com/dp/B0D15WC5DT  
 **Type:** Casting rod  
 **Length:** 5'6"  
@@ -175,7 +175,6 @@ Reel reference images are tracked in `REEL_IMAGES.md` and mirrored under `assets
 ## Open Inventory Questions
 
 - Verify full printed/manufacturer specifications for Ugly Stik GX2 `USGXSP662M`, especially action, line rating, and lure rating; model code indicates 6'6" Medium 2-piece.
-- Confirm whether `B0D15WC5DT` is the 5'6" Medium 1-piece GX2 casting rod variant shown by indexed product data.
 - Confirm exact Shimano Spirex 1000-class submodel suffix and specs.
 - Identify current pairings for the Shimano IX, Shimano Spirex, and Lew's baitcaster.
 - Clarify whether DreamCatcher `Z201` 3/16-2 oz / 8-20 lb markings apply to the rod generally or specifically to one of the included Medium / Medium Heavy tips.
