@@ -31,11 +31,13 @@ Current owned / anchor state:
 
 Fully qualified: `Deal_Watch:Fishing:StradicReel`
 
-Mission: maintain Shimano Stradic FM acquisition watch after procurement of a Stradic 1000HG. The owned 1000-size reel covers the Worker pairing; future searches should prioritize materially better backup/second-spool opportunities or 2500-size FM variants that fill a different role.
+Mission: maintain a compact-spinning-reel acquisition watch anchored by the owned Shimano Stradic 1000HG. The user prefers small/light reel bodies and generally finds conventional 2500–3000 reels too large for their fishing. Future searches should therefore prioritize compact-body 2000/2500 concepts (for example Shimano C2000/C2500-style configurations where available) that preserve roughly 1000-size body feel while adding useful spool capacity, retrieve, or drag. Full-size 2500 reels are secondary unless unusually light/compact or exceptional value.
 
 Current state:
-- **Procured:** Stradic 1000HG / `ST1000HGFM` class — owned; ordinary additional 1000-size listings are no longer alerts.
-- Continue watching `ST2500HGFM` and relevant 2500-size FM variants when price/condition materially beat ordinary new-market benchmarks.
+- **Procured:** Stradic 1000HG / `ST1000HGFM` class — owned and preferred as the size/feel benchmark; ordinary additional 1000-size listings are no longer alerts unless exceptional backup value.
+- **Primary next-reel target:** compact-body C2000/C2500-class reels, especially Shimano-style compact models that use a small body with a larger spool/capacity/retrieve profile.
+- **Secondary target:** full-size 2500-class reels, including `ST2500HGFM`, only when they are unusually compelling on weight, compactness, price, or role fit; do not treat 2500 as the default upgrade path.
+- Equivalent compact offerings from other quality makers may be surfaced when body size, weight, spool function, and freshwater role align with the user's preference.
 
 Verify exact SKU/generation, spool lip, bail, handle, corrosion or saltwater exposure, completeness, seller risk, returns, shipping, and delivered price. Do not mix older Stradic generations into the FM watch without identifying them explicitly as opportunistic comparables.
 
