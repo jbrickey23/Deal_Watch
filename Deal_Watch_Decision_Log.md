@@ -4,6 +4,16 @@ Newest decisions first. Record durable decisions, not every discussion.
 
 Legacy `FDW-*` IDs remain stable historical identifiers. New decision IDs use the `DW-*` prefix.
 
+## DW-DEC-019 — Keep the Fenwick Eagle as primary Medium spinning rod
+**Date:** 2026-09-27
+**Status:** Current
+
+**Decision: KEEP** Fenwick Eagle Walleye `EGLW66M-FS-2`. Its 6'6" Medium Fast, 6–12 lb, 1/8–3/4 oz profile supplies a shorter, stronger general spinning option next to the 7'2" Medium Light Fast HMG `HMGW72ML-FS-2` (4–10 lb, 1/8–5/8 oz), which remains the Stradic 1000HG Worker for trout, panfish, finesse and light bass. Although their printed lure ranges overlap, length and power give the Eagle a distinct primary Medium role.
+
+The closest overlap is the 6'6" Medium GX2 spinning `USGXSP662M` (6–15 lb, 1/8–5/8 oz). Assign the Eagle and incoming JDM 23 Stradic `C2500S` to primary compact Medium service; keep the GX2 and Spirex `SR1000FG` for rough-duty, loaner and backup use. This changes role priority, not ownership. GX2's conventional taper remains unknown; its `Action: Medium` stamp cannot substantiate a Fast-action comparison. The heavier-rated DreamCatcher `Z201` (3/16–2 oz, 8–20 lb) remains available above this slot.
+
+The reel is ordered but has not arrived, and rod/reel balance and on-water feel are untested. Revisit only if actual use reveals poor fit. No return deadline appears in the current records; request/verify it if a return is still contemplated. Avoid ordinary duplicate alerts for both filled rod slots and the procured C2500S.
+
 ## DW-DEC-018 — Use Git object path for binary GitHub writes
 **Date:** 2026-09-26  
 **Status:** Current
