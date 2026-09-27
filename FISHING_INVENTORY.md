@@ -147,13 +147,13 @@ Reel reference images are tracked in `REEL_IMAGES.md` and mirrored under `assets
 **Notes:** Exact `SR1000FG` model confirmed by user 2026-09-26. Specifications populated from Shimano manufacturer data.
 
 ### Lew's Classic Pro Speed Spool SLP baitcast reel — ASIN B07W6X4T19
-**Status:** OWNED / confirmed variant  
+**Status:** OWNED / exact model confirmed by user  
 **Image:** `assets/reels/lews-classic-pro-speed-spool-slp.jpg`  
-**Model:** Lew's Classic Pro Speed Spool SLP, likely `CP1SHL` from order/product data; exact model marking not yet checked  
+**Model:** Lew's Classic Pro Speed Spool SLP `CP1SHL` — exact model marking confirmed by user  
 **Source / purchase link:** https://www.amazon.com/dp/B07W6X4T19  
 **Type:** Baitcast reel  
 **Hand retrieve:** Left hand — confirmed by user  
-**Gear ratio:** 7.5:1, per indexed product title/data  
+**Gear ratio:** 7.5:1, per indexed product title/data; manufacturer verification pending if needed  
 **Bearings:** 5, per indexed product data  
 **Material notes:** graphite frame/body class; aluminum handle per indexed product data  
 **Likely role:** casting setup reel for bass/utility presentations; likely pairs with a casting rod such as the Ugly Stik GX2 unless the user has another preferred casting rod  
