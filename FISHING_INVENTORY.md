@@ -10,16 +10,16 @@ Reel reference images are tracked in `REEL_IMAGES.md` and mirrored under `assets
 **Status:** OWNED / exact model confirmed by user  
 **Model:** `USGXSP662M`  
 **Type:** Spinning rod  
-**Length:** 6'6" (decoded from model; specifications otherwise pending verification)  
-**Power:** Medium (decoded from model; pending specification verification)  
-**Action:** UNKNOWN  
-**Pieces:** 2 (decoded from model; pending specification verification)  
-**Line rating:** UNKNOWN  
-**Lure rating:** UNKNOWN  
+**Length:** 6'6" — verified against current Ugly Stik/Pure Fishing manufacturer specification  
+**Power:** Medium — verified against current Ugly Stik/Pure Fishing manufacturer specification  
+**Action:** UNKNOWN — current manufacturer product/combo pages leave Rod Action blank  
+**Pieces:** 2 — verified by model/configuration against current manufacturer listing  
+**Line rating:** 6-15 lb — verified against current Ugly Stik/Pure Fishing manufacturer specification  
+**Lure rating:** 1/8-5/8 oz — verified against current Ugly Stik manufacturer specification  
 **Likely role:** general-purpose medium spinning utility rod; compare directly with the Fenwick Eagle `EGLW66M-FS-2` for lineup overlap  
 **Pairing:** UNKNOWN  
 **Keep / replace / unsure:** UNKNOWN  
-**Notes:** Corrected 2026-09-26. Previously misidentified in inventory as a 5'6" Light Fast 2-piece GX2. User confirmed the actual rod model is `USGXSP662M`. Do not carry forward the prior 5'6" Light specifications.
+**Notes:** Corrected 2026-09-26. Previously misidentified as a 5'6" Light GX2. User confirmed model `USGXSP662M`; manufacturer verification confirms 6'6", Medium, 2-piece, 6-15 lb and 1/8-5/8 oz. Current manufacturer pages leave Rod Action blank, so action remains UNKNOWN pending the physical rod marking.
 
 ### Ugly Stik GX2 Casting Rod — USGXCAP561M
 **Status:** OWNED / exact model confirmed by user  
@@ -174,7 +174,7 @@ Reel reference images are tracked in `REEL_IMAGES.md` and mirrored under `assets
 
 ## Open Inventory Questions
 
-- Verify full printed/manufacturer specifications for Ugly Stik GX2 `USGXSP662M`, especially action, line rating, and lure rating; model code indicates 6'6" Medium 2-piece.
+- Confirm the physical-rod action marking for Ugly Stik GX2 `USGXSP662M`; manufacturer data now verifies 6'6", Medium, 2-piece, 6-15 lb and 1/8-5/8 oz but leaves Rod Action blank.
 - Confirm exact Shimano Spirex 1000-class submodel suffix and specs.
 - Identify current pairings for the Shimano IX, Shimano Spirex, and Lew's baitcaster.
 - Clarify whether DreamCatcher `Z201` 3/16-2 oz / 8-20 lb markings apply to the rod generally or specifically to one of the included Medium / Medium Heavy tips.
