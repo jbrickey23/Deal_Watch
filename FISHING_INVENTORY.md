@@ -28,15 +28,15 @@ Reel reference images are tracked in `REEL_IMAGES.md` and mirrored under `assets
 **Type:** Casting rod  
 **Length:** 5'6"  
 **Power:** Medium  
-**Action:** Fast, per indexed product data; some Amazon-indexed pages are inconsistent, so confirm from rod markings if possible  
-**Pieces:** 1  
-**Line rating:** 8-20 lb  
-**Lure rating:** 1/4-5/8 oz  
+**Action:** UNKNOWN — current manufacturer comparison page does not populate an action value for this SKU  
+**Pieces:** 1 — verified against current Pure Fishing manufacturer specification  
+**Line rating:** 8-20 lb — verified against current Ugly Stik manufacturer specification  
+**Lure rating:** 1/4-5/8 oz — verified against current Ugly Stik manufacturer specification  
 **Handle:** Full grip shrink-tube EVA  
 **Likely role:** short, durable casting rod; close-quarters, bank/boat utility, bass/utility work, possible rough-duty rod  
 **Pairing:** UNKNOWN  
 **Keep / replace / unsure:** UNKNOWN  
-**Notes:** Not close to the `HMGW72ML-FS-2` Worker role; this is a short casting utility rod, not a light spinning finesse rod.
+**Notes:** Manufacturer verification completed 2026-09-26 for model, 5'6" length, Medium power, 8-20 lb line, 1/4-5/8 oz lure rating, and 1-piece construction. Manufacturer page currently leaves Rod Action blank, so action remains UNKNOWN. Not close to the `HMGW72ML-FS-2` Worker role; this is a short casting utility rod, not a light spinning finesse rod.
 
 ### DreamCatcher Z201 2-piece Spinning Rod — two tips
 **Status:** OWNED / model and printed specifications confirmed by user  
