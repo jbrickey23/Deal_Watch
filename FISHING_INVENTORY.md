@@ -51,7 +51,7 @@ Reel reference images are tracked in `REEL_IMAGES.md` and mirrored under `assets
 **Lure rating:** 3/16-2 oz  
 **Line rating:** 8-20 lb  
 **Likely role:** broad-range/heavier spinning utility rod; substantial upper lure capacity compared with the Fenwick HMG Worker and likely overlap/comparison with the Fenwick Eagle `EGLW66M-FS-2`  
-**Pairing:** UNKNOWN  
+**Pairing:** Shimano IX 2000 rear-drag spinning reel — confirmed by user  
 **Keep / replace / unsure:** UNKNOWN  
 **Notes:** Updated 2026-09-26 from user-read rod markings: 6'6", Z201, Medium, Fast, 3/16-2 oz, 8-20 lb. Do not assume the printed ratings differ between the included M and MH tips without further markings.
 
@@ -125,7 +125,7 @@ Reel reference images are tracked in `REEL_IMAGES.md` and mirrored under `assets
 **Line capacity:** commonly listed as 6/170, 8/120, 10/100  
 **Retrieve:** about 21 in per turn  
 **Likely role:** budget/light freshwater reel; possible loaner, backup, panfish/trout, or light utility reel  
-**Pairing:** UNKNOWN  
+**Pairing:** DreamCatcher Z201 6'6" spinning rod — confirmed by user  
 **Keep / replace / unsure:** UNKNOWN  
 **Notes:** Confirm current line, condition, and whether it is actively used or just available inventory.
 
@@ -178,7 +178,6 @@ Reel reference images are tracked in `REEL_IMAGES.md` and mirrored under `assets
 
 ## Open Inventory Questions
 
-- Identify current pairing for the Shimano IX.
 - Clarify whether DreamCatcher `Z201` 3/16-2 oz / 8-20 lb markings apply to the rod generally or specifically to one of the included Medium / Medium Heavy tips.
 - Confirm line/lure ratings for the DreamCatcher CARBONITE 7' two-tip casting rod.
 - Verify manufacturer/model-specific gear ratio, line capacity, drag, and other specifications for the older Pflueger `PRES20` (exact model already physically confirmed; do not use `PRES20X` specs); confirm condition and current pairing.
