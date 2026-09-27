@@ -16,9 +16,9 @@ Reel reference images are tracked in `REEL_IMAGES.md` and mirrored under `assets
 **Pieces:** 2 — verified by model/configuration against current manufacturer listing  
 **Line rating:** 6-15 lb — verified against current Ugly Stik/Pure Fishing manufacturer specification  
 **Lure rating:** 1/8-5/8 oz — verified against current Ugly Stik manufacturer specification  
-**Likely role:** general-purpose medium spinning utility rod; compare directly with the Fenwick Eagle `EGLW66M-FS-2` for lineup overlap  
+**Likely role:** durable backup/loaner and rough-duty Medium spinning utility rod; primary general Medium duty assigned to the Fenwick Eagle `EGLW66M-FS-2`
 **Pairing:** Shimano Spirex `SR1000FG` — confirmed by user  
-**Keep / replace / unsure:** UNKNOWN  
+**Keep / replace / unsure:** KEEP as backup/rough-duty; demoted from primary Medium role
 **Notes:** Corrected 2026-09-26. Previously misidentified as a 5'6" Light GX2. User confirmed model `USGXSP662M`; manufacturer verification confirms 6'6", Medium, 2-piece, 6-15 lb and 1/8-5/8 oz. Current manufacturer specification identifies Medium as rod power and leaves Rod Action blank; the physical rod is explicitly stamped `Action: Medium`. Preserve the stamp as a labeling inconsistency and do not treat it as a conventional action/taper specification.
 
 ### Ugly Stik GX2 Casting Rod — USGXCAP561M
@@ -93,9 +93,9 @@ Reel reference images are tracked in `REEL_IMAGES.md` and mirrored under `assets
 **Pieces:** 2  
 **Line rating:** 6-12 lb  
 **Lure rating:** 1/8-3/4 oz  
-**Likely role:** candidate shorter/heavier utility spinning rod; evaluate against existing lineup and overlap with HMG Worker  
+**Likely role:** primary compact Medium spinning rod for general bass/utility presentations and heavier lures than the HMG Worker; the GX2 spinning rod becomes backup/rough-duty
 **Pairing:** 2023 JDM Shimano Stradic `C2500S` — ordered / in transit; intended pairing  
-**Keep / replace / unsure:** UNSURE
+**Keep / replace / unsure:** KEEP — DW-TODO-010 / DW-DEC-019; reassess fit after the C2500S arrives if desired
 
 ### South Bend Elite ES-323A — 5'6" 2-piece
 **Status:** OWNED / model and printed specifications confirmed by user  
