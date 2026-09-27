@@ -106,7 +106,7 @@ Reel reference images are tracked in `REEL_IMAGES.md` and mirrored under `assets
 **Line rating:** 4-8 lb — confirmed from physical rod markings by user  
 **Lure rating:** 1/8-3/8 oz — confirmed from physical rod markings by user  
 **Likely role:** short light spinning rod for panfish/trout and close-quarters use  
-**Pairing:** UNKNOWN; Pflueger President PRES20 may be suitable if currently paired, but pairing not established  
+**Pairing:** Pflueger President `PRES20` — confirmed by user  
 **Keep / replace / unsure:** UNKNOWN  
 **Reference:** https://offerup.com/item/detail/50f665ac-139e-3780-84bf-0ff28e3bb266 (independent seller description, not manufacturer specification)
 
@@ -173,7 +173,7 @@ Reel reference images are tracked in `REEL_IMAGES.md` and mirrored under `assets
 **Type:** Spinning reel, size 20  
 **Gear ratio / capacity / drag:** UNKNOWN for the older `PRES20`; do not substitute current `PRES20X` specifications  
 **Likely role:** small light-line reel for a short Light/Ultralight spinning rod; potential South Bend Elite ES-323A pairing if confirmed  
-**Pairing:** UNKNOWN  
+**Pairing:** South Bend Elite `ES-323A` — confirmed by user  
 **Keep / replace / unsure:** UNKNOWN
 
 ## Open Inventory Questions
@@ -181,6 +181,5 @@ Reel reference images are tracked in `REEL_IMAGES.md` and mirrored under `assets
 - Identify current pairings for the Shimano IX, Shimano Spirex, and Lew's baitcaster.
 - Clarify whether DreamCatcher `Z201` 3/16-2 oz / 8-20 lb markings apply to the rod generally or specifically to one of the included Medium / Medium Heavy tips.
 - Confirm line/lure ratings for the DreamCatcher CARBONITE 7' two-tip casting rod.
-- Confirm whether South Bend Elite `ES-323A` is currently paired with Pflueger `PRES20`.
 - Verify manufacturer/model-specific gear ratio, line capacity, drag, and other specifications for the older Pflueger `PRES20` (exact model already physically confirmed; do not use `PRES20X` specs); confirm condition and current pairing.
 - Continue adding owned rods and reels, including older/current setups that the `EGLW66M-FS-2` might replace.
