@@ -169,9 +169,9 @@ Reel reference images are tracked in `REEL_IMAGES.md` and mirrored under `assets
 **Keep / replace / unsure:** KEEP
 
 ### Pflueger President PRES20 spinning reel
-**Status:** OWNED / exact model confirmed by user: `PRES20` (NOT `PRES20X`)  
+**Status:** OWNED / exact model physically verified by user: `PRES20` (NOT `PRES20X`)  
 **Type:** Spinning reel, size 20  
-**Gear ratio / capacity / drag:** UNKNOWN for this exact model pending markings or model-specific documentation  
+**Gear ratio / capacity / drag:** UNKNOWN for the older `PRES20`; do not substitute current `PRES20X` specifications  
 **Likely role:** small light-line reel for a short Light/Ultralight spinning rod; potential South Bend Elite ES-323A pairing if confirmed  
 **Pairing:** UNKNOWN  
 **Keep / replace / unsure:** UNKNOWN
@@ -182,5 +182,5 @@ Reel reference images are tracked in `REEL_IMAGES.md` and mirrored under `assets
 - Clarify whether DreamCatcher `Z201` 3/16-2 oz / 8-20 lb markings apply to the rod generally or specifically to one of the included Medium / Medium Heavy tips.
 - Confirm line/lure ratings for the DreamCatcher CARBONITE 7' two-tip casting rod.
 - Confirm South Bend Elite ES-323A power/action and printed 4-8 lb / 1/8-3/8 oz ratings; confirm whether it is paired with Pflueger PRES20.
-- Confirm Pflueger PRES20 (not PRES20X) gear ratio, line capacity, condition, and current pairing from reel markings/photos.
+- Verify manufacturer/model-specific gear ratio, line capacity, drag, and other specifications for the older Pflueger `PRES20` (exact model already physically confirmed; do not use `PRES20X` specs); confirm condition and current pairing.
 - Continue adding owned rods and reels, including older/current setups that the `EGLW66M-FS-2` might replace.
