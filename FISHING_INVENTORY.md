@@ -34,7 +34,7 @@ Reel reference images are tracked in `REEL_IMAGES.md` and mirrored under `assets
 **Lure rating:** 1/4-5/8 oz — verified against current Ugly Stik manufacturer specification  
 **Handle:** Full grip shrink-tube EVA  
 **Likely role:** short, durable casting rod; close-quarters, bank/boat utility, bass/utility work, possible rough-duty rod  
-**Pairing:** UNKNOWN  
+**Pairing:** Lew's Classic Pro Speed Spool SLP `CP1SHL` — confirmed by user  
 **Keep / replace / unsure:** UNKNOWN  
 **Notes:** Manufacturer verification completed 2026-09-26 for model, 5'6" length, Medium power, 8-20 lb line, 1/4-5/8 oz lure rating, and 1-piece construction. Current manufacturer specification identifies Medium as rod power and leaves Rod Action blank; the user's physical rod is marked `Action: Medium`. Preserve the stamp as a labeling inconsistency and do not treat it as a conventional action/taper specification. Not close to the `HMGW72ML-FS-2` Worker role; this is a short casting utility rod, not a light spinning finesse rod.
 
@@ -157,7 +157,7 @@ Reel reference images are tracked in `REEL_IMAGES.md` and mirrored under `assets
 **Bearings:** 5, per indexed product data  
 **Material notes:** graphite frame/body class; aluminum handle per indexed product data  
 **Likely role:** casting setup reel for bass/utility presentations; likely pairs with a casting rod such as the Ugly Stik GX2 unless the user has another preferred casting rod  
-**Pairing:** UNKNOWN
+**Pairing:** Ugly Stik GX2 casting `USGXCAP561M` — confirmed by user
 **Keep / replace / unsure:** UNKNOWN
 
 ### Shimano Stradic 1000HG / ST1000HGFM class
@@ -178,7 +178,7 @@ Reel reference images are tracked in `REEL_IMAGES.md` and mirrored under `assets
 
 ## Open Inventory Questions
 
-- Identify current pairings for the Shimano IX and Lew's baitcaster.
+- Identify current pairing for the Shimano IX.
 - Clarify whether DreamCatcher `Z201` 3/16-2 oz / 8-20 lb markings apply to the rod generally or specifically to one of the included Medium / Medium Heavy tips.
 - Confirm line/lure ratings for the DreamCatcher CARBONITE 7' two-tip casting rod.
 - Verify manufacturer/model-specific gear ratio, line capacity, drag, and other specifications for the older Pflueger `PRES20` (exact model already physically confirmed; do not use `PRES20X` specs); confirm condition and current pairing.
