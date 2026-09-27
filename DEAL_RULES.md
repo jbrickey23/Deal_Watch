@@ -97,7 +97,7 @@ Surface additional HMGW72ML-FS-2 / Worker-like rods only when:
 - the rod fills a demonstrably different slot from the owned HMG Worker; or
 - the listing helps evaluate whether the user's other received Fenwick should replace an existing rod.
 
-Surface additional Stradic 1000HG listings only when they are exceptional backup/spare-value opportunities. Prioritize 2500-size FM variants when they fill a different role from the owned 1000-size reel.
+Surface additional Stradic 1000HG listings only when they are exceptional backup/spare-value opportunities. For a next primary reel, prioritize compact-body C2000/C2500-class designs that retain roughly 1000-size body feel while adding useful spool capacity, retrieve, or drag. Treat ordinary full-size 2500/3000 reels as lower-priority because the user finds them too large; surface them only when they are unusually light/compact, exceptionally priced, or fill a clearly distinct role.
 
 ## Notification threshold
 
@@ -132,7 +132,8 @@ Reference MSRP/direct: about $234.99.
 
 ### Shimano Stradic FM ST2500HGFM
 Reference MSRP/direct: about $254.99.
-- around $200 new has previously benchmarked around 8.5/10
-- seek meaningfully better pricing or unusual value
+- around $200 new has previously benchmarked around 8.5/10 on price alone
+- user ergonomics now reduce its strategic priority because conventional 2500-size reels feel too large
+- surface only at unusually strong value or when weight/fit makes it competitive with compact-body alternatives
 
 These thresholds are provisional and should evolve from observed market evidence under legacy task `FDW-TODO-004`.
