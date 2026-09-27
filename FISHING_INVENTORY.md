@@ -129,18 +129,22 @@ Reel reference images are tracked in `REEL_IMAGES.md` and mirrored under `assets
 **Keep / replace / unsure:** UNKNOWN  
 **Notes:** Confirm current line, condition, and whether it is actively used or just available inventory.
 
-### Shimano Spirex 1000-class spinning reel
-**Status:** OWNED / visually confirmed 1000 class from user image  
+### Shimano Spirex SR1000FG spinning reel
+**Status:** OWNED / exact model confirmed by user  
 **Image:** `assets/reels/shimano-spirex-1000fg.jpg`  
-**Model family:** Shimano Spirex, 1000 class  
+**Model:** `SR1000FG`  
 **Type:** Spinning reel  
-**Drag:** likely front drag based on visible reel style  
-**Gear ratio:** UNKNOWN  
-**Line capacity:** UNKNOWN  
+**Drag:** Front drag  
+**Gear ratio:** 6.2:1 — verified against Shimano manufacturer specification  
+**Max drag:** 7 lb — verified against Shimano manufacturer specification  
+**Weight:** 8.8 oz — verified against Shimano manufacturer specification  
+**Mono line capacity:** 2/270, 4/140, 6/110 — verified against Shimano manufacturer specification  
+**Retrieve:** 28 in per turn — verified against Shimano manufacturer specification  
+**Bearings:** 5+1 — verified against Shimano manufacturer specification  
 **Likely role:** light freshwater spinning reel; possible pairing for short light rods or backup/utility role  
 **Pairing:** UNKNOWN  
 **Keep / replace / unsure:** UNKNOWN  
-**Notes:** User supplied image and text identify Shimano Spirex 1000. Confirm exact submodel suffix and specs when reel body/spool markings are available.
+**Notes:** Exact `SR1000FG` model confirmed by user 2026-09-26. Specifications populated from Shimano manufacturer data.
 
 ### Lew's Classic Pro Speed Spool SLP baitcast reel — ASIN B07W6X4T19
 **Status:** OWNED / confirmed variant  
@@ -174,7 +178,6 @@ Reel reference images are tracked in `REEL_IMAGES.md` and mirrored under `assets
 
 ## Open Inventory Questions
 
-- Confirm exact Shimano Spirex 1000-class submodel suffix and specs.
 - Identify current pairings for the Shimano IX, Shimano Spirex, and Lew's baitcaster.
 - Clarify whether DreamCatcher `Z201` 3/16-2 oz / 8-20 lb markings apply to the rod generally or specifically to one of the included Medium / Medium Heavy tips.
 - Confirm line/lure ratings for the DreamCatcher CARBONITE 7' two-tip casting rod.
