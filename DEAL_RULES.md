@@ -97,7 +97,7 @@ Surface additional HMGW72ML-FS-2 / Worker-like rods only when:
 - the rod fills a demonstrably different slot from the owned HMG Worker; or
 - the listing helps evaluate whether the user's other received Fenwick should replace an existing rod.
 
-Surface additional Stradic 1000HG listings only when they are exceptional backup/spare-value opportunities. For a next primary reel, prioritize compact-body C2000/C2500-class designs that retain roughly 1000-size body feel while adding useful spool capacity, retrieve, or drag. Treat ordinary full-size 2500/3000 reels as lower-priority because the user finds them too large; surface them only when they are unusually light/compact, exceptionally priced, or fill a clearly distinct role.
+Surface additional Stradic 1000HG listings only when they are exceptional backup/spare-value opportunities. For a next primary reel, prioritize compact-body C2000/C2500-class designs, including JDM-only or JDM-first variants, that retain roughly 1000-size body feel while adding useful spool diameter/capacity/retrieve. Favor 43–44 mm spools, approximately 150–185 g class weight where model-appropriate, shallow spools suitable for braid-to-leader/light mono/fluoro, and 5–8 lb mono / PE 0.6–1.0-class capacity. Include Shimano Stradic, Vanford, Twin Power, Vanquish and comparable Daiwa Caldia/Luvias compact FC/LT variants. Treat ordinary full-size 2500/3000 reels as lower-priority because the user finds them too large; surface them only when they are unusually light/compact, exceptionally priced, or fill a clearly distinct role.
 
 ## Notification threshold
 
