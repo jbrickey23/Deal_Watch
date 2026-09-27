@@ -21,19 +21,6 @@ Success criteria:
 - use the inventory to resolve `DW-TODO-010` for `EGLW66M-FS-2`;
 - update Fishing search parameters so future alerts fill gaps rather than duplicate owned gear.
 
-### DW-TODO-010 — Evaluate Fenwick EGLW66M-FS-2 before return
-**Priority:** High  
-**Status:** OPEN
-
-The user has procured the Fenwick HMG Walleye `HMGW72ML-FS-2` with Stradic 1000HG and also received the Fenwick Eagle Walleye `EGLW66M-FS-2`: 6'6", Medium, Fast, 2-piece, 6-12 lb, 1/8-3/4 oz. A JDM Shimano 23 Stradic `C2500S` has now been ordered for the Eagle. Current comparison work indicates the Eagle strongly overlaps the GX2 spinning `USGXSP662M` role while remaining meaningfully distinct from the HMG Worker; the decision is now primarily whether to KEEP the Eagle as the core Medium spinning setup and demote/replace the GX2 spinning role.
-
-Success criteria:
-- capture return deadline if relevant;
-- compare `EGLW66M-FS-2` against the owned `HMGW72ML-FS-2` Worker role;
-- compare it against the user's existing rod lineup if available;
-- decide: KEEP as a distinct shorter/heavier utility role, RETURN as overlap, or HOLD pending on-water testing;
-- update Fishing search parameters if the rod fills a new durable slot.
-
 ### DW-TODO-007 — Define felt-hat domain if user switches from fishing
 **Priority:** Medium  
 **Status:** OPEN
@@ -96,6 +83,13 @@ As more listings are evaluated, update `DEAL_RULES.md` with evidence-backed thre
 After roughly 10–20 durable search runs, assess whether code, GitHub Actions, structured collectors, or another automated pipeline would materially improve discovery, deduplication, price-history tracking, or source coverage. Do not build software merely because the project is durable.
 
 ## DONE
+
+### DW-TODO-010 — Evaluate Fenwick EGLW66M-FS-2 before return
+**Priority:** High
+**Status:** DONE — KEEP (2026-09-27; see DW-DEC-019)
+
+The 6'6" Medium Fast Eagle (6–12 lb, 1/8–3/4 oz) is the primary compact Medium spinning rod with the incoming 23 Stradic `C2500S`. The 7'2" Medium Light Fast HMG and Stradic 1000HG remain the light Worker pair. The 6'6" Medium GX2 spinning `USGXSP662M` (6–15 lb, 1/8–5/8 oz) overlaps the Eagle most closely and moves to backup/loaner/rough-duty service with its Spirex `SR1000FG`; no disposal decision is implied. Rod action on the GX2 remains unspecified in manufacturer data despite its `Action: Medium` stamp. The return deadline was not supplied or recorded and is unknown; this recommendation is based on the documented lineup, before an on-water test or hands-on balance check with the incoming reel. Fishing watch targets were narrowed to avoid ordinary duplicates of both filled roles.
+
 
 ### DW-TODO-012 — Mirror reel image binaries into GitHub
 **Priority:** Medium  
