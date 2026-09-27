@@ -12,14 +12,14 @@ Reel reference images are tracked in `REEL_IMAGES.md` and mirrored under `assets
 **Type:** Spinning rod  
 **Length:** 6'6" — verified against current Ugly Stik/Pure Fishing manufacturer specification  
 **Power:** Medium — verified against current Ugly Stik/Pure Fishing manufacturer specification  
-**Action:** Medium — confirmed by user from physical rod stamp explicitly labeled `Action: Medium`  
+**Action:** Not specified by current manufacturer specification; physical rod is stamped `Action: Medium`, retained as a documented labeling inconsistency rather than interpreted as conventional taper/action  
 **Pieces:** 2 — verified by model/configuration against current manufacturer listing  
 **Line rating:** 6-15 lb — verified against current Ugly Stik/Pure Fishing manufacturer specification  
 **Lure rating:** 1/8-5/8 oz — verified against current Ugly Stik manufacturer specification  
 **Likely role:** general-purpose medium spinning utility rod; compare directly with the Fenwick Eagle `EGLW66M-FS-2` for lineup overlap  
 **Pairing:** UNKNOWN  
 **Keep / replace / unsure:** UNKNOWN  
-**Notes:** Corrected 2026-09-26. Previously misidentified as a 5'6" Light GX2. User confirmed model `USGXSP662M`; manufacturer verification confirms 6'6", Medium, 2-piece, 6-15 lb and 1/8-5/8 oz. Current manufacturer pages leave Rod Action blank; the physical rod is explicitly stamped `Action: Medium`, so the inventory records Action as Medium.
+**Notes:** Corrected 2026-09-26. Previously misidentified as a 5'6" Light GX2. User confirmed model `USGXSP662M`; manufacturer verification confirms 6'6", Medium, 2-piece, 6-15 lb and 1/8-5/8 oz. Current manufacturer specification identifies Medium as rod power and leaves Rod Action blank; the physical rod is explicitly stamped `Action: Medium`. Preserve the stamp as a labeling inconsistency and do not treat it as a conventional action/taper specification.
 
 ### Ugly Stik GX2 Casting Rod — USGXCAP561M
 **Status:** OWNED / exact model confirmed by user  
@@ -28,7 +28,7 @@ Reel reference images are tracked in `REEL_IMAGES.md` and mirrored under `assets
 **Type:** Casting rod  
 **Length:** 5'6"  
 **Power:** Medium  
-**Action:** Medium — confirmed by user from marking on the physical rod  
+**Action:** Not specified by current manufacturer specification; physical rod is stamped `Action: Medium`, retained as a documented labeling inconsistency rather than interpreted as conventional taper/action  
 **Pieces:** 1 — verified against current Pure Fishing manufacturer specification  
 **Line rating:** 8-20 lb — verified against current Ugly Stik manufacturer specification  
 **Lure rating:** 1/4-5/8 oz — verified against current Ugly Stik manufacturer specification  
@@ -36,7 +36,7 @@ Reel reference images are tracked in `REEL_IMAGES.md` and mirrored under `assets
 **Likely role:** short, durable casting rod; close-quarters, bank/boat utility, bass/utility work, possible rough-duty rod  
 **Pairing:** UNKNOWN  
 **Keep / replace / unsure:** UNKNOWN  
-**Notes:** Manufacturer verification completed 2026-09-26 for model, 5'6" length, Medium power, 8-20 lb line, 1/4-5/8 oz lure rating, and 1-piece construction. Manufacturer page currently leaves Rod Action blank; the user's physical rod marking says Medium, so the inventory records Action as Medium. Not close to the `HMGW72ML-FS-2` Worker role; this is a short casting utility rod, not a light spinning finesse rod.
+**Notes:** Manufacturer verification completed 2026-09-26 for model, 5'6" length, Medium power, 8-20 lb line, 1/4-5/8 oz lure rating, and 1-piece construction. Current manufacturer specification identifies Medium as rod power and leaves Rod Action blank; the user's physical rod is marked `Action: Medium`. Preserve the stamp as a labeling inconsistency and do not treat it as a conventional action/taper specification. Not close to the `HMGW72ML-FS-2` Worker role; this is a short casting utility rod, not a light spinning finesse rod.
 
 ### DreamCatcher Z201 2-piece Spinning Rod — two tips
 **Status:** OWNED / model and printed specifications confirmed by user  
