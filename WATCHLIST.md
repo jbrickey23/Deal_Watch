@@ -25,7 +25,7 @@ Named priority families include Shimano Expride, Zodias, Cumara, Crucial, Poison
 Current owned / anchor state:
 - **Procured:** Fenwick HMG Walleye `HMGW72ML-FS-2` — owned Worker benchmark; do not keep searching for ordinary duplicates.
 - Fenwick Eagle Walleye `EGLW70ML-FS-2` — value baseline around $99.95 new and a comparison point for overlap/return decisions.
-- **Received / evaluating:** Fenwick Eagle Walleye `EGLW66M-FS-2` — 6'6", Medium, Fast, 2-piece, 6-12 lb, 1/8-3/4 oz; evaluate as a shorter/heavier utility slot versus overlap with the owned HMG Worker.
+- **Owned / KEEP:** Fenwick Eagle Walleye `EGLW66M-FS-2` — 6'6", Medium, Fast, 2-piece, 6-12 lb, 1/8-3/4 oz; primary compact Medium spinning slot with incoming Stradic `C2500S`. The owned GX2 `USGXSP662M` remains backup/rough-duty. Avoid ordinary duplicates of the HMG Worker or this Medium slot; surface a rod only for a genuinely different presentation, material upgrade, or exceptional backup value.
 
 ## Watch — Fishing:StradicReel
 
