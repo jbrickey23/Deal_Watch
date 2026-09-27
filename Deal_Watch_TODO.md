@@ -10,7 +10,7 @@ Legacy `FDW-*` IDs are preserved as stable historical identifiers. New task IDs 
 **Priority:** High  
 **Status:** OPEN / IN PROGRESS
 
-2026-09-26 checkpoint: `FISHING_INVENTORY.md` now reflects user-confirmed/corrected rod identities: Ugly Stik spinning `USGXSP662M`; Ugly Stik casting `USGXCAP561M` with manufacturer-verified 5'6", Medium, 1-piece, 8–20 lb, 1/4–5/8 oz and user-read `Action: Medium`; DreamCatcher spinning `Z201`, 6'6", Medium, Fast, 3/16–2 oz, 8–20 lb. South Bend Elite `ES-323A` and user-confirmed Pflueger President `PRES20` (not `PRES20X`) remain recorded; Lew's baitcaster is user-confirmed left-hand. Continue resolving `USGXSP662M` full specs, DreamCatcher tip-rating applicability, remaining rod/reel specs, actual pairings, and the Fenwick Eagle keep/return decision.
+2026-09-26 checkpoint: confirmed/corrected inventory now includes Ugly Stik GX2 spinning `USGXSP662M` (6'6", Medium, 2-piece, 6–15 lb, 1/8–5/8 oz; conventional action unspecified by manufacturer), Ugly Stik GX2 casting `USGXCAP561M` (5'6", Medium, 1-piece, 8–20 lb, 1/4–5/8 oz), DreamCatcher spinning `Z201` (6'6", Medium, Fast, 3/16–2 oz, 8–20 lb), South Bend Elite `ES-323A` (5'6", 2-piece, Light, 4–8 lb, 1/8–3/8 oz), Shimano Spirex `SR1000FG` with Shimano manufacturer specs, Lew's Classic Pro SLP `CP1SHL` left-hand, and Pflueger President `PRES20` explicitly not `PRES20X`. Remaining work centers on DreamCatcher tip/CARBONITE specs, older PRES20 specs, actual pairings, any additional owned gear, and the Fenwick Eagle keep/return decision.
 
 Create a durable inventory of the user's owned fishing rods and reels so Deal_Watch can evaluate lineup gaps, overlap, replacement candidates, and future search targets against actual owned gear instead of isolated deals.
 
