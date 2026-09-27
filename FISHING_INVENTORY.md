@@ -12,14 +12,14 @@ Reel reference images are tracked in `REEL_IMAGES.md` and mirrored under `assets
 **Type:** Spinning rod  
 **Length:** 6'6" — verified against current Ugly Stik/Pure Fishing manufacturer specification  
 **Power:** Medium — verified against current Ugly Stik/Pure Fishing manufacturer specification  
-**Action:** UNKNOWN — current manufacturer product/combo pages leave Rod Action blank  
+**Action:** Medium — confirmed by user from physical rod stamp explicitly labeled `Action: Medium`  
 **Pieces:** 2 — verified by model/configuration against current manufacturer listing  
 **Line rating:** 6-15 lb — verified against current Ugly Stik/Pure Fishing manufacturer specification  
 **Lure rating:** 1/8-5/8 oz — verified against current Ugly Stik manufacturer specification  
 **Likely role:** general-purpose medium spinning utility rod; compare directly with the Fenwick Eagle `EGLW66M-FS-2` for lineup overlap  
 **Pairing:** UNKNOWN  
 **Keep / replace / unsure:** UNKNOWN  
-**Notes:** Corrected 2026-09-26. Previously misidentified as a 5'6" Light GX2. User confirmed model `USGXSP662M`; manufacturer verification confirms 6'6", Medium, 2-piece, 6-15 lb and 1/8-5/8 oz. Current manufacturer pages leave Rod Action blank, so action remains UNKNOWN pending the physical rod marking.
+**Notes:** Corrected 2026-09-26. Previously misidentified as a 5'6" Light GX2. User confirmed model `USGXSP662M`; manufacturer verification confirms 6'6", Medium, 2-piece, 6-15 lb and 1/8-5/8 oz. Current manufacturer pages leave Rod Action blank; the physical rod is explicitly stamped `Action: Medium`, so the inventory records Action as Medium.
 
 ### Ugly Stik GX2 Casting Rod — USGXCAP561M
 **Status:** OWNED / exact model confirmed by user  
@@ -174,7 +174,6 @@ Reel reference images are tracked in `REEL_IMAGES.md` and mirrored under `assets
 
 ## Open Inventory Questions
 
-- Confirm the physical-rod action marking for Ugly Stik GX2 `USGXSP662M`; manufacturer data now verifies 6'6", Medium, 2-piece, 6-15 lb and 1/8-5/8 oz but leaves Rod Action blank.
 - Confirm exact Shimano Spirex 1000-class submodel suffix and specs.
 - Identify current pairings for the Shimano IX, Shimano Spirex, and Lew's baitcaster.
 - Clarify whether DreamCatcher `Z201` 3/16-2 oz / 8-20 lb markings apply to the rod generally or specifically to one of the included Medium / Medium Heavy tips.
