@@ -116,7 +116,7 @@ Comparable premium Loomis rods are in scope, including GLX, IMX, IMX-Pro, NRX an
 
 ### Shimano reels
 - **Procured:** Stradic 1000HG / `ST1000HGFM`-class reel; ordinary duplicate 1000-size listings should no longer alert.
-- Continue watching Stradic FM 2500-size models, especially `ST2500HGFM`, when they fill a distinct role or materially beat ordinary new-market pricing.
+- The owned Stradic 1000HG is now the preferred reel-size/feel benchmark. The user finds conventional 2500–3000 reels too large for their fishing. Future reel searches should prioritize compact-body C2000/C2500-style designs that preserve roughly 1000-size body feel while adding useful spool capacity/retrieve/drag; ordinary full-size 2500s, including `ST2500HGFM`, are secondary unless unusually light/compact, exceptional value, or clearly role-filling.
 
 See `WATCHLIST.md` for authoritative target details.
 
