@@ -10,7 +10,7 @@ Legacy `FDW-*` IDs are preserved as stable historical identifiers. New task IDs 
 **Priority:** High  
 **Status:** OPEN / IN PROGRESS
 
-2026-09-26 checkpoint: confirmed/corrected inventory now includes Ugly Stik GX2 spinning `USGXSP662M` (6'6", Medium, 2-piece, 6–15 lb, 1/8–5/8 oz; conventional action unspecified by manufacturer), Ugly Stik GX2 casting `USGXCAP561M` (5'6", Medium, 1-piece, 8–20 lb, 1/4–5/8 oz), DreamCatcher spinning `Z201` (6'6", Medium, Fast, 3/16–2 oz, 8–20 lb), South Bend Elite `ES-323A` (5'6", 2-piece, Light, 4–8 lb, 1/8–3/8 oz), Shimano Spirex `SR1000FG` with Shimano manufacturer specs, Lew's Classic Pro SLP `CP1SHL` left-hand, and Pflueger President `PRES20` explicitly not `PRES20X`. Remaining work centers on DreamCatcher tip/CARBONITE specs, older PRES20 specs, actual pairings, any additional owned gear, and the Fenwick Eagle keep/return decision.
+2026-09-26 checkpoint: owned fishing inventory is now substantially reconciled. Confirmed pairings are HMG `HMGW72ML-FS-2` + Stradic 1000HG, Ugly Stik GX2 spinning `USGXSP662M` + Shimano Spirex `SR1000FG`, DreamCatcher `Z201` + Shimano IX 2000, South Bend Elite `ES-323A` + Pflueger President `PRES20`, and Ugly Stik GX2 casting `USGXCAP561M` + Lew's `CP1SHL`. A JDM Shimano 23 Stradic `C2500S` (UPC `4969363045805`, 5.1:1, 6 ball bearings, Malaysia origin) has been ordered and is in transit for the Fenwick Eagle `EGLW66M-FS-2`. Reel strategy now favors compact-body JDM C2000/C2500-style reels over conventional full-size 2500/3000 reels because the user prefers 1000-class body feel. Remaining inventory work centers on DreamCatcher CARBONITE specs/pairing, Z201 two-tip rating applicability, older PRES20-specific specs/condition, any additional owned gear, and final keep/replace role assignments.
 
 Create a durable inventory of the user's owned fishing rods and reels so Deal_Watch can evaluate lineup gaps, overlap, replacement candidates, and future search targets against actual owned gear instead of isolated deals.
 
@@ -25,7 +25,7 @@ Success criteria:
 **Priority:** High  
 **Status:** OPEN
 
-The user has procured the Fenwick HMG Walleye `HMGW72ML-FS-2` and a Stradic 1000HG / `ST1000HGFM`-class reel. The user also received a Fenwick Eagle Walleye `EGLW66M-FS-2`: 6'6", Medium, Fast, 2-piece, 6-12 lb, 1/8-3/4 oz. The decision is whether it can replace one of the user's existing rods without being too close to the owned HMG Worker.
+The user has procured the Fenwick HMG Walleye `HMGW72ML-FS-2` with Stradic 1000HG and also received the Fenwick Eagle Walleye `EGLW66M-FS-2`: 6'6", Medium, Fast, 2-piece, 6-12 lb, 1/8-3/4 oz. A JDM Shimano 23 Stradic `C2500S` has now been ordered for the Eagle. Current comparison work indicates the Eagle strongly overlaps the GX2 spinning `USGXSP662M` role while remaining meaningfully distinct from the HMG Worker; the decision is now primarily whether to KEEP the Eagle as the core Medium spinning setup and demote/replace the GX2 spinning role.
 
 Success criteria:
 - capture return deadline if relevant;
