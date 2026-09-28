@@ -55,21 +55,22 @@ Reel reference images are tracked in `REEL_IMAGES.md` and mirrored under `assets
 **Keep / replace / unsure:** UNKNOWN  
 **Notes:** Updated 2026-09-26 from user-read rod markings: 6'6", Z201, Medium, Fast, 3/16-2 oz, 8-20 lb. Do not assume the printed ratings differ between the included M and MH tips without further markings.
 
-### DreamCatcher CARBONITE 2-piece Casting Rod — two tips
-**Status:** OWNED  
-**Brand/source:** DreamCatcher  
+### DreamCatcher CARBONITE C210 2-piece Casting Rod — two tips
+**Status:** OWNED / model and printed specifications confirmed by user  
+**Brand/source:** DreamCatcher
+**Model:** `C210`  
 **Type:** Casting rod  
 **Length:** 7'0"  
 **Action:** Fast  
 **Pieces:** 2  
 **Tips included:** Medium Light tip + Medium tip  
 **Effective powers:** Medium Light or Medium depending on tip  
-**Line rating:** UNKNOWN  
-**Lure rating:** UNKNOWN  
+**Line rating:** 8-16 lb  
+**Lure rating:** 1/8-1/2 oz  
 **Likely role:** configurable casting rod; lighter bass/finesse casting with ML tip or general medium casting with M tip  
-**Pairing:** UNKNOWN; likely candidate pairing for Lew's Classic Pro Speed Spool SLP baitcaster  
-**Keep / replace / unsure:** UNKNOWN  
-**Notes:** This may reduce the need for additional general-purpose casting rods unless a target fills a specialized role.
+**Pairing:** UNKNOWN; Lew's Classic Pro Speed Spool SLP `CP1SHL` is available for testing  
+**Keep / replace / unsure:** UNSURE  
+**Notes:** Main rod markings confirmed by user: `C210`, 7'0", 2-piece, Medium, Fast, 8-16 lb, 1/8-1/2 oz. Interchangeable tips are marked only `M` and `ML`; separate tip-specific line/lure ratings are UNKNOWN. The rear handle is unusually long compared with the user's other rods: the reel seat is approximately 3-4 inches farther from the butt. During seated kayak casting the butt contacts the user's PFD and can feel like a false bite; holding the rod forward to avoid contact is fatiguing. Other non-DreamCatcher rods reportedly clear the PFD normally, so treat this as a Carbonite-specific ergonomic limitation rather than a general 7-foot rod issue.
 
 ### Fenwick HMG Walleye HMGW72ML-FS-2
 **Status:** OWNED / Worker benchmark  
