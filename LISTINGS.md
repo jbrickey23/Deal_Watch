@@ -4,6 +4,10 @@ This is the durable ledger for `Deal_Watch:Fishing:WorkerRod` and `Deal_Watch:Fi
 
 Newest observations first.
 
+## 2026-10-12 — Fishing watch coverage check
+
+No verifiable new or changed bargain; no alert. Public search results were unavailable for the target rod and reel queries. Direct eBay, Mercari, Seattle Craigslist, Facebook Marketplace, and ShopGoodwill searches could not be inspected. BidRush homepage and a Port Townsend auction were accessible, but auction item results did not render; EstateSales.net homepage was accessible, but searchable inventory did not render. OfferUp, GoodwillFinds, and specialty retailers were not meaningfully inspected. No live price, model, condition, or shipping could be verified; historical listings remain unconfirmed. Treat this as incomplete coverage, not a negative market finding.
+
 ## 2026-09-15 — BidRush-only source-validation run
 
 **Run result:** No confirmed buy alert. BidRush was searched directly for current fishing-domain targets and broader fishing terms. No exact Shimano Expride/Zodias/Cumara/Crucial/Poison Adrena, Fenwick Eagle/HMG, G. Loomis, or Shimano Stradic FM target was verified. Two active Port Ludlow mixed fishing lots surfaced as under-described estate-lot candidates.
