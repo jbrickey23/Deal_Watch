@@ -4,6 +4,29 @@ This is the durable ledger for `Deal_Watch:Fishing:WorkerRod` and `Deal_Watch:Fi
 
 Newest observations first.
 
+## 2026-10-23 — Fishing watch public-market scan
+
+**Run result:** No newly verified worthwhile or meaningfully changed listing met notification threshold. Public/indexed search, not exhaustive authenticated marketplace coverage. Previous September Facebook candidates remain unverified.
+
+### Observations
+
+- **Fishing:StradicReel — eBay ST2500HGFM auction:** eBay search/category index displayed a NEW Stradic FM 2500HG auction at approximately $164.50–$169.50 current bid, plus $6.50–$10.15 shipping, with snapshots differing as bids advance. Seller reese806 shown at 99.9% positive. Individual auction URL, exact live delivered cost, and full terms not confirmed. Full-size 2500 secondary to compact C2500 preference. **BENCHMARK / NO ALERT; provisional score 6/10.** https://www.ebay.com/shop/shimano-stradic?_nkw=shimano+stradic
+- **Fishing:StradicReel — ST1000HGFM:** eBay category results showed new/free shipping around $199.95–$205, matching earlier ~$202 benchmark; already owned. **UNCHANGED / NO ALERT.** https://www.ebay.com/b/Shimano-Stradic-1000/261030/bn_7023391793
+- **Fishing:WorkerRod — HMGW72ML-FS-2 $80 online offer:** https://www.fishinggearx.com/product/fenwick-hmg-walleye-spinning-rod-7-2-medium-light-2-piece-hmgw72ml-fs-2/ advertised $80/in stock versus $179.95 established retail benchmark (https://www.cabelas.com/shop/en/fenwick-hmg-walleye-spinning-rod-3765443). **REJECTED / UNVERIFIED MERCHANT**: category mislabels rod as Part Drag Kit; recently created domain, limited independent reputation; shipping, fulfillment, buyer protections unverified (https://gridinsoft.com/online-virus-scanner/url/fishinggearx-com). Duplicate of owned Worker. No actionable deal score.
+- **Fishing:WorkerRod — G. Loomis and Poison Adrena:** Used Loomis IMX 6'6 Medium Fast CASTING $380 delivered (https://www.ebay.com/itm/116872671644); NRX+ 843S Medium Heavy spinning $500+$24.70 (https://www.ebay.com/itm/186465765635); Poison Adrena 7'2 Medium casting $290+$24.70 (https://www.ebay.com/itm/186019322596). **REJECTED** for poor mission fit and/or price. New Poison Adrena PAD272MLB Medium Light Fast spinning $429.99 is one-piece, normal retail (https://www.ebay.com/itm/205582293955).
+- **Fishing:WorkerRod — discontinued HMG69ML-FS-2:** exact two-piece ML/F model appeared in Polish catalog but unavailable (https://wedkarski.com/52749-wedka-fenwick-hmg-spinning-205cm-3-18g.html). **NO ACTIVE OFFER.**
+- **Fishing:StradicReel — $110 used ST2500HGFM:** generic eBay category product summary only, not identifiable live item with seller, shipping, or condition. **UNVERIFIED / NOT ALERTED.**
+
+### Source coverage
+
+**SEARCHED via public/indexed results:** eBay (including individual item pages), OfferUp (individual item pages), Craigslist (indexed), Mercari (indexed), EstateSales.net (indexed, relevant recent sale ended), BidRush (indexed item pages, no active target), ShopGoodwill (indexed site, no target item), Facebook Marketplace (public index only), American Legacy Fishing (indexed), independent retailers/retail verification (Cabela's, The Rod Locker and others).
+
+**INACCESSIBLE / UNVERIFIED:** Facebook Marketplace authenticated/native results; eBay individual auction URL for the indexed bid; live shipping/checkout or photo verification for index-only results. Search coverage is not proof of market absence.
+
+**NOT SEARCHED:** GoodwillFinds direct inventory; exhaustive pawn/liquidator inventory.
+
+**Decision:** No notification; existing owned HMG Worker, Stradic 1000HG, Eagle Medium, and incoming Stradic C2500S make ordinary duplicates low priority.
+
 ## 2026-10-12 — Fishing watch coverage check
 
 No verifiable new or changed bargain; no alert. Public search results were unavailable for the target rod and reel queries. Direct eBay, Mercari, Seattle Craigslist, Facebook Marketplace, and ShopGoodwill searches could not be inspected. BidRush homepage and a Port Townsend auction were accessible, but auction item results did not render; EstateSales.net homepage was accessible, but searchable inventory did not render. OfferUp, GoodwillFinds, and specialty retailers were not meaningfully inspected. No live price, model, condition, or shipping could be verified; historical listings remain unconfirmed. Treat this as incomplete coverage, not a negative market finding.
