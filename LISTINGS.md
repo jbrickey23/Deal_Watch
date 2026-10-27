@@ -4,6 +4,18 @@ This is the durable ledger for `Deal_Watch:Fishing:WorkerRod` and `Deal_Watch:Fi
 
 Newest observations first.
 
+## 2026-10-27 — Fishing watch public-market scan
+
+**Run result:** NO ALERT. Full evidence and source coverage: [2026-10-27 Fishing run](RUN_HISTORY/2026-10-27-Fishing.md). New findings below are **not** worthwhile notification opportunities; previous observations preserved.
+
+- **Fishing:StradicReel — eBay `406725467628` / `ST1000HGFM`: PRICE DROP** from $205 (Oct 26) to **$199 shipped** (Oct 27), -$6/-2.9%. Seller mohanalyt 99.3% positive; new listing and 30-day seller-paid returns, but existing seller feedback documents location/provenance/tracking concerns. Already-owned 1000HG role; **6/10 / NO ALERT**. https://www.ebay.com/itm/406725467628
+- **Fishing:StradicReel — eBay `389971395695` / `ST2500HGFM`: OBSERVED / OUT OF STOCK.** $199.95 + $6.95 shipping = $206.90 before tax, seller Mr. Bass Fishing Lures 100% positive / ~85k feedback. Seller says new store-display reel without box; MPN `st2500hgfm` listed. Direct page **out of stock** and seller away until Oct 30. Full-size 2500 secondary; **6/10 price-only / NO ALERT**. https://www.ebay.com/itm/389971395695
+- **Fishing:StradicReel — OfferUp `258fa98c-dbb0-3094-83eb-416d8c3f2008`: NEW OBSERVATION / REJECTED.** Seattle used Stradic 3000, **$160** local; seller Sam 82 reviews, claims clean with 30lb braid. Exact FM generation and internals unverified; larger body conflicts with compact reel preference. **4/10 / NO ALERT**. https://offerup.com/item/detail/258fa98c-dbb0-3094-83eb-416d8c3f2008
+- **Fishing:WorkerRod — OfferUp `d2ab7039-b39c-300d-9308-5deaeb49b533`: NEW OBSERVATION / REJECTED.** Phoenix multi-item lot: actual Fenwick HMG 7' 2-piece **Ultralight moderate/slow $100**, not headline $80; seller Justice Bentzel 9 reviews, claims fantastic condition. Wrong power/action and distant pickup. **4/10 / NO ALERT**. https://offerup.com/item/detail/d2ab7039-b39c-300d-9308-5deaeb49b533
+- **Fishing:WorkerRod — eBay `177544071897`: NEW OBSERVATION / REJECTED.** G. Loomis E6X `851-2S WRR` 7'1" Light Fast 2pc, used A+ seller claim, **$285.95 + $64.68 = $350.63**, no returns. Light rather than ML; excessive delivered cost. **3/10 / NO ALERT**. https://www.ebay.com/itm/177544071897
+- **Fishing:StradicReel — unchanged benchmarks:** eBay `406418756536` 1000HG **$204 shipped**, `325987702948` 2500HG **$219.99 shipped**, Vanford `375731520682` C2500S **$232.99 shipped**. No alert.
+- **Fishing:WorkerRod — older OfferUp `57b139b2-4a7b-3e4a-b7ea-8b5673c1864b`: REJECTED.** Fresno listing posted ~2 years earlier; Zodias 7'6" Medium spinning $150, Expride XH/MH casting $200 each. Not a new, well-matched bargain. https://offerup.com/item/detail/57b139b2-4a7b-3e4a-b7ea-8b5673c1864b
+
 ## 2026-10-23 — Fishing watch public-market scan
 
 **Run result:** No newly verified worthwhile or meaningfully changed listing met notification threshold. Public/indexed search, not exhaustive authenticated marketplace coverage. Previous September Facebook candidates remain unverified.
