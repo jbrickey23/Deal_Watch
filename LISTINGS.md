@@ -4,6 +4,19 @@ This is the durable ledger for `Deal_Watch:Fishing:WorkerRod` and `Deal_Watch:Fi
 
 Newest observations first.
 
+## 2026-10-28 — Fishing watch public-market scan
+
+**Run result: NO ALERT.** Full evidence and source coverage: [2026-10-28 Fishing run](RUN_HISTORY/2026-10-28-Fishing.md). Direct pages and public/indexed results checked against Oct 27; some crawls older than observation date.
+
+- **Fishing:WorkerRod — eBay `137607197525`: NEW OBSERVATION / FAIR PRICE.** Shimano 26 Zodias `268ML-2`, new 6'8\" ML/F two-piece, 4–12g, 95g, seller YOKITACKLE 99.8% positive. **$229.99 shipped pre-tax** (import fees included); buyer-paid return shipping. Good spec but duplicates owned ML/F Worker, normal new-market price. **6/10 / NO ALERT**. https://www.ebay.com/itm/137607197525
+- **Fishing:WorkerRod — eBay `407167688989`: INDEXED LOW PRICE / OUT OF STOCK.** Same Zodias `268ML-2`, **$177.11 + $50 = $227.11 if restocked**, but direct page on Oct 28 explicitly **out of stock**; only $2.88 cheaper than available alternative. **6/10 conditional / NO ALERT**. https://www.ebay.com/itm/407167688989
+- **Fishing:StradicReel — eBay `287244515707`: NEW OBSERVATION / FAIR.** New JDM 24 Vanford `C2500S`, **$224.90 shipped** pre-tax; seller fishing_japan 99.6% positive, buyer pays returns, import fees included. $8.09 (3.5%) below known $232.99 Vanford, but not material and functional C2500S role already filled. Page crawl may lag. **7/10 price/fit; 6/10 strategic / NO ALERT**. https://www.ebay.com/itm/287244515707
+- **Fishing:StradicReel — known eBay benchmarks UNCHANGED:** `406725467628` Stradic `ST1000HGFM` **$199 shipped** with prior seller-provenance concern; `406418756536` `ST1000HGFM` **$204 shipped**; `325987702948` `ST2500HGFM` **$219.99 shipped**; `375731520682` Vanford `C2500S` **$232.99 shipped**. No alerts.
+- **Fishing:StradicReel — eBay `389971395695`: STILL OUT OF STOCK.** Display `ST2500HGFM` **$206.90 shipped if restocked**; seller away until Oct 30. **NO ALERT**. https://www.ebay.com/itm/389971395695
+- **Fishing:WorkerRod — eBay `155967473021`: REJECTED.** Used 22 Expride `265UL+-2`, **$199.89 + $35 = $234.89**; title says 2pc but item specifics say 1pc, UL+ rather than ML; **4/10**. https://www.ebay.com/itm/155967473021
+- **Fishing:WorkerRod — HMG low-price stores REJECTED / UNVERIFIED.** fishreelgo.com `HMGW72ML-FS-2` advertises $79.98; fishinggearx.com advertises $80, previously flagged for dubious category/young merchant. Neither independently verified for stock/fulfillment/transaction reliability; duplicate owned rod. No alert.
+
+
 ## 2026-10-27 — Fishing watch public-market scan
 
 **Run result:** NO ALERT. Full evidence and source coverage: [2026-10-27 Fishing run](RUN_HISTORY/2026-10-27-Fishing.md). New findings below are **not** worthwhile notification opportunities; previous observations preserved.
