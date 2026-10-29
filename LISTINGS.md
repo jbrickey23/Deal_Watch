@@ -4,6 +4,19 @@ This is the durable ledger for `Deal_Watch:Fishing:WorkerRod` and `Deal_Watch:Fi
 
 Newest observations first.
 
+## 2026-10-29 — Fishing watch public-market scan
+
+**Run result: NO ALERT.** Full evidence and coverage: [2026-10-29 Fishing run](RUN_HISTORY/2026-10-29-Fishing.md). Compared against Oct 28; no meaningful price/status change to known actionable listings.
+
+- **Fishing:WorkerRod — OfferUp `e7040a0f-4d17-3ada-9a07-225be02741ad`: NEWLY OBSERVED / REJECTED.** Fenwick HMG `HMG66M-FS` 6'6" Medium/Fast spinning, 1/4–3/4 oz, 8–14lb, used normal wear claimed, $115 rod price within multi-item ad (not $1,234 headline). Shipping and two-piece status unverified; seller in Pepperell MA, joined Jan 2026. Direct page shows posted ~14 days ago; not newly listed today. No independent blank/guide inspection. Medium slot duplicates owned Eagle; $115 used not an exceptional value. **4/10, NO ALERT.** https://offerup.com/item/detail/e7040a0f-4d17-3ada-9a07-225be02741ad
+- **Fishing:WorkerRod — OfferUp `0da9a275-e444-3030-9372-5a570e5431f3`: NEWLY OBSERVED / REJECTED.** $400 G. Loomis NRX 893C JWR, seller claims new. Despite “spinning” in title, 893C/description is 7'5" MH/XF **casting**; shipping unknown, 289 seller reviews, posted ~27 days ago. Wrong role and not a demonstrated bargain. **3/10, NO ALERT.** https://offerup.com/item/detail/0da9a275-e444-3030-9372-5a570e5431f3
+- **Fishing:StradicReel — eBay `134892205766`: NEWLY OBSERVED / FAIR PRICE.** JDM 23 Stradic `C2000SHG`, YOKITACKLE, $198.99 with free international shipping before tax, new claimed, 99.8% positive, 3 available on older crawl, buyer-paid international return. Listing last updated Sep 8, so not a new listing. Good compact form but overlaps owned 1000HG and does not materially beat ordinary new-import pricing. **6/10, NO ALERT.** https://www.ebay.com/itm/134892205766
+- **Fishing:WorkerRod — Mercari Japan `m84404421240`: HISTORICAL SOLD BENCHMARK.** Shimano Zodias 268ML-2 used, ¥6,800 domestic-shipped; direct page SOLD, listing >6 months old. Not actionable for US buyer. https://jp.mercari.com/item/m84404421240
+- **Fishing:StradicReel — Mercari Japan `m84939475753`: HISTORICAL SOLD BENCHMARK.** Shimano 19 Stradic 1000S, ¥11,000 domestic-shipped; SOLD, older generation and not FM target. https://jp.mercari.com/item/m84939475753
+- **Fishing:StradicReel — known eBay `406725467628`, `406418756536`, `325987702948`, `389971395695`, `375731520682`, `287244515707`: RECHECK / NO MATERIAL CHANGE.** Public prices remain $199 ST1000HGFM, $204 ST1000HGFM, $219.99 ST2500HGFM, $206.90 conditional ST2500HGFM **out of stock**, $232.99 Vanford C2500S, and $224.90 Vanford C2500S respectively; known seller/return caveats persist. **NO ALERT.**
+- **Fishing:WorkerRod — eBay `137607197525`: RECHECK / NO MATERIAL CHANGE.** 26 Zodias 268ML-2, $229.99 shipped new from Japan, owned-role overlap, normal import pricing, **6/10 NO ALERT**.
+
+
 ## 2026-10-28 — Fishing watch public-market scan
 
 **Run result: NO ALERT.** Full evidence and source coverage: [2026-10-28 Fishing run](RUN_HISTORY/2026-10-28-Fishing.md). Direct pages and public/indexed results checked against Oct 27; some crawls older than observation date.
