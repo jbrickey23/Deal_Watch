@@ -4,6 +4,19 @@ This is the durable ledger for `Deal_Watch:Fishing:WorkerRod` and `Deal_Watch:Fi
 
 Newest observations first.
 
+
+## 2026-10-30 — Fishing watch public-market scan
+
+**Run result: NO ALERT.** Evidence, source coverage and acquisition assessments: [2026-10-30 Fishing run](RUN_HISTORY/2026-10-30-Fishing.md). Compared with Oct 29; no qualifying new or materially improved actionable deal.
+
+- **Fishing:StradicReel — eBay `298099244577`: NEWLY OBSERVED / FAIR.** Used Shimano 23 Stradic `C2500SXG`, $152.98 **+ $30 shipping = $182.98 delivered pre-tax** from Japan; import fees included per page, 30-day seller-paid returns, seller sushi-bomber 100% positive. Photos/fields support model and box but not internal condition or spool lip; listed Very Good, last updated Oct 23 (not new today). Estimated used-value range ~$145–175 before shipping; overlap with owned C2500S. **6/10 / NO ALERT.** https://www.ebay.com/itm/298099244577
+- **Fishing:WorkerRod — OfferUp `c6300227-6b0f-36c0-ba95-fdd753b724dd`: NEWLY OBSERVED / REJECTED.** Fenwick Elite Tech Smallmouth 6'9" Medium 2-piece, $90 shown (previous $100 strikethrough), used, **pickup only San Diego**, 1 seller review, exact SKU/condition not verified. Duplicates Medium role, no practical shipping. **5/10 local, 3/10 acquisition fit / NO ALERT.** https://offerup.com/item/detail/c6300227-6b0f-36c0-ba95-fdd753b724dd
+- **Fishing:WorkerRod — Rod Locker used `ELB68M-XFS`: NEWLY OBSERVED / FAIR.** Fenwick Elite 6'8" Medium/Extra-Fast, used Very Good claimed, $169.99 before shipping, medium-slot overlap and unverified delivered cost. **5/10 / NO ALERT.** https://rodlocker.com/collections/used-spinning-rods
+- **Fishing:WorkerRod — OfferUp `74a27227-3225-380c-973b-3d6ebabd30c6` G. Loomis GL3 `PR844S` $195; `a9615c7a-4adc-378c-8743-a45a17558740` Cumara `76ML` $190; `c6a96be2-37ed-3c3d-87b2-10cb050fc635` GCX `853S` $180: ALL DIRECT PAGES **SOLD**.** Nonactionable; model/length/power also compromise fit. No alert.
+- **Fishing:StradicReel — known eBay `406725467628`, `406418756536`, `325987702948`, `389971395695`, `287244515707`: RECHECK / NO MATERIAL CHANGE.** 1000HG $199 shipped and $204 shipped; 2500HG $219.99 shipped; 2500HG display $206.90 **OUT OF STOCK**; Vanford C2500S $224.90 shipped (older crawl). Owned-role overlap; **NO ALERT**.
+- **Fishing:WorkerRod — known eBay `137607197525` 26 Zodias `268ML-2`: RECHECK / NO MATERIAL CHANGE.** $229.99 shipped, ordinary new import price, duplicates owned Worker. **6/10 / NO ALERT**.
+
+
 ## 2026-10-29 — Fishing watch public-market scan
 
 **Run result: NO ALERT.** Full evidence and coverage: [2026-10-29 Fishing run](RUN_HISTORY/2026-10-29-Fishing.md). Compared against Oct 28; no meaningful price/status change to known actionable listings.
