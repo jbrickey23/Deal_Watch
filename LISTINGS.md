@@ -4,6 +4,18 @@ This is the durable ledger for `Deal_Watch:Fishing:WorkerRod` and `Deal_Watch:Fi
 
 Newest observations first.
 
+## 2026-10-31 — Fishing watch public-market scan
+
+**Run result: NO ALERT.** [Full Oct 31 evidence and source coverage](RUN_HISTORY/2026-10-31-Fishing.md). Compared with Oct 30; no verified new or meaningfully improved actionable bargain. Direct pages overrule stale marketplace index rows.
+
+- **Fishing:StradicReel — eBay `325907495405`: NEWLY DOCUMENTED / FAIR.** The Little Deals new `ST1000HGFM`, **$214.99 + free shipping** before tax, 2 available/173 sold on page crawled Oct 31; 99.8% positive, seller-paid 30-day returns. Exact model supported by title and box photos, not by functional inspection; inferior to existing $199/$204 new offers and owned duplicate. **6/10 / NO ALERT.** https://www.ebay.com/itm/325907495405
+- **Fishing:StradicReel — eBay category-index `ST1000HGFM` $192 and `ST2500HGFM` $203: UNVERIFIED.** Public category results displayed these shipped new prices without stable verified listing IDs; cannot establish an actual price change in tracked items or checkout availability. Ordinary duplicate roles even if accurate. **6–7/10 provisional / NO ALERT.** https://www.ebay.com/b/Shimano-Stradic-1000/261030/bn_7023391793 ; https://www.ebay.com/b/Shimano-Stradic-Fj/261030/bn_7023429356
+- **Fishing:WorkerRod — eBay `800277984731`: HISTORICAL SOLD.** Fenwick HMG Graphite GFS 7' 2pc, listed Light/Fast 4–10 lb and 1/8–3/8 oz, seller claimed near mint. Search result looked available but direct page confirms **SOLD Aug 16 for $120 + $18 = $138**. No returns; 97.8% seller feedback. Not an active deal and not exact ML/F. **4/10 conditional / NO ALERT.** https://www.ebay.com/itm/800277984731
+- **Fishing:WorkerRod — eBay `188873305012` / `188940200713`: HISTORICAL ENDED.** HMG Carbon Veil 7' ML 2pc at **$175 + $17.99 = $192.99** (ended Sep 7) and 7' Medium 2pc at **$149 + $17.99 = $166.99** (ended Sep 21). Both shown in public category/index but direct pages explicitly ended; no returns and no actionable purchase. **5/10 and 4/10 conditional / NO ALERT.** https://www.ebay.com/itm/188873305012 ; https://www.ebay.com/itm/188940200713
+- **Fishing:WorkerRod — eBay `257723172896`: HISTORICAL SOLD / INDEX MISLEADING.** Fenwick World Class Walleye 7'2 Medium/Fast 2pc, seller claimed factory second; category index suggested cheap current auction, direct page says **SOLD Sep 11 for $182.55 + $9.95 = $192.50**. Not target ML and not actionable. https://www.ebay.com/itm/257723172896
+- **Fishing:StradicReel / WorkerRod — tracked prices/status UNCHANGED within available page crawl freshness:** eBay `406725467628` $199 shipped new `ST1000HGFM`, `406418756536` $204 shipped, `325987702948` $219.99 shipped new `ST2500HGFM`, `389971395695` display `ST2500HGFM` still **out of stock** at $206.90 if restocked; used JDM `C2500SXG` `298099244577` $182.98 delivered. No new qualifying deal.
+- **Fishing:WorkerRod — The Rod Locker and OfferUp public inventory:** Fenwick Elite `ELB68M-XFS` $169.99 (Medium role), World Class `WLDB71M-XFS` $399.99, GLX 843S $319.99 / 852S $469.99, and OfferUp Fenwick `HMG66M-FS` $115 (MA) not compelling against owned roles. Shipping, physical condition and exact target fit unverified. **4–6/10 / NO ALERT.**
+
 
 ## 2026-10-30 — Fishing watch public-market scan
 
