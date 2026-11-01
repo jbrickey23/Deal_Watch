@@ -4,6 +4,20 @@ This is the durable ledger for `Deal_Watch:Fishing:WorkerRod` and `Deal_Watch:Fi
 
 Newest observations first.
 
+## 2026-11-01 — Fishing watch public-market scan
+
+**Run result: NO ALERT.** [Nov 1 detailed evaluation and source coverage](RUN_HISTORY/2026-11-01-Fishing.md). The previously tracked FM 1000HG ($199/$204), 2500HG ($219.99), used C2500SXG ($182.98 delivered), and 26 Zodias 268ML-2 ($229.99 shipped) had no verified material improvement. Display 2500HG remained out of stock. Snapshot freshness is limited.
+
+- **Fishing:WorkerRod — OfferUp `c7a976cf-8b8b-35ff-87c4-7002051338dd`: NEWLY DOCUMENTED / NOT ALERT-WORTHY.** [G. Loomis NRX+ 872S JWR](https://offerup.com/item/detail/c7a976cf-8b8b-35ff-87c4-7002051338dd), Phoenix AZ, **$425 asking**, shipping unverified; seller claims mint/like-new 7'3 Medium one-piece, ~$685 new. One public image, ~61 seller reviews, no independent blank/guide inspection. Working used-value estimate ~$400–500 for a clean NRX+ in this class, not verified sold comps. **7/10 price-only, 5/10 mission-adjusted** due to length/pieces, pickup distance, and overlap.
+- **Fishing:WorkerRod — OfferUp `f0452720-a0fd-3aca-8e66-37ee2ae8b116`: NEWLY DOCUMENTED / FAIR.** [G. Loomis GCX Inshore 841](https://offerup.com/item/detail/f0452720-a0fd-3aca-8e66-37ee2ae8b116), Murrieta CA, **$225 asking**, shipping unverified. Seller claims 7' Moderate-Fast, 6–12 lb, 1/4–1/2 oz, full cork, 9.5/10; single public photo insufficient for condition or model verification. Working used-value estimate ~$175–230; **5/10**.
+- **Fishing:WorkerRod — eBay `189038506359`: INDEX STALE / ENDED.** [HMG Carbon Veil 7' ML two-piece](https://www.ebay.com/itm/189038506359), used, indexed at **$117 + $17.99 shipping**, but direct page confirms **ENDED Oct 9** due to listing error; no returns. **5/10 hypothetical, nonactionable**. Related [HMG medium/ML two-rod bundle `189038504467`](https://www.ebay.com/itm/189038504467) sold Oct 9 for $220 + $15.99.
+- **Fishing:WorkerRod — OfferUp `74a27227-3225-380c-973b-3d6ebabd30c6`: SOLD.** [G. Loomis PR844S GL3](https://offerup.com/item/detail/74a27227-3225-380c-973b-3d6ebabd30c6), Corona CA, $195, seller claimed new 7' Medium/Fast, but direct page shows **SOLD**. No alert.
+- **Fishing:StradicReel — eBay `377508807494`: INDEX-ONLY / INACCESSIBLE.** A category row suggested a new Stradic FM at **$159.81 free shipping**, but its individual item returned **404**; exact variant, condition, seller, and availability cannot be verified. Separate category-only FM 1000HG ~$192 and 2500HG ~$203 remain **unconfirmed**; do not conflate category price with tracked item price.
+- **Fishing:WorkerRod — Mercari US `m86428842574`: WRONG ROLE.** [Washington seller Fenwick 2-piece baitcasting rod](https://www.mercari.com/us/item/m86428842574/), $75 + $2.70 buyer fee, free shipping; seller claims light use, but no exact model and not spinning. **3/10**.
+- **Fishing:WorkerRod — The Rod Locker:** [used spinning category](https://rodlocker.com/collections/used-spinning-rods) reconfirmed Fenwick Elite ELB68M-XFS $169.99 and Loomis GLX 843S $319.99, 852S $469.99; no verified material change from Oct 31.
+
+**Source scope:** eBay, OfferUp, Rod Locker direct; Mercari US/Japan public index and selected direct; Facebook Marketplace, Craigslist, EstateSales.net, BidRush, ShopGoodwill, GoodwillFinds index-only attempted. Authenticated/native inventory and checkout not verified; physical stores and seller contact not searched. No alert-worthy change.
+
 ## 2026-10-31 — Fishing watch public-market scan
 
 **Run result: NO ALERT.** [Full Oct 31 evidence and source coverage](RUN_HISTORY/2026-10-31-Fishing.md). Compared with Oct 30; no verified new or meaningfully improved actionable bargain. Direct pages overrule stale marketplace index rows.
