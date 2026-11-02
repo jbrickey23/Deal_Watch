@@ -4,6 +4,19 @@ This is the durable ledger for `Deal_Watch:Fishing:WorkerRod` and `Deal_Watch:Fi
 
 Newest observations first.
 
+## 2026-11-02 — Fishing watch public-market scan
+
+**Run result: NO ALERT.** [Nov 2 detailed evaluations and source coverage](RUN_HISTORY/2026-11-02-Fishing.md). Tracked FM 1000HG ($199/$204/$214.99 shipped), FM 2500HG ($219.99 shipped), used JDM C2500SXG ($182.98 delivered) and Zodias 268ML-2 ($229.99 shipped) were unchanged in available direct snapshots; display-model 2500HG remains out of stock. Checkout inventory and destination-specific shipping unverified.
+
+- **Fishing:StradicReel — OfferUp `625b68d7-9671-3a8d-a296-a1d7482c534e`: NEWLY OBSERVED / CONDITIONAL.** [Stradic 1000HG-L](https://offerup.com/item/detail/625b68d7-9671-3a8d-a296-a1d7482c534e), Fontana CA, **$120 asking**, indexed as posted about Nov 1. Seller claims one-season use, minor scratches, smooth operation, sticker code UHP, no box. **Not verified as `ST1000HGFM`**, direct page blocked, shipping/condition/spool lip unverified. Working used range ~$100–150 depending on generation and condition, not sold comps. **6/10 conditional price, 4/10 mission fit** (owned duplicate, remote). **NO ALERT.**
+- **Fishing:WorkerRod — OfferUp `d4e7c661-5f39-3b28-98c3-a998e5151ed3`: NEWLY OBSERVED / REJECTED.** [Fenwick HMG Inshore](https://offerup.com/item/detail/d4e7c661-5f39-3b28-98c3-a998e5151ed3), Lake Clarke FL, **$150**, seller says 7' Medium Fast, small scratch; exact model/piece count/shipping unverified. Medium-slot overlap and distant. **4/10, NO ALERT.**
+- **Fishing:WorkerRod — OfferUp `6e290e86-c425-3aed-a576-1292c92379d3`: NEWLY OBSERVED / REJECTED.** [Fenwick HMG Inshore](https://offerup.com/item/detail/6e290e86-c425-3aed-a576-1292c92379d3), Medley FL, **$160**, seller says used once; exact specs, shipping and condition not verified. **4/10, NO ALERT.**
+- **Fishing:WorkerRod — KSL `82205172`: NEWLY DOCUMENTED / WRONG ROLE.** [Fenwick HMG Medium Heavy + Pflueger $130; Eagle Medium Fast + Pflueger $100](https://classifieds.ksl.com/listing/82205172), Eagle Mountain UT. Seller says excellent; exact SKUs/pieces and shipping unverified, likely local-only. **4/10, NO ALERT.**
+- **Fishing:WorkerRod — eBay category Fenwick Eagle `EA70M-FS-2`: INDEX-ONLY / FAIR.** Used 7' Medium/Fast 2pc, **$59.99 + ~$25.70–33.15 shipping = ~$85.69–93.14**; no stable individual listing verified. Not the ML Walleye Eagle target; duplicates owned Medium. **4/10, NO ALERT.**
+- **Fishing:WorkerRod — The Rod Locker:** [used spinning category](https://rodlocker.com/collections/used-spinning-rods) still lists Elite `ELB68M-XFS` $169.99, GLX `843S` $319.99, `852S` $469.99 and IMX-Pro `822S` $309.99; no qualifying discount.
+
+**Source scope:** Direct public eBay, Rod Locker and KSL pages; OfferUp and Mercari US/Japan via public index (OfferUp direct candidate pages inaccessible); Facebook Marketplace, Seattle Craigslist, EstateSales.net, BidRush, ShopGoodwill and GoodwillFinds domain-index searches only. Native/authenticated inventory, private messages, checkout, physical inspection and exhaustive international shops **NOT SEARCHED/NOT VERIFIED**. No alert-worthy change.
+
 ## 2026-11-01 — Fishing watch public-market scan
 
 **Run result: NO ALERT.** [Nov 1 detailed evaluation and source coverage](RUN_HISTORY/2026-11-01-Fishing.md). The previously tracked FM 1000HG ($199/$204), 2500HG ($219.99), used C2500SXG ($182.98 delivered), and 26 Zodias 268ML-2 ($229.99 shipped) had no verified material improvement. Display 2500HG remained out of stock. Snapshot freshness is limited.
