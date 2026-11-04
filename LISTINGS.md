@@ -4,6 +4,10 @@ This is the durable ledger for `Deal_Watch:Fishing:WorkerRod` and `Deal_Watch:Fi
 
 Newest observations first.
 
+## 2026-11-04 — Fishing watch public-market scan
+
+**Run result: NO ALERT.** [November 4 detailed checks, scores and coverage](RUN_HISTORY/2026-11-04-Fishing.md). Rechecked tracked Stradic FM 1000HG $199/$204 shipped, 2500HG $213 in stale snapshot (not a new verified drop), and Rod Locker used rods; no meaningful improvement. Newly investigated G. Loomis IMX SJR783 $235.53 delivered (wrong Medium-Heavy role, 3/10), IMX SJR721-21 $345 before shipping (short Light role, 3/10), and OfferUp HMG Inshore/Sedona 4000 bundle $170 (Medium-Heavy, remote, 3/10) are not acquisition opportunities. Source coverage: eBay/Rod Locker direct public pages; OfferUp, Mercari, Craigslist, Facebook Marketplace, EstateSales, BidRush, Goodwill and American Legacy limited indexed queries. Authenticated inventory, checkout, seller contact and physical condition not verified.
+
 ## 2026-11-02 — Fishing watch public-market scan
 
 **Run result: NO ALERT.** [Nov 2 detailed evaluations and source coverage](RUN_HISTORY/2026-11-02-Fishing.md). Tracked FM 1000HG ($199/$204/$214.99 shipped), FM 2500HG ($219.99 shipped), used JDM C2500SXG ($182.98 delivered) and Zodias 268ML-2 ($229.99 shipped) were unchanged in available direct snapshots; display-model 2500HG remains out of stock. Checkout inventory and destination-specific shipping unverified.
