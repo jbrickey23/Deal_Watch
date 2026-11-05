@@ -4,6 +4,11 @@ This is the durable ledger for `Deal_Watch:Fishing:WorkerRod` and `Deal_Watch:Fi
 
 Newest observations first.
 
+## 2026-11-05 — Fishing watch public-market scan
+
+**Run result: NO ALERT.** [November 5 detailed checks, scores and source coverage](RUN_HISTORY/2026-11-05-Fishing.md). Tracked FM 1000HG $199/$204 shipped and 2500HG $213 shipped unchanged within available public snapshots. Newly documented Fenwick HMGW72ML-FS $179.99 shipped is exact ML/F lure-rating match but lacks verified two-piece configuration and is not discounted against owned HMG Worker; historical HMG Bass 7' ML page ended Apr 23. Used Expride 265UL+-2 $234.89 delivered and Poison Adrena 267ML $368.99 delivered are poor role/price matches. Rod Locker category unchanged. eBay and Rod Locker direct/index searched; OfferUp, Mercari, Craigslist, Facebook Marketplace, EstateSales, BidRush, Goodwill and American Legacy public-index only. No checkout/physical verification.
+
+
 ## 2026-11-04 — Fishing watch public-market scan
 
 **Run result: NO ALERT.** [November 4 detailed checks, scores and coverage](RUN_HISTORY/2026-11-04-Fishing.md). Rechecked tracked Stradic FM 1000HG $199/$204 shipped, 2500HG $213 in stale snapshot (not a new verified drop), and Rod Locker used rods; no meaningful improvement. Newly investigated G. Loomis IMX SJR783 $235.53 delivered (wrong Medium-Heavy role, 3/10), IMX SJR721-21 $345 before shipping (short Light role, 3/10), and OfferUp HMG Inshore/Sedona 4000 bundle $170 (Medium-Heavy, remote, 3/10) are not acquisition opportunities. Source coverage: eBay/Rod Locker direct public pages; OfferUp, Mercari, Craigslist, Facebook Marketplace, EstateSales, BidRush, Goodwill and American Legacy limited indexed queries. Authenticated inventory, checkout, seller contact and physical condition not verified.
