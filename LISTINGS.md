@@ -4,6 +4,10 @@ This is the durable ledger for `Deal_Watch:Fishing:WorkerRod` and `Deal_Watch:Fi
 
 Newest observations first.
 
+## 2026-11-15 — Fishing watch public-market scan
+
+**Run result: NO ALERT.** [November 15 detailed checks, scores and source coverage](RUN_HISTORY/2026-11-15-Fishing.md). Tracked eBay ST1000HGFM #406418756536 **now $192 shipped**, down from November 14 ledger's $204 (a $12/5.9% change), with public page crawled November 14 and seller's listing last updated November 2; no exact date of repricing established. **6/10 price / 5/10 mission fit; owned duplicate, no alert.** Other ST1000HGFM $199 shipped unchanged. ST2500HGFM $213 vs $219.99 conflicting snapshot freshness, no verified new reduction. Rod Locker used-spinning category **63 products** unchanged; used Zodias 264ML-2 $350.63 delivered and other reviewed rods not attractive. Direct public eBay and Rod Locker pages; OfferUp, Mercari US, Craigslist, Facebook Marketplace, ShopGoodwill, EstateSales.net, BidRush, American Legacy Fishing, GoodwillFinds limited search-index only. No authenticated inventory, live checkout, physical inspection or ZIP 98053 shipping verification.
+
 ## 2026-11-05 — Fishing watch public-market scan
 
 **Run result: NO ALERT.** [November 5 detailed checks, scores and source coverage](RUN_HISTORY/2026-11-05-Fishing.md). Tracked FM 1000HG $199/$204 shipped and 2500HG $213 shipped unchanged within available public snapshots. Newly documented Fenwick HMGW72ML-FS $179.99 shipped is exact ML/F lure-rating match but lacks verified two-piece configuration and is not discounted against owned HMG Worker; historical HMG Bass 7' ML page ended Apr 23. Used Expride 265UL+-2 $234.89 delivered and Poison Adrena 267ML $368.99 delivered are poor role/price matches. Rod Locker category unchanged. eBay and Rod Locker direct/index searched; OfferUp, Mercari, Craigslist, Facebook Marketplace, EstateSales, BidRush, Goodwill and American Legacy public-index only. No checkout/physical verification.
