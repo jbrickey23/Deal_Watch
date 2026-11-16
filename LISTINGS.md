@@ -4,6 +4,10 @@ This is the durable ledger for `Deal_Watch:Fishing:WorkerRod` and `Deal_Watch:Fi
 
 Newest observations first.
 
+## 2026-11-16 — Fishing watch public-market scan
+
+**Run result: NO ALERT.** [November 16 detailed evaluations and source coverage](RUN_HISTORY/2026-11-16-Fishing.md). Direct public eBay pages: `ST1000HGFM` #406418756536 **$192 shipped**, unchanged from November 15; #406725467628 **$199 shipped**, unchanged; `ST2500HGFM` #325987702948 **$219.99 shipped** in older public snapshot, no verified new drop. Rod Locker used spinning category **63 products**, unchanged; no relevant price/role breakthrough. Fenwick HMG66M-FS OfferUp $115 in MA is wrong Medium slot; G. Loomis 9'8 steelhead bundle $400 in Tacoma wrong role. No new confirmed attractive HMG/Eagle, Shimano or Loomis Worker rod. Direct eBay and Rod Locker pages; OfferUp/Mercari/Craigslist and model-specific public search-index queries only. Facebook Marketplace, ShopGoodwill, GoodwillFinds, EstateSales.net, BidRush, American Legacy native inventory and physical stores not searched. Checkout to 98053, authenticity and physical condition unverified.
+
 ## 2026-11-15 — Fishing watch public-market scan
 
 **Run result: NO ALERT.** [November 15 detailed checks, scores and source coverage](RUN_HISTORY/2026-11-15-Fishing.md). Tracked eBay ST1000HGFM #406418756536 **now $192 shipped**, down from November 14 ledger's $204 (a $12/5.9% change), with public page crawled November 14 and seller's listing last updated November 2; no exact date of repricing established. **6/10 price / 5/10 mission fit; owned duplicate, no alert.** Other ST1000HGFM $199 shipped unchanged. ST2500HGFM $213 vs $219.99 conflicting snapshot freshness, no verified new reduction. Rod Locker used-spinning category **63 products** unchanged; used Zodias 264ML-2 $350.63 delivered and other reviewed rods not attractive. Direct public eBay and Rod Locker pages; OfferUp, Mercari US, Craigslist, Facebook Marketplace, ShopGoodwill, EstateSales.net, BidRush, American Legacy Fishing, GoodwillFinds limited search-index only. No authenticated inventory, live checkout, physical inspection or ZIP 98053 shipping verification.
